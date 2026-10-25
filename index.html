@@ -1,1 +1,261 @@
-<h1>加载中…</h1>
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>中美 · 中欧经贸政策情报 · 价值鉴别</title>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Noto+Sans+SC:wght@400;500;600;700&family=Noto+Serif+SC:wght@600;700&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#070605;--ink:#F2ECE1;--ink2:#B5ADA0;--ink3:#787166;--rule:rgba(212,175,55,.16);--grid:rgba(212,175,55,.09);--bd:rgba(212,175,55,.22);--gold:#E6C365;--goldbg:#27200F;--goldbd:rgba(212,175,55,.42);--amb:#D88B3E;--ambbg:#21150D;--ambbd:rgba(216,139,62,.36);--red:#C85A54;--redbg:#201110;--redbd:rgba(200,90,84,.35);--pill:rgba(20,18,15,.55);--act:#D9B34F;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+*{box-sizing:border-box;margin:0;padding:0}html{color-scheme:dark;scroll-behavior:smooth;scroll-padding-top:env(safe-area-inset-top,0px)}
+body{background:var(--bg);color:var(--ink);font-family:'Noto Sans SC',-apple-system,BlinkMacSystemFont,sans-serif;line-height:1.65;overflow-x:hidden;min-height:100vh}
+.mono{font-family:'JetBrains Mono',ui-monospace,monospace}.grot{font-family:'Space Grotesk','Noto Sans SC',sans-serif}
+.blob{position:fixed;z-index:0;border-radius:50%;background:#4A3818;opacity:.45;filter:blur(70px);pointer-events:none;animation:rise 24s linear infinite}
+.b1{width:380px;height:320px;left:-8%;bottom:-40vh}.b2{width:460px;height:380px;right:-10%;bottom:-50vh;animation-delay:-11s}
+@keyframes rise{0%{transform:translateY(0)}100%{transform:translateY(-170vh)}}
+.shell{position:relative;z-index:10;max-width:1120px;margin:0 auto;padding:0 28px 100px}
+.ribbon{display:flex;justify-content:space-between;align-items:center;gap:10px 16px;flex-wrap:wrap;padding:14px 0 12px;border-bottom:1px solid var(--rule);font-size:11px;color:var(--ink3);letter-spacing:.05em;position:relative}
+.ribbon:after{content:"";position:absolute;left:0;right:0;bottom:-3px;height:1px;background:#302713}
+.sync{display:inline-flex;align-items:center;gap:8px;font-family:'JetBrains Mono',monospace;color:#C89D54}
+.dot{width:7px;height:7px;border-radius:50%;background:#D4A359;box-shadow:0 0 8px rgba(212,163,89,.75);animation:pulse 3.6s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.45;transform:scale(.92)}50%{opacity:1;transform:scale(1.15)}}
+.track{position:absolute;left:0;right:0;bottom:-1px;height:1.5px;background:rgba(212,175,55,.08)}.fill{height:100%;width:0;background:linear-gradient(90deg,rgba(212,175,55,.2),var(--gold));transition:width 1s linear}
+.cbtn{font-family:'JetBrains Mono',monospace;font-size:10.5px;color:var(--gold);background:rgba(39,32,15,.65);border:1px solid rgba(212,175,55,.3);padding:3px 10px;border-radius:9999px;cursor:pointer;letter-spacing:.04em}.cbtn:hover{background:rgba(212,175,55,.2);border-color:#F2D680}
+.mast{padding:36px 0 22px}.title{font-family:'Space Grotesk',sans-serif;font-size:clamp(2rem,4.6vw,3.5rem);font-weight:700;letter-spacing:.04em;line-height:1.05;text-transform:uppercase}
+.sub{margin-top:12px;font-size:14.5px;color:var(--ink2);letter-spacing:.05em;display:flex;align-items:center;gap:11px;flex-wrap:wrap}.sub:before{content:"";width:18px;height:2px;background:var(--act)}
+.warn{margin-top:14px;font-size:12px;color:var(--amb);background:var(--ambbg);border:1px solid var(--ambbd);border-radius:8px;padding:8px 12px}
+.nav{position:sticky;top:0;z-index:100;padding:12px 0;background:linear-gradient(var(--bg) 70%,transparent)}
+.row{display:flex;align-items:center;gap:8px 10px;flex-wrap:wrap}.tabs{overflow-x:auto;scrollbar-width:none;margin-bottom:10px}.tabs::-webkit-scrollbar{display:none}
+.pill{height:38px;padding:0 20px;border-radius:9999px;background:var(--pill);color:var(--ink2);font-size:13.5px;font-weight:600;border:1px solid rgba(212,175,55,.18);cursor:pointer;white-space:nowrap;backdrop-filter:blur(6px);font-family:inherit}
+.pill.on,.chip.on{background:var(--act);color:#090806;border-color:#F2D680;font-weight:700;backdrop-filter:none}
+.chip{padding:5px 12px;font-size:11.5px;font-weight:600;border:1px solid rgba(212,175,55,.18);border-radius:9999px;background:var(--pill);color:var(--ink3);cursor:pointer;font-family:inherit}
+.inp{background:#090806;border:1px solid var(--bd);border-radius:9999px;padding:6px 14px;font-size:12.5px;color:var(--ink);font-family:inherit;outline:none;min-width:0}.inp:focus{border-color:var(--gold)}
+select.inp{border-radius:8px}
+.panel{border:1px solid var(--grid);border-radius:12px;background:rgba(17,15,12,.6);padding:18px 20px;margin:14px 0;display:none}.panel.open{display:block}
+.pgrid{display:grid;grid-template-columns:1fr 1fr;gap:24px}.h4{font-size:12px;letter-spacing:.12em;color:var(--gold);font-weight:700;margin-bottom:10px;text-transform:uppercase}
+.sl{display:grid;grid-template-columns:64px 1fr 44px;align-items:center;gap:10px;font-size:12.5px;color:var(--ink2);margin-bottom:6px}.sl input{accent-color:var(--act);width:100%}
+.note{font-size:11.5px;color:var(--ink3);line-height:1.8}
+.al{display:flex;gap:8px;align-items:baseline;font-size:12.5px;padding:6px 0;border-bottom:1px dashed var(--grid);cursor:pointer;color:var(--ink2)}.al:hover{color:var(--gold)}
+.k{font-size:10.5px;font-weight:700;padding:1px 8px;border-radius:9999px;white-space:nowrap}.k.hi{color:var(--gold);background:var(--goldbg);border:1px solid var(--goldbd)}.k.up{color:#52B788;background:#0f1d16;border:1px solid #1f4a35}.k.risk{color:var(--red);background:var(--redbg);border:1px solid var(--redbd)}
+.day{display:grid;grid-template-columns:150px 40px 1fr;border-bottom:1px solid var(--grid)}
+.dl{padding:30px 18px 30px 0;text-align:center}.dsk{position:sticky;top:130px}.dn{font-family:'Space Grotesk',sans-serif;font-size:68px;font-weight:700;line-height:.92;font-variant-numeric:tabular-nums}.dw{margin-top:10px;font-size:15px;font-weight:700;color:var(--ink2);letter-spacing:.08em}.ds{margin-top:7px;font-family:'JetBrains Mono',monospace;font-size:10px;color:var(--ink3);border-top:1px solid var(--grid);padding-top:3px;display:inline-block}
+.ax{position:relative;display:flex;justify-content:center}.ax:before{content:"";position:absolute;top:0;bottom:0;width:1px;background:#2A2112}.nd{width:9px;height:9px;border-radius:50%;background:#C6983A;position:sticky;top:152px;margin-top:40px;z-index:3;box-shadow:0 0 0 4px var(--bg),0 0 10px rgba(212,175,55,.45)}
+.dc{padding:14px 0 24px 22px}.card{padding:18px 0 20px;border-bottom:1px dashed rgba(212,175,55,.08)}.card:last-child{border-bottom:none}
+.card.rm{border-left:2px dashed var(--ambbd);padding-left:14px;margin-left:-16px;background:repeating-linear-gradient(135deg,rgba(216,139,62,.045) 0 8px,transparent 8px 16px)}
+.meta{display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin-bottom:9px}.ts{font-family:'JetBrains Mono',monospace;font-size:12.5px;color:var(--ink3)}
+.st{font-size:11px;font-weight:700;padding:3px 10px;border-radius:9999px}.st.c{background:var(--goldbg);color:var(--gold);border:1px solid var(--goldbd)}.st.d{background:var(--ambbg);color:var(--amb);border:1px solid var(--ambbd)}.st.x{background:var(--redbg);color:var(--red);border:1px solid var(--redbd)}
+.tp{font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--ink3);padding:2px 10px;border-radius:9999px;border:1px solid #292113}.tp.r{color:var(--amb);border-style:dashed;border-color:var(--ambbd)}
+.hl{font-family:'Noto Serif SC',serif;font-size:18.5px;font-weight:700;line-height:1.55;margin-bottom:6px;cursor:pointer}.hl:hover{color:var(--gold);text-decoration:underline;text-underline-offset:4px}
+.sm{font-size:14px;color:var(--ink2);line-height:1.85;text-align:justify;max-width:880px}
+.sc{display:flex;gap:18px;flex-wrap:wrap;margin-top:12px;align-items:center}.m{font-family:'JetBrains Mono',monospace;font-size:10.5px;color:var(--ink3);min-width:92px}.m b{color:var(--ink);font-size:12px}.bar{height:3px;background:rgba(212,175,55,.1);border-radius:2px;margin-top:3px;overflow:hidden}.bar i{display:block;height:100%}
+.comp{margin-left:auto;text-align:right;font-family:'Space Grotesk',sans-serif;font-size:26px;font-weight:700;line-height:1}.comp small{display:block;font-family:'JetBrains Mono',monospace;font-size:9.5px;color:var(--ink3);font-weight:400;margin-top:2px}
+.tags{margin-top:10px;display:flex;gap:6px;flex-wrap:wrap}.tg{font-size:11px;color:var(--ink2);border:1px solid var(--grid);border-radius:6px;padding:1px 8px}.tg.w{color:var(--red);border-color:var(--redbd);background:var(--redbg);font-weight:700}
+.empty{padding:60px 0;text-align:center;color:var(--ink3)}
+.mb{position:fixed;inset:0;z-index:300;background:rgba(5,4,3,.82);backdrop-filter:blur(8px);display:none;align-items:center;justify-content:center;padding:20px}.mb.open{display:flex}
+.mc{width:100%;max-width:900px;max-height:88vh;overflow:auto;background:#110F0C;border:1px solid rgba(212,175,55,.32);border-radius:12px;box-shadow:0 24px 60px rgba(0,0,0,.95);padding:22px 26px}
+.mc h3{font-family:'Noto Serif SC',serif;font-size:19px;line-height:1.5;margin:8px 0 4px}.sec{margin-top:18px}
+.tbl{width:100%;border-collapse:collapse;font-size:12.5px}.tbl td,.tbl th{padding:7px 6px;border-bottom:1px solid var(--grid);text-align:left;color:var(--ink2);font-weight:400}.tbl th{color:var(--ink3);font-size:11px}
+.fx{display:grid;grid-template-columns:70px 1fr auto;gap:10px;align-items:center;font-size:12.5px;color:var(--ink2);padding:5px 0}
+.ln{font-size:12px;color:var(--ink2);padding:3px 0 3px 14px;border-left:1px solid var(--bd);position:relative}.ln:before{content:"";position:absolute;left:-4px;top:11px;width:7px;height:7px;border-radius:50%;background:#C6983A}
+textarea.inp{width:100%;height:220px;border-radius:8px;font-family:'JetBrains Mono',monospace;font-size:11.5px}
+.foot{margin-top:40px;font-size:11.5px;color:var(--ink3);line-height:1.9;text-align:center}
+.loading-txt{opacity:.6;animation:pulse 2s infinite}
+@media(max-width:768px){.shell{padding:0 16px 80px}.day{grid-template-columns:70px 20px 1fr}.dl{padding:22px 4px 22px 0}.dn{font-size:40px}.dw{font-size:12px}.dc{padding:12px 0 20px 6px}.hl{font-size:16px}.pgrid{grid-template-columns:1fr}.comp{margin-left:0;text-align:left}.card.rm{margin-left:-8px}}
+</style></head><body>
+<i class="blob b1"></i><i class="blob b2"></i>
+<div class="shell">
+<div class="ribbon"><span class="sync"><i class="dot"></i><span id="sync">待轮询</span></span><span class="mono" id="clk"></span><span class="row"><button class="cbtn" data-a="poll">↻ 立即轮询</button><button class="cbtn" data-a="src">来源管理</button><button class="cbtn" data-a="exp">导出清单</button></span><div class="track"><div class="fill" id="fill"></div></div></div>
+<div class="mast"><h1 class="title">中美 · 中欧 经贸政策情报</h1><div class="sub">US · EU · China Trade Intel · 政策情报 · 价值鉴别<span class="mono" style="font-size:11px;color:var(--ink3)">可信度 × 重要性 × 影响力</span></div>
+<div class="warn" id="warn">⚠ 正在加载数据...</div></div>
+<div class="nav"><div class="row tabs" id="tabs"></div><div class="row"><span class="row" id="chips"></span><span class="row" style="margin-left:auto"><select class="inp" id="rgsel"><option value="全部">全部地区</option><option value="US">中美</option><option value="EU">中欧</option></select><select class="inp" id="rngsel"><option value="1">今天</option><option value="3">近3天</option><option value="7" selected>近7天</option><option value="30">近30天</option><option value="90">近3个月</option></select><select class="inp" id="sort"><option value="comp">按综合价值</option><option value="t">按时间</option><option value="imp">按重要性</option><option value="inf">按影响力</option><option value="c">按可信度</option></select><input class="inp" id="q" placeholder="搜索 关键词/机构/行业"><button class="cbtn" data-a="pn">⚙ 模型与预警</button></span></div></div>
+<div class="panel" id="pn"><div class="pgrid"><div><div class="h4">评分权重（自动归一）</div><div id="sls"></div><div class="sl"><span>预警阈值</span><input type="range" id="th" min="40" max="95" value="70"><b class="mono" id="thv">70</b></div>
+<div class="note" style="margin-top:8px"><b style="color:var(--ink2)">机制：</b>① 传闻无官方原文且独立来源&lt;2，可信度封顶 55，不可进入“已确认”，超 72 小时未印证则“逾期失效”；⑦ T+0 首发保护：官方原文发布 30 分钟内可信度下限 90；⑧ 同一 root_source 的转载不计独立来源；② 可信度&lt;40 时综合分×0.6（闸门，防噪声刷屏）；③ 影响力按 72 小时半衰期衰减（下限 0.4）；④ 官方辟谣或人工标记 → 封顶 15、疑似谣言；⑤ 转载同一匿名源不算独立来源；⑥ 人工校正写入日志并回流评分。</div></div>
+<div><div class="h4">预警面板 <span class="mono" id="alc" style="color:var(--ink3)"></span></div><div id="als"></div></div></div></div>
+<div id="feed"></div>
+<div class="foot">时间同时显示北京时间 / 华盛顿时间 · 机器翻译内容将标注“机器翻译” · 仅保留摘要与原文链接，遵守 robots、平台条款与版权<br>不绕过登录/验证码/付费墙，不采集私人群聊 · 所有评分均可解释，可人工校正</div></div>
+<div class="mb" id="mb"><div class="mc" id="mc"></div></div>
+<script>
+const $=s=>document.querySelector(s),NOW=()=>Date.now(),TIER=['官方原文','官方转载','主流媒体','财经社区','匿名社交'],TB=[95,85,72,50,30];
+let W={c:30,i:40,f:30},TH=70,tab='all',dom='全部',rg='全部',rng=90,lim=200,sort='comp',q='',adj={},log=[],last=NOW(),left=20;
+
+const DOMS=['全部','关税','出口管制','投资限制','科技供应链','农业','航运能源','贸易救济','政策动态'];
+const TABS=[['all','全部事件'],['ok','已确认 / 高可信'],['chk','待核实'],['rm','传闻线索区'],['bad','低可信 / 疑似谣言']];
+
+const SRC=`CN-01|商务部 MOFCOM|T1 官方|5|98-100|出口管制、不可靠实体清单、贸易救济；周四发布会期加密至2分钟
+CN-02|财政部 / 关税税则委员会|T1 官方|10|98-100|加征/豁免清单、税率调整
+US-01|Federal Register|T1 官方|5|100|预披露与正式刊登的关税/管制/制裁规则
+US-02|商务部 BIS|T1 官方|5|98-100|实体清单、UVL、EAR 出口管制规则
+EU-01|欧盟委员会（贸易总司 / 新闻角）|T1 官方|5|98-100|贸易救济调查、反补贴/反倾销公告、对华谈判声明`.split('\n').map(l=>{const a=l.split('|');return{id:a[0],n:a[1],g:a[2],iv:+a[3],b:a[4],note:a[5],on:true}});
+const ADAPTERS={official:async()=>[],media:async()=>[],social:async()=>[]}; 
+const F='m,ty,cn,dm,ti,su,tier,ind,doc,an,hi,lv,sc,nv,mk,re,ve,cx,mr,fl,sr,sec'.split(',');
+let D=[];
+let SAMPLE=[];
+let REAL=false;
+
+// 翻译逻辑
+const transCache = new Map();
+const isEnglish = (str) => /[a-zA-Z]{4,}/.test(str) && !/[\u4e00-\u9fa5]/.test(str); 
+async function translateText(text) {
+  if(!text || !isEnglish(text)) return text;
+  if(transCache.has(text)) return transCache.get(text);
+  try {
+    const res = await fetch(`https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=zh-CN&dt=t&q=${encodeURIComponent(text)}`);
+    const data = await res.json();
+    const translated = data[0].map(item => item[0]).join('');
+    transCache.set(text, translated);
+    return translated;
+  } catch(e) { return text; }
+}
+async function autoTranslateData() {
+  let updated = false;
+  for(const e of D) {
+    if(!e.ti_zh && isEnglish(e.ti)) {
+      e.ti_zh = '翻译中...'; updated = true;
+      translateText(e.ti).then(zh => { e.ti_zh = zh; render(); });
+    }
+    if(!e.su_zh && isEnglish(e.su)) {
+      e.su_zh = '摘要翻译中...'; updated = true;
+      translateText(e.su).then(zh => { e.su_zh = zh; render(); });
+    }
+  }
+  if(updated) render();
+}
+
+// 真实数据拉取适配器
+async function loadRealData() {
+  $('#sync').textContent='拉取中...';
+  try {
+    const res = await fetch('./news.json?t=' + NOW());
+    const data = await res.json();
+    const n = NOW();
+    
+    if(data.events && data.events.length > 0) {
+      window.__EVENTS__ = {
+        generated: new Date(data.updated_at).toLocaleString(),
+        events: data.events.map(e => {
+          const d = new Date(e.date || n);
+          const m = isNaN(d.getTime()) ? 60 : Math.max(0, (n - d.getTime()) / 60000);
+          
+          let ty = 'media', tier = 2, cn = 'BOTH';
+          if (e.source.includes('商务部') || e.source.includes('BIS') || e.source.includes('Federal') || e.source.includes('欧盟')) { ty = 'official'; tier = 0; }
+          if (e.source.includes('欧盟') || e.source.includes('EU')) cn = 'EU';
+          else if (e.source.includes('美国') || e.source.includes('BIS') || e.source.includes('Federal')) cn = 'US';
+          else if (e.source.includes('商务部') || e.source.includes('中国')) cn = 'CN';
+
+          return {
+            ts: d.getTime(),
+            rg: cn,
+            dm: '政策动态',
+            ti: e.title,
+            su: e.summary,
+            ty: ty,
+            tier: tier,
+            ind: 1, doc: ty === 'official' ? 1 : 0, an: 0, hi: 0.9,
+            lv: 85, sc: 85, nv: 80, mk: 70,
+            re: 70, ve: 70, cx: 70, mr: 60,
+            fl: [],
+            sec: '综合',
+            sr: [{n: e.source, t: tier, o: 0, u: e.url}]
+          };
+        })
+      };
+      REAL = true;
+    } else {
+      REAL = false;
+    }
+  } catch(err) {
+    console.error(err);
+    REAL = false;
+  }
+  
+  // 重新装载
+  D.length = 0;
+  if(!REAL){ 
+    $('#warn').innerHTML='⚠ 暂无数据，请确保 GitHub Actions 已成功生成 news.json';
+    return; 
+  }
+  
+  const n=NOW();
+  window.__EVENTS__.events.slice().sort((a,b)=>a.ts-b.ts).forEach((x,i)=>{
+    x.id=i+1; x.m=Math.max(0,(n-x.ts)/6e4); x.cn=x.rg; D.push(x);
+  });
+  
+  $('#warn').innerHTML='✔ 真实数据 · 更新于 ' + window.__EVENTS__.generated + ' · 共 ' + D.length + ' 条（规则自动聚合与估算评分，非人工核实）';
+  
+  render();
+  if(!window.__hasInit) {
+    tick(); setInterval(tick, 1000); autoTranslateData();
+    window.__hasInit = true;
+  }
+}
+
+function calc(e){const a=adj[e.id]||{c:0,deb:0},R=[];
+let c=TB[e.tier]*.35+Math.min(e.ind,4)*25*.25+(e.doc?100:0)*.15+e.hi*15+(1-e.an)*10;
+if(e.ty==='rumor'&&e.ind<2&&!e.doc){c=Math.min(c,55);R.push('传闻封顶：独立来源&lt;2 且无官方原文 → 可信度上限 55，不得升级')}
+if(e.doc&&e.tier===0&&e.m<=30){c=Math.max(c,90);R.push('T+0 首发保护：官方原文发布 30 分钟内可信度下限 90')}
+if(e.an>.6){c-=15;R.push('传播异常（情绪化/截图无来源）→ −15')}
+if(e.fl.includes('circ')){c-=10;R.push('疑似循环引用（转述同一匿名源）→ −10')}
+if(a.c){c+=a.c;R.push('人工校正 '+(a.c>0?'+':'')+a.c)}
+const deny=e.fl.includes('deny')||a.deb;if(deny){c=Math.min(c,15);R.push('官方辟谣/人工标记 → 可信度上限 15')}
+c=Math.max(0,Math.min(100,Math.round(c)));
+const st=deny?'疑似谣言':e.ty==='rumor'&&e.ind<2&&e.m>4320?'逾期失效':c>=90&&e.doc?'已确认':c>=75?'高可信':c>=50||(e.ty==='rumor'&&c>=30)?'待核实':c>=30?'低可信':'疑似谣言';
+const imp=e.lv*.35+e.sc*.25+e.nv*.2+e.mk*.2,dec=Math.max(.4,Math.pow(.5,e.m/60/72)),inf=(e.re*.35+e.ve*.3+e.cx*.2+e.mr*.15)*dec,s=(W.c+W.i+W.f)||1;
+let comp=(c*W.c+imp*W.i+inf*W.f)/s;if(c<40){comp*=.6;R.push('可信度闸门：&lt;40 时综合分 ×0.6')}
+comp=Math.round(comp);const T=[];
+if(e.ty==='official'&&comp>=75)T.push('高价值官方事件');if(e.mk>=75)T.push('市场敏感事件');if(e.nv>=75&&e.lv>=70)T.push('政策转向信号');
+if(inf>=60&&c<75)T.push('高传播待核实');if(comp<35)T.push('低价值噪声');
+return{c,imp:Math.round(imp),inf:Math.round(inf),comp,st,R,T,dec}}
+const col=v=>v>=75?'var(--gold)':v>=50?'var(--amb)':'var(--red)',sc=s=>s==='已确认'||s==='高可信'?'c':s==='疑似谣言'||s==='低可信'||s==='逾期失效'?'x':'d';
+const pad=n=>String(n).padStart(2,'0'),hm=(t,z)=>new Intl.DateTimeFormat('zh-CN',{hour:'2-digit',minute:'2-digit',hourCycle:'h23',timeZone:z}).format(t);
+const bar=(l,v)=>`<div class="m">${l} <b>${v}</b><div class="bar"><i style="width:${v}%;background:${col(v)}"></i></div></div>`;
+function pass(e,r){const rm=e.ty==='rumor';
+if(tab==='all'&&rm)return 0;if(tab==='ok'&&!['已确认','高可信'].includes(r.st))return 0;if(tab==='chk'&&r.st!=='待核实')return 0;if(tab==='rm'&&!rm)return 0;if(tab==='bad'&&!['低可信','疑似谣言','逾期失效'].includes(r.st))return 0;
+if(dom!=='全部'&&e.dm!==dom)return 0;if(rg!=='全部'&&e.rg!==rg)return 0;if(e.m>rng*1440)return 0;if(q&&!(e.ti+e.su+e.sec+e.dm+e.sr.map(x=>x.n).join()).toLowerCase().includes(q))return 0;return 1}
+function list(){return D.map(e=>({e,r:calc(e)})).filter(x=>pass(x.e,x.r)).sort((a,b)=>sort==='t'?a.e.m-b.e.m:sort==='comp'?b.r.comp-a.r.comp:b.r[sort]-a.r[sort])}
+function render(){
+$('#tabs').innerHTML=TABS.map(t=>`<button class="pill ${tab===t[0]?'on':''}" data-t="${t[0]}">${t[1]}</button>`).join('');
+$('#chips').innerHTML=DOMS.map(d=>`<button class="chip ${dom===d?'on':''}" data-d="${d}">${d}</button>`).join('');
+const L0=list(),L=L0.slice(0,lim),g={};L.forEach(x=>{const d=new Date(NOW()-x.e.m*6e4),k=d.toDateString();(g[k]=g[k]||{d,a:[]}).a.push(x)});
+$('#feed').innerHTML=L.length?Object.values(g).map(G=>`<div class="day"><div class="dl"><div class="dsk"><div class="dn">${pad(G.d.getDate())}</div><div class="dw">星期${'日一二三四五六'[G.d.getDay()]}</div><div class="ds">${G.d.getMonth()+1}月 · ${G.a.length} 条</div></div></div><div class="ax"><div class="nd"></div></div><div class="dc">${G.a.map(card).join('')}</div></div>`).join(''):'<div class="empty">当前筛选下没有事件</div>';if(L0.length>lim)$('#feed').insertAdjacentHTML('beforeend','<div class="empty"><button class="cbtn" data-a="more">显示更多（还有 '+(L0.length-lim)+' 条）</button></div>');
+if(!$('#sls').children.length)$('#sls').innerHTML=[['c','可信度'],['i','重要性'],['f','影响力']].map(x=>`<div class="sl"><span>${x[1]}</span><input type="range" min="0" max="100" value="${W[x[0]]}" data-w="${x[0]}"><b class="mono"></b></div>`).join('');
+['c','i','f'].forEach((k,i)=>$('#sls').querySelectorAll('b')[i].textContent=Math.round(W[k]/((W.c+W.i+W.f)||1)*100)+'%');
+const A=alerts();$('#alc').textContent='· '+A.length+' 条';$('#als').innerHTML=A.slice(0,6).map(x=>`<div class="al" data-o="${x.e.id}"><span class="k ${x.k}">${x.t}</span><span>${(x.e.ti_zh||x.e.ti).replace(/^【[^】]*】/,'')}</span></div>`).join('')||'<div class="note">暂无预警</div>';
+}
+function card(x){const{e,r}=x,rm=e.ty==='rumor',d=new Date(NOW()-e.m*6e4);
+const title = e.ti_zh || e.ti;
+const summary = e.su_zh || e.su;
+return`<div class="card ${rm?'rm':''}"><div class="meta"><span class="ts">${pad(d.getHours())}:${pad(d.getMinutes())}</span><span class="st ${sc(r.st)}">${r.st}</span><span class="tp ${rm?'r':''}">${rm?'传闻 · 未证实':e.ty==='official'?'官方':'媒体'}</span><span class="tp">${e.rg==='EU'?'中欧':'中美'}</span><span class="tp">${e.dm}</span><span class="tp">交叉验证 ${Math.min(e.ind,e.sr.length)} 源</span></div>
+<div class="hl" data-o="${e.id}">${title}</div><div class="sm ${title==='翻译中...'?'loading-txt':''}">${summary}</div>
+<div class="sc">${bar('可信度',r.c)}${bar('重要性',r.imp)}${bar('影响力',r.inf)}<div class="comp" style="color:${col(r.comp)}">${r.comp}<small>综合价值</small></div></div>
+<div class="tags">${r.T.map(t=>`<span class="tg ${t==='高传播待核实'?'w':''}">${t==='高传播待核实'?'⚠ 高传播 / 未证实 / 谨慎对待':t}</span>`).join('')}${e.sec.split(',').map(s=>`<span class="tg">#${s}</span>`).join('')}</div></div>`}
+function alerts(){const o=[];D.forEach(e=>{const r=calc(e),k={};const add=(t,x)=>{if(!k[t]){k[t]=1;o.push({e,k:t,t:x,c:r.comp})}};
+if(r.st!=='疑似谣言'){if(r.comp>=TH)add('hi','综合分≥'+TH);if(r.T.includes('政策转向信号'))add('hi','政策转向');if(e.fl.includes('up'))add('up','可信度升级');if(r.T.includes('高传播待核实'))add('risk','高传播/未证实')}
+if(e.fl.includes('deny'))add('risk','官方辟谣')});return o.sort((a,b)=>b.c-a.c)}
+function open(h){$('#mc').innerHTML=h;$('#mb').classList.add('open')}
+function detail(id){const e=D.find(x=>x.id===id),r=calc(e),rm=e.ty==='rumor',a=adj[id]||{c:0,deb:0},S=[...e.sr].sort((x,y)=>x.o-y.o),t0=NOW()-e.m*6e4;
+const title = e.ti_zh || e.ti;
+const summary = e.su_zh || e.su;
+const fx=(n,v,d)=>`<div class="fx"><span>${n}</span><span class="note">${d}</span><b class="mono" style="color:${col(v)}">${v}</b></div>`;
+open(`<div class="row"><span class="st ${sc(r.st)}">${r.st}</span><span class="tp ${rm?'r':''}">${rm?'传闻 · 未证实':e.ty==='official'?'官方':'媒体'}</span><span class="tp">${e.dm}</span><span class="cbtn" style="margin-left:auto" data-a="x">关闭 ✕</span></div><h3>${title}</h3><div class="sm">${summary}</div>
+<div class="sec"><div class="h4">评分解释 · 综合 ${r.comp}</div>${fx('可信度',r.c,'来源层级35 · 独立来源25 · 官方原文15 · 历史准确率15 · 传播异常10')}${fx('重要性',r.imp,'政策层级35 · 影响范围25 · 先例性20 · 市场敏感20')}${fx('影响力',r.inf,'广度35 · 速度30 · 跨语言20 · 市场关联15 · 时间衰减×'+r.dec.toFixed(2))}
+<div class="note">综合 = (${r.c}×${W.c} + ${r.imp}×${W.i} + ${r.inf}×${W.f}) ÷ ${W.c+W.i+W.f}（权重可在“模型与预警”调整）</div>${r.R.map(x=>`<div class="note" style="color:var(--amb)">▸ ${x}</div>`).join('')}</div>
+<div class="sec"><div class="h4">多源对比 · ${S.length} 条</div><table class="tbl"><tr><th>来源</th><th>层级</th><th>北京时间</th><th>链接</th></tr>${S.map(s=>`<tr><td>${s.n}</td><td>${TIER[s.t]}</td><td class="mono">${hm(t0+s.o*6e4,'Asia/Shanghai')}</td><td>${s.u?`<a href="${s.u}" target="_blank" rel="noopener noreferrer" style="color:var(--gold)">打开原文</a>`:'<span class="note">示例·占位</span>'}</td></tr>`).join('')}</table></div>
+<div class="sec"><div class="h4">时间线（北京 / 华盛顿）</div>${S.map((s,i)=>`<div class="ln"><span class="mono">${hm(t0+s.o*6e4,'Asia/Shanghai')} / ${hm(t0+s.o*6e4,'America/New_York')}</span>　${i?'':'首次出现：'}${s.n}${i&&s.t<2?'（官方跟进，可信度重算）':''}</div>`).join('')}</div>
+<div class="sec"><div class="h4">传播指标 · 涉及行业</div><div class="note">广度 ${e.re} · 速度 ${e.ve} · 跨语言 ${e.cx} · 市场关联 ${e.mr} ｜ 行业：${e.sec} ｜ 机器翻译内容将标注“机器翻译”</div></div>
+<div class="sec"><div class="h4">人工校正（回流模型）</div><div class="row"><button class="cbtn" data-a="adj" data-id="${id}" data-v="10">可信度 +10</button><button class="cbtn" data-a="adj" data-id="${id}" data-v="-10">可信度 −10</button><button class="cbtn" data-a="adj" data-id="${id}" data-v="deb">标记辟谣/噪声</button><button class="cbtn" data-a="adj" data-id="${id}" data-v="0">重置</button></div>
+<div class="note" style="margin-top:6px">${log.filter(l=>l.id===id).map(l=>l.t).join('<br>')||'暂无校正记录'}</div></div>`)}
+function srcModal(){open(`<div class="row"><div class="h4" style="margin:0">来源管理 · 白名单</div><span class="cbtn" style="margin-left:auto" data-a="x">关闭 ✕</span></div><div class="note" style="margin-top:6px">共 ${SRC.length} 个信源，带 ★ 为本次查漏新增。</div><div style="overflow-x:auto"><table class="tbl" style="margin-top:8px;min-width:720px"><tr><th>启用</th><th>编号</th><th>来源</th><th>层级</th><th>间隔(分)</th><th>基准分</th><th>监控看点</th></tr>${SRC.map((s,i)=>`<tr><td><input type="checkbox" data-s="${i}" ${s.on?'checked':''}></td><td class="mono">${s.id}</td><td>${s.n}</td><td>${s.g}</td><td><input class="inp" style="width:56px;padding:3px 8px" type="number" min="1" value="${s.iv}" data-v="${i}"></td><td class="mono">${s.b}</td><td>${s.note}</td></tr>`).join('')}</table></div>
+<div class="note" style="margin-top:10px">建议轮询：官方 5–15 分钟 · 主流媒体 5–10 分钟 · 公开社区 1–5 分钟，热点期动态加速；失败重试、断点续采、去重、语言识别均由后端完成。历史准确率随人工校正与最终证实结果滚动更新，并反哺“可信度”。仅采集公开内容，遵守 robots 与平台条款。</div>`)}
+function expModal(){const L=list();open(`<div class="row"><div class="h4" style="margin:0">导出事件清单（${L.length} 条）</div><span class="cbtn" style="margin-left:auto" data-a="x">关闭 ✕</span></div><textarea class="inp" id="ex" readonly style="margin-top:10px">${['状态\t综合\t可信\t重要\t影响\t标题\t来源'].concat(L.map(({e,r})=>[r.st,r.comp,r.c,r.imp,r.inf,e.ti_zh||e.ti,e.sr.map(s=>s.n).join('；')].join('\t'))).join('\n')}</textarea><div class="row" style="margin-top:8px"><button class="cbtn" data-a="cp">复制全部（可粘贴到表格）</button></div>`)}
+
+async function poll(){last=NOW(); if(REAL){await loadRealData();left=20;return;} left=20; render();}
+
+document.addEventListener('click',ev=>{const t=ev.target.closest('[data-t],[data-d],[data-o],[data-a]');
+if(ev.target.id==='mb'){$('#mb').classList.remove('open');return}if(!t)return;const D_=t.dataset;
+if(D_.t){tab=D_.t;render()}else if(D_.d){dom=D_.d;render()}else if(D_.o)detail(+D_.o);
+else if(D_.a==='x')$('#mb').classList.remove('open');else if(D_.a==='poll')poll();else if(D_.a==='more'){lim+=200;render()}else if(D_.a==='pn')$('#pn').classList.toggle('open');else if(D_.a==='src')srcModal();else if(D_.a==='exp')expModal();
+else if(D_.a==='cp'){const x=$('#ex');x.select();try{document.execCommand('copy')}catch(err){}}
+else if(D_.a==='adj'){const id=+D_.id,v=D_.v,a=adj[id]=adj[id]||{c:0,deb:0};if(v==='deb'){a.deb=1;log.push({id,t:'标记辟谣/噪声 · '+hm(NOW(),'Asia/Shanghai')})}else if(v==='0'){adj[id]={c:0,deb:0};log.push({id,t:'重置校正'})}else{a.c+=+v;log.push({id,t:'可信度 '+(v>0?'+':'')+v+' · '+hm(NOW(),'Asia/Shanghai')})}render();detail(id)}});
+document.addEventListener('input',ev=>{const t=ev.target;if(t.dataset.w){W[t.dataset.w]=+t.value;render();$('#pn').classList.add('open')}else if(t.id==='th'){TH=+t.value;$('#thv').textContent=TH;render();$('#pn').classList.add('open')}else if(t.id==='q'){q=t.value.trim().toLowerCase();render()}else if(t.id==='sort'){sort=t.value;render()}else if(t.id==='rgsel'){rg=t.value;render()}else if(t.id==='rngsel'){rng=+t.value;lim=200;render()}else if(t.dataset.s)SRC[+t.dataset.s].on=t.checked;else if(t.dataset.v)SRC[+t.dataset.v].iv=+t.value});
+document.addEventListener('keydown',ev=>{if(ev.key==='Escape')$('#mb').classList.remove('open')});
+
+function tick(){const s=Math.round((NOW()-last)/1000);$('#sync').textContent='实时 · 上次轮询 '+hm(last,'Asia/Shanghai')+' · '+left+'s 后下一轮';$('#fill').style.width=((20-left)/20*100)+'%';$('#clk').textContent='北京 '+hm(NOW(),'Asia/Shanghai')+'  /  华盛顿 '+hm(NOW(),'America/New_York');if(--left<=0)poll()}
+
+// 初始化启动
+loadRealData();
+</script></body></html>
