@@ -1,30 +1,566 @@
 {
-  "updated_at": "2026-10-25T09:06:31.073150+00:00",
-  "count": 3,
+  "updated_at": "2026-10-25T09:22:41.699126+00:00",
+  "count": 70,
   "events": [
     {
       "id": "https://www.federalregister.gov/documents/2026/09/30/2026-20058/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
-      "source": "美国BIS/Federal Register",
+      "source": "美国BIS (Federal Register)",
       "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Five-Year Records Retention Requirement for Export Transactions and Boycott Actions",
       "summary": "",
       "url": "https://www.federalregister.gov/documents/2026/09/30/2026-20058/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
       "date": "Wed, 30 Sep 2026 04:00:00 GMT"
     },
     {
+      "id": "https://www.scmp.com/economy/policy/article/3371666/china-moving-past-gdp-first-mindset-can-local-officials-get-programme",
+      "source": "SCMP",
+      "title": "China is moving past a GDP-first mindset. Can local officials get with the programme?",
+      "summary": "Plenary sessions of the Central Committee, the upper echelon of China’s ruling Communist Party, are major events on the country’s political calendar. This month’s edition, the fifth plenum, is attracting even more attention as the world’s second-largest economy takes on a more prominent role in glob",
+      "url": "https://www.scmp.com/economy/policy/article/3371666/china-moving-past-gdp-first-mindset-can-local-officials-get-programme",
+      "date": "Wed, 21 Oct 2026 22:00:07 +0000"
+    },
+    {
+      "id": "https://www.scmp.com/economy/china-economy/article/3371644/teslas-flying-car-draws-public-concern-china-and-official-response",
+      "source": "SCMP",
+      "title": "Tesla’s ‘flying car’ draws public concern in China – and an official response",
+      "summary": "The Communist Party’s flagship newspaper has urged the public not to underestimate China’s technological achievements after Tesla’s “flying car” demonstration sparked concern in some quarters that the country may be falling behind in the global auto race.\nThe People’s Daily commentary, published on ",
+      "url": "https://www.scmp.com/economy/china-economy/article/3371644/teslas-flying-car-draws-public-concern-china-and-official-response",
+      "date": "Wed, 21 Oct 2026 13:00:10 +0000"
+    },
+    {
+      "id": "https://www.scmp.com/opinion/china-opinion/article/3371259/chinas-offshore-tax-crackdown-could-inadvertently-fuel-digital-dollar-boom",
+      "source": "SCMP",
+      "title": "China’s offshore tax crackdown could inadvertently fuel a digital dollar boom",
+      "summary": "From October 22, China’s grace period for the disclosure and settlement of certain offshore-trust tax liabilities ends.\nFor the Chinese government, this deadline highlights its desire to affirm control over capital outflows, while for Chinese high-net-worth families, it serves as a reminder that it ",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3371259/chinas-offshore-tax-crackdown-could-inadvertently-fuel-digital-dollar-boom",
+      "date": "Wed, 21 Oct 2026 12:30:07 +0000"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nQXVLZTktTkxLQUVmOXlFdF9jSGFpeUVPOU84RUI0eHNaZjZVaTk3Z3FQR3BpMC00Z2cyN3FnZGNYOE9jellLbHBkNndPaVZ5a3UxR2wtOExvSlRIdVRjRmdTYkxtVHJnUVFOUDdnbk4?oc=5",
+      "source": "中国商务部 (Google News)",
+      "title": "市场监管总局等七部门关于印发《广告产业发展“十五五”规划》的通知 - 全国电子商务公共服务网",
+      "summary": "市场监管总局等七部门关于印发《广告产业发展“十五五”规划》的通知&nbsp;&nbsp;全国电子商务公共服务网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nQXVLZTktTkxLQUVmOXlFdF9jSGFpeUVPOU84RUI0eHNaZjZVaTk3Z3FQR3BpMC00Z2cyN3FnZGNYOE9jellLbHBkNndPaVZ5a3UxR2wtOExvSlRIdVRjRmdTYkxtVHJnUVFOUDdnbk4?oc=5",
+      "date": "Wed, 21 Oct 2026 06:02:00 GMT"
+    },
+    {
+      "id": "https://www.wto.org/spanish/news_s/news26_s/safe_phl_21oct26_520_s.htm",
+      "source": "WTO",
+      "title": "Filipinas inicia una investigación en materia de salvaguardias sobre la carne de porcino",
+      "summary": "El 21 de octubre de 2026, Filipinas notificó al Comité de Salvaguardias de la OMC que, el 9 de octubre de 2026, había iniciado una investigación en materia de salvaguardias sobre las importaciones de carne de porcino.",
+      "url": "https://www.wto.org/spanish/news_s/news26_s/safe_phl_21oct26_520_s.htm",
+      "date": "Wed, 21 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "id": "https://www.wto.org/spanish/news_s/news26_s/fac_21oct26_522_s.htm",
+      "source": "WTO",
+      "title": "El Comité de Facilitación del Comercio avanza en su examen del AFC y debate el apoyo a la aplicación",
+      "summary": "Los Miembros de la OMC reunidos en el marco del Comité de Facilitación del Comercio los días 21 y 22 de octubre avanzaron en la labor relativa al segundo examen del Acuerdo sobre Facilitación del Comercio (AFC) y reafirmaron su compromiso de concluir el examen para finales de año. También intercambi",
+      "url": "https://www.wto.org/spanish/news_s/news26_s/fac_21oct26_522_s.htm",
+      "date": "Wed, 21 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TZzUyZWV0R1RFTWtRRkUyYVFaUFBrTno3ZUs1Yy1KNGRzM3hzVWp0eEwzVFlwalBHZVlTNk1mbEhFS3o2WlJJSjhnTFoyTmxOWjd3?oc=5",
+      "source": "中国商务部 (Google News)",
+      "title": "政策发布 - 中华人民共和国商务部",
+      "summary": "政策发布&nbsp;&nbsp;中华人民共和国商务部",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TZzUyZWV0R1RFTWtRRkUyYVFaUFBrTno3ZUs1Yy1KNGRzM3hzVWp0eEwzVFlwalBHZVlTNk1mbEhFS3o2WlJJSjhnTFoyTmxOWjd3?oc=5",
+      "date": "Wed, 17 Jul 2024 06:51:13 GMT"
+    },
+    {
       "id": "https://www.federalregister.gov/documents/2026/10/14/2026-20938/guidance-to-us-customs-and-border-protection-regarding-the-assessment-of-us-content-for-purposes-of",
-      "source": "美国BIS/Federal Register",
+      "source": "美国BIS (Federal Register)",
       "title": "Guidance to U.S. Customs and Border Protection Regarding the Assessment of “U.S. Content” for Purposes of Implementing Tariffs Pursuant to Clause (2)(D) of Proclamation 11032 of June 1, 2026",
       "summary": "This notice provides guidance to U.S. Customs and Border Protection regarding the assessment of &quot;U.S. content&quot; for products of Canada and Mexico that qualify for preferential tariff treatment under the United States-Mexico-Canada Agreement, for purposes of implementing tariffs pursuant to ",
       "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20938/guidance-to-us-customs-and-border-protection-regarding-the-assessment-of-us-content-for-purposes-of",
       "date": "Wed, 14 Oct 2026 04:00:00 GMT"
     },
     {
+      "id": "https://www.wto.org/spanish/news_s/news26_s/gpro_14oct26_515_s.htm",
+      "source": "WTO",
+      "title": "Inicio de las negociaciones para la adhesión de Timor-Leste al Acuerdo sobre Contratación Pública",
+      "summary": "En una reunión del Comité de Contratación Pública celebrada el 14 de octubre, las Partes en el Acuerdo sobre Contratación Pública (ACP) de 2012 acogieron con satisfacción la presentación por Timor-Leste de los principales documentos necesarios para iniciar las negociaciones con vistas a su adhesión ",
+      "url": "https://www.wto.org/spanish/news_s/news26_s/gpro_14oct26_515_s.htm",
+      "date": "Wed, 14 Oct 2026 00:00:00 GMT"
+    },
+    {
       "id": "https://www.federalregister.gov/documents/2026/09/29/2026-19927/ural-airlines-jsc-utrenniy-lane-1-g-yekaterinburg-russia-620025-order-renewing-temporary-denial-of",
-      "source": "美国BIS/Federal Register",
+      "source": "美国BIS (Federal Register)",
       "title": "URAL Airlines JSC, Utrenniy Lane 1-g, Yekaterinburg, Russia 620025; Order Renewing Temporary Denial of Export Privileges",
       "summary": "",
       "url": "https://www.federalregister.gov/documents/2026/09/29/2026-19927/ural-airlines-jsc-utrenniy-lane-1-g-yekaterinburg-russia-620025-order-renewing-temporary-denial-of",
       "date": "Tue, 29 Sep 2026 04:00:00 GMT"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qemlfVGZWc0dLb01nTmxWLVpRLXdMU0RQVk5mSmJhM0psTEpHMkRJZnJCV2d1RTgtNzJaVmFpTlpwYXFoeDcydjlWZ0hOenZNT3E3emwyTkwwckQyWG1NOG5venNhb3QtNnFJdjhVMC0?oc=5",
+      "source": "中国商务部 (Google News)",
+      "title": "江苏汽车促消费最新政策发布 买新车最高可补贴7000元 - 全国电子商务公共服务网",
+      "summary": "江苏汽车促消费最新政策发布 买新车最高可补贴7000元&nbsp;&nbsp;全国电子商务公共服务网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qemlfVGZWc0dLb01nTmxWLVpRLXdMU0RQVk5mSmJhM0psTEpHMkRJZnJCV2d1RTgtNzJaVmFpTlpwYXFoeDcydjlWZ0hOenZNT3E3emwyTkwwckQyWG1NOG5venNhb3QtNnFJdjhVMC0?oc=5",
+      "date": "Tue, 24 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZkc5MEp3ZVFhUWZlQXM1NFFNTnAyUlM4R1JSN19jaGpISUhSbjY0Y1FiSXZEc0FDUXZaSFdpVzRYX2QwVVRxZUZDSXlBaGUwYnBocEx0ckZxUmlGdlM1cEJ6UW5aN3BrMzRISGV1UGUwQk9hT2NpSkd4RW1yNDFoUjFYVWlBODhYeUxnd1pXRWttOU0?oc=5",
+      "source": "中国商务部 (Google News)",
+      "title": "商务部新闻发言人就美国土安全部发布针对中国企业的联邦采购排除和移除命令通知答记者问 - 中华人民共和国商务部",
+      "summary": "商务部新闻发言人就美国土安全部发布针对中国企业的联邦采购排除和移除命令通知答记者问&nbsp;&nbsp;中华人民共和国商务部",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZkc5MEp3ZVFhUWZlQXM1NFFNTnAyUlM4R1JSN19jaGpISUhSbjY0Y1FiSXZEc0FDUXZaSFdpVzRYX2QwVVRxZUZDSXlBaGUwYnBocEx0ckZxUmlGdlM1cEJ6UW5aN3BrMzRISGV1UGUwQk9hT2NpSkd4RW1yNDFoUjFYVWlBODhYeUxnd1pXRWttOU0?oc=5",
+      "date": "Tue, 20 Oct 2026 13:17:00 GMT"
+    },
+    {
+      "id": "https://www.scmp.com/economy/china-economy/article/3371779/chinas-private-firms-are-fighting-profits-are-regulations-adding-burden",
+      "source": "SCMP",
+      "title": "China’s private firms are fighting for profits. Are regulations adding to the burden?",
+      "summary": "Plenary sessions of the Central Committee, the upper echelon of China’s ruling Communist Party, are major events on the country’s political calendar. This month’s edition, the fifth plenum, is attracting even more attention as the world’s second-largest economy takes on a more prominent role in glob",
+      "url": "https://www.scmp.com/economy/china-economy/article/3371779/chinas-private-firms-are-fighting-profits-are-regulations-adding-burden",
+      "date": "Thu, 22 Oct 2026 22:00:11 +0000"
+    },
+    {
+      "id": "https://environment.ec.europa.eu/news/eu-plastic-packaging-waste-hits-359-kg-capita-2026-10-22_en",
+      "source": "欧盟委员会新闻",
+      "title": "EU plastic packaging waste hits 35.9 kg per capita",
+      "summary": "Packaging waste per capita increased by 3.2 kg compared with 2023, and by 19.6 kg compared with 2014.",
+      "url": "https://environment.ec.europa.eu/news/eu-plastic-packaging-waste-hits-359-kg-capita-2026-10-22_en",
+      "date": "Thu, 22 Oct 2026 18:01:31 +0200"
+    },
+    {
+      "id": "https://agriculture.ec.europa.eu/media/news/eu-and-us-young-agricultural-leaders-set-week-exploring-eu-farming-policy-and-practice-2026-10-22_en",
+      "source": "欧盟委员会新闻",
+      "title": "EU and US Young Agricultural Leaders Set for a Week Exploring EU Farming in Policy and Practice",
+      "summary": "Entering its second year, the EU-US Fellowship for Young Leaders in Agriculture continues to strengthen transatlantic collaboration. The programme deepens understanding of farmers’ challenges and promotes solutions to improve the long-term resilience and profitability of agriculture on both sides.",
+      "url": "https://agriculture.ec.europa.eu/media/news/eu-and-us-young-agricultural-leaders-set-week-exploring-eu-farming-policy-and-practice-2026-10-22_en",
+      "date": "Thu, 22 Oct 2026 16:11:43 +0200"
+    },
+    {
+      "id": "https://www.scmp.com/economy/china-economy/article/3371803/eus-idea-china-caving-pressure-serious-misjudgment-ex-diplomat",
+      "source": "SCMP",
+      "title": "EU’s idea that China is caving to pressure is ‘serious misjudgment’: ex-diplomat",
+      "summary": "The European Union’s perception that China is yielding to its pressure tactics on trade is a “serious misjudgment”, as Beijing proved during last year’s tariff war with the United States that it will not back down from a confrontation, a former Chinese diplomat has warned.\nBeijing’s willingness to c",
+      "url": "https://www.scmp.com/economy/china-economy/article/3371803/eus-idea-china-caving-pressure-serious-misjudgment-ex-diplomat",
+      "date": "Thu, 22 Oct 2026 13:30:09 +0000"
+    },
+    {
+      "id": "https://agriculture.ec.europa.eu/media/news/imcap-2027-eu-co-funding-grants-bring-cap-closer-citizens-2026-10-22_en",
+      "source": "欧盟委员会新闻",
+      "title": "IMCAP 2027: EU co-funding grants to bring the CAP closer to citizens",
+      "summary": "The IMCAP 2027 call for proposals opens on 22 October 2026, offering 60% co-funding for projects that bring the CAP closer to citizens and strengthening trust in sustainable agriculture.",
+      "url": "https://agriculture.ec.europa.eu/media/news/imcap-2027-eu-co-funding-grants-bring-cap-closer-citizens-2026-10-22_en",
+      "date": "Thu, 22 Oct 2026 13:28:43 +0200"
+    },
+    {
+      "id": "https://finance.ec.europa.eu/news/commission-welcomes-political-agreement-reached-review-securitisation-framework-2026-10-22_en",
+      "source": "欧盟委员会新闻",
+      "title": "The Commission welcomes the political agreement reached on the review of the Securitisation Framework",
+      "summary": "Yesterday, the Commission welcomed the political agreement reached between the Parliament and the Council on the review of the EU Securitisation Framework. The agreed measures aim to support securitisation activity in the EU while safeguarding financial stability.",
+      "url": "https://finance.ec.europa.eu/news/commission-welcomes-political-agreement-reached-review-securitisation-framework-2026-10-22_en",
+      "date": "Thu, 22 Oct 2026 12:44:25 +0200"
+    },
+    {
+      "id": "https://taxation-customs.ec.europa.eu/news/eu-detains-record-196-million-counterfeit-items-worth-eur-63-billion-2025-2026-10-22_en",
+      "source": "欧盟委员会新闻",
+      "title": "EU detains a record 196 million counterfeit items worth € 6.3 billion in 2025",
+      "summary": "The latest joint report published by the European Commission and the European Union Intellectual Property Office (EUIPO) today reveals the highest number of counterfeit detentions ever recorded by EU enforcement authorities.",
+      "url": "https://taxation-customs.ec.europa.eu/news/eu-detains-record-196-million-counterfeit-items-worth-eur-63-billion-2025-2026-10-22_en",
+      "date": "Thu, 22 Oct 2026 12:04:34 +0200"
+    },
+    {
+      "id": "https://www.scmp.com/economy/china-economy/article/3371790/european-ev-production-drive-sees-chinas-lithium-ion-battery-exports-eu-surge",
+      "source": "SCMP",
+      "title": "European EV production drive sees China’s lithium-ion battery exports to EU surge",
+      "summary": "China’s lithium-ion battery exports to the EU surged in the first three quarters of this year, as Chinese carmakers rush to build factories in Europe amid a tightening of import restrictions on electric vehicles (EVs).\nPower inverter exports to the bloc’s members also grew strongly despite EU effort",
+      "url": "https://www.scmp.com/economy/china-economy/article/3371790/european-ev-production-drive-sees-chinas-lithium-ion-battery-exports-eu-surge",
+      "date": "Thu, 22 Oct 2026 11:00:14 +0000"
+    },
+    {
+      "id": "https://www.wto.org/spanish/news_s/news26_s/impl_15oct26_518_s.htm",
+      "source": "WTO",
+      "title": "El Comité de Licencias de Importación se ocupa de notificaciones, preocupaciones comerciales y esfuerzos en materia de transparencia",
+      "summary": "En su reunión celebrada el 15 de octubre, el Comité de Licencias de Importación de la OMC examinó las dificultades a las que se enfrentan los Miembros de la OMC al preparar notificaciones, con inclusión de los resultados de un taller reciente de la OMC para funcionarios públicos. También analizó la ",
+      "url": "https://www.wto.org/spanish/news_s/news26_s/impl_15oct26_518_s.htm",
+      "date": "Thu, 15 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "id": "https://www.wto.org/spanish/news_s/news26_s/stat_08oct26_510_s.htm",
+      "source": "WTO",
+      "title": "El auge de la IA y la resiliencia del comercio ante la crisis en Oriente Medio mejoran las perspectivas, pero los beneficios serán desiguales",
+      "summary": "El comercio mundial se ha mostrado más resiliente de lo previsto durante el primer semestre de 2026, a pesar de las perturbaciones provocadas por el conflicto en Oriente Medio. Las cadenas de suministro se han adaptado y las importantes inversiones en inteligencia artificial han dado un fuerte impul",
+      "url": "https://www.wto.org/spanish/news_s/news26_s/stat_08oct26_510_s.htm",
+      "date": "Thu, 08 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "id": "https://www.scmp.com/economy/china-economy/article/3371598/hairy-crab-freedom-chinese-delicacys-price-tag-drops-amid-high-output-weakened-demand",
+      "source": "SCMP",
+      "title": "‘Hairy crab freedom’: Chinese delicacy’s price tag drops amid high output, weakened demand",
+      "summary": "For Guangzhou resident Claire Kou, this autumn brought a welcome surprise: “hairy crab freedom”, the ability to enjoy the beloved Chinese delicacy without worrying about its traditionally high price tag.\nDuring the National Day holiday earlier this month, Kou ordered four female hairy crabs, each we",
+      "url": "https://www.scmp.com/economy/china-economy/article/3371598/hairy-crab-freedom-chinese-delicacys-price-tag-drops-amid-high-output-weakened-demand",
+      "date": "Sun, 25 Oct 2026 07:00:09 +0000"
+    },
+    {
+      "id": "https://www.scmp.com/economy/china-economy/article/3371957/chinas-tough-job-market-anxious-students-spend-thousands-internships",
+      "source": "SCMP",
+      "title": "In China’s tough job market, anxious students spend thousands on internships",
+      "summary": "Accounting undergraduate student Wang Guilin faces a choice in her search for a winter internship: compete with thousands of applicants through standard recruitment channels or fork out thousands of yuan for a guaranteed placement.\nWang considers her academic record average and, to improve her emplo",
+      "url": "https://www.scmp.com/economy/china-economy/article/3371957/chinas-tough-job-market-anxious-students-spend-thousands-internships",
+      "date": "Sun, 25 Oct 2026 03:00:15 +0000"
+    },
+    {
+      "id": "https://www.scmp.com/economy/china-economy/article/3371943/credit-card-defaults-surge-across-china-older-borrowers-struggle-repay-debt",
+      "source": "SCMP",
+      "title": "Credit card defaults surge across China as older borrowers struggle to repay debt",
+      "summary": "China is facing a surge in credit card delinquencies from a seemingly unlikely source: middle-aged borrowers who otherwise look like model citizens, with university educations and secure public-sector jobs.\nChinese banks once rushed to lend to this group, confident they would easily be able to pay t",
+      "url": "https://www.scmp.com/economy/china-economy/article/3371943/credit-card-defaults-surge-across-china-older-borrowers-struggle-repay-debt",
+      "date": "Sat, 24 Oct 2026 06:00:17 +0000"
+    },
+    {
+      "id": "https://www.scmp.com/economy/china-economy/article/3371919/not-g2-world-apec-chief-how-forum-has-changed-through-years",
+      "source": "SCMP",
+      "title": "‘Not a G2 world’: Apec chief on how the forum has changed through the years",
+      "summary": "China is becoming more confident and ambitious, the Asia-Pacific Economic Cooperation (Apec) executive director said, as the forum returns to the country for the third time in a quarter-century.\nEduardo Pedrosa, the executive director of the Apec Secretariat, told the SCMP on Thursday that the forum",
+      "url": "https://www.scmp.com/economy/china-economy/article/3371919/not-g2-world-apec-chief-how-forum-has-changed-through-years",
+      "date": "Sat, 24 Oct 2026 02:00:13 +0000"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvUGFGR1pKRElfcHJHVVBJelZIeFg1TGlvMVNvRWtZRzZTOVhQLTRiZEhwVi1ubGIwc0pLX2dMSnN2MmxqYzVveXdpWGlPaEJSMDFrWkpURUV6U1V0bmR1ZkkxREJxR0JtcDJreWdXc0k?oc=5",
+      "source": "中国商务部 (Google News)",
+      "title": "商务部等7部门关于实施品质电商“五优”行动的通知 - 全国电子商务公共服务网",
+      "summary": "商务部等7部门关于实施品质电商“五优”行动的通知&nbsp;&nbsp;全国电子商务公共服务网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvUGFGR1pKRElfcHJHVVBJelZIeFg1TGlvMVNvRWtZRzZTOVhQLTRiZEhwVi1ubGIwc0pLX2dMSnN2MmxqYzVveXdpWGlPaEJSMDFrWkpURUV6U1V0bmR1ZkkxREJxR0JtcDJreWdXc0k?oc=5",
+      "date": "Sat, 10 Oct 2026 05:41:00 GMT"
+    },
+    {
+      "id": "https://www.wto.org/spanish/news_s/news26_s/acc_10oct26_519_s.htm",
+      "source": "WTO",
+      "title": "Una visita de la OMC y el ITC a Mogadiscio apoya los preparativos de Somalia para la próxima fase de su adhesión a la OMC",
+      "summary": "La OMC y el Centro de Comercio Internacional (ITC) realizaron su primera actividad conjunta de asistencia técnica en Mogadiscio (Somalia) del 10 al 15 de octubre, con el fin de apoyar los preparativos del Gobierno para la segunda reunión del Grupo de Trabajo sobre la Adhesión de Somalia. En la activ",
+      "url": "https://www.wto.org/spanish/news_s/news26_s/acc_10oct26_519_s.htm",
+      "date": "Sat, 10 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYjNwQVdsWFIzU2tIQV8xN3pSSkxIZWdSN3BacVhIMnhKbzVBQWluVGlNT2IxUi1Yb1hCLVF0b2dmZWVNRkVBWDU1ZDg1VzNvaFBDbmNFbTZhVkdxTmY2RE96ZFpFZl9LcnpjaUtSMzlwWER4NUJlTmQ2UjM1d2lwNHlYR05KNjJlVUh3?oc=5",
+      "source": "中国商务部 (Google News)",
+      "title": "商务部新闻发言人就英方称将共同应对中国汽车产业占主导地位事答记者问 - 中华人民共和国商务部",
+      "summary": "商务部新闻发言人就英方称将共同应对中国汽车产业占主导地位事答记者问&nbsp;&nbsp;中华人民共和国商务部",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYjNwQVdsWFIzU2tIQV8xN3pSSkxIZWdSN3BacVhIMnhKbzVBQWluVGlNT2IxUi1Yb1hCLVF0b2dmZWVNRkVBWDU1ZDg1VzNvaFBDbmNFbTZhVkdxTmY2RE96ZFpFZl9LcnpjaUtSMzlwWER4NUJlTmQ2UjM1d2lwNHlYR05KNjJlVUh3?oc=5",
+      "date": "Mon, 19 Oct 2026 13:45:00 GMT"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRnprc2MzbEJxVXh3cWJyekZORnoxbXBVZnVJYWlpZnY5QldXQUxUVlB1bHYyQThWT1B6cjhLWlhXcDloVjhpS1B1ay1VcWN6eHdWdFp3NDRnaWF0TXZoaERTVDlCVFRpUFU2Y0JGMXZRVXQ3MEZwaWYxSjRTdGk3d29LWm9qWEQ4LV9uXzR0aw?oc=5",
+      "source": "中国商务部 (Google News)",
+      "title": "商务部 海关总署公告2026年第52号 公布进一步优化两用物项出口管制质疑和鉴别工作有关事项 - 中华人民共和国商务部",
+      "summary": "商务部 海关总署公告2026年第52号 公布进一步优化两用物项出口管制质疑和鉴别工作有关事项&nbsp;&nbsp;中华人民共和国商务部",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRnprc2MzbEJxVXh3cWJyekZORnoxbXBVZnVJYWlpZnY5QldXQUxUVlB1bHYyQThWT1B6cjhLWlhXcDloVjhpS1B1ay1VcWN6eHdWdFp3NDRnaWF0TXZoaERTVDlCVFRpUFU2Y0JGMXZRVXQ3MEZwaWYxSjRTdGk3d29LWm9qWEQ4LV9uXzR0aw?oc=5",
+      "date": "Mon, 19 Oct 2026 13:39:57 GMT"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV3RlMmswd3NOb2hJcFRVUWs0MW55WFZ1V0k2OEJET1pGX0pDWFdiNUxweGQycWUwZnRxZnFQZnBxRElUN1o5MXp1YnJrOTZrenZKVnBxUVBBTmEtalc1TGRyMDFCb0JKUGNBV1VlWXc1NFhxb2ZGYlFEbTJjYWJYc3M3UnVjV240NUYtY01kSQ?oc=5",
+      "source": "中国商务部 (Google News)",
+      "title": "商务部 海关总署公告2026年第50号 公布对盾构机等物项实施出口管制的决定 - 中华人民共和国商务部",
+      "summary": "商务部 海关总署公告2026年第50号 公布对盾构机等物项实施出口管制的决定&nbsp;&nbsp;中华人民共和国商务部",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV3RlMmswd3NOb2hJcFRVUWs0MW55WFZ1V0k2OEJET1pGX0pDWFdiNUxweGQycWUwZnRxZnFQZnBxRElUN1o5MXp1YnJrOTZrenZKVnBxUVBBTmEtalc1TGRyMDFCb0JKUGNBV1VlWXc1NFhxb2ZGYlFEbTJjYWJYc3M3UnVjV240NUYtY01kSQ?oc=5",
+      "date": "Mon, 19 Oct 2026 11:18:14 GMT"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ0xCX2VXZ05LSXBmVl9yRlFpemxKR0xFdkF3SkNFOUpiWDVyS3BKZkhUVTljckl1SW9rYXVtZ0J1dUlvek9YWEIxNzF1VnVhZHgwX2RuMWRxam9sZ3N0Q25PeHQ4Qzk4cnhDb2g3aWc3N2E4S3dNWjUzTVBxNGwySVVTNjBoQ21SMUlzanhoRGl5Zw?oc=5",
+      "source": "中国商务部 (Google News)",
+      "title": "商务部 海关总署公告2026年第51号 公布优化调整挖泥船相关物项出口管制措施的决定 - 中华人民共和国商务部",
+      "summary": "商务部 海关总署公告2026年第51号 公布优化调整挖泥船相关物项出口管制措施的决定&nbsp;&nbsp;中华人民共和国商务部",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ0xCX2VXZ05LSXBmVl9yRlFpemxKR0xFdkF3SkNFOUpiWDVyS3BKZkhUVTljckl1SW9rYXVtZ0J1dUlvek9YWEIxNzF1VnVhZHgwX2RuMWRxam9sZ3N0Q25PeHQ4Qzk4cnhDb2g3aWc3N2E4S3dNWjUzTVBxNGwySVVTNjBoQ21SMUlzanhoRGl5Zw?oc=5",
+      "date": "Mon, 19 Oct 2026 07:43:23 GMT"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMEdTQnBfVXZWMDdIYTA3aDY4OXZTUTNFZW90VGpvN3lIYjNDS0V6TEdvVG9lem1mQ1BQcm5ucUZLbTVCQmRfbGN0YnRfcldpUzhFS3gyRTZWSm1tcGt1ZFQ2ZGk2cTNfVE5pYUNXaFJyWktIQjRKYXpGTUl3UFBCNUFhOXZNay1zbm1iczZHbEd2NWc?oc=5",
+      "source": "中国商务部 (Google News)",
+      "title": "商务部新闻发言人就盾构机等物项实施出口管制、优化调整挖泥船相关物项出口管制措施答记者问 - 中华人民共和国商务部",
+      "summary": "商务部新闻发言人就盾构机等物项实施出口管制、优化调整挖泥船相关物项出口管制措施答记者问&nbsp;&nbsp;中华人民共和国商务部",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMEdTQnBfVXZWMDdIYTA3aDY4OXZTUTNFZW90VGpvN3lIYjNDS0V6TEdvVG9lem1mQ1BQcm5ucUZLbTVCQmRfbGN0YnRfcldpUzhFS3gyRTZWSm1tcGt1ZFQ2ZGk2cTNfVE5pYUNXaFJyWktIQjRKYXpGTUl3UFBCNUFhOXZNay1zbm1iczZHbEd2NWc?oc=5",
+      "date": "Mon, 19 Oct 2026 07:24:00 GMT"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcEJINVkzLU5OVlMtaThGclM2eHJhRlRtTExyQkhlaXBkZWR2M3J6ZENEMHdpTFB2VGRURnZuY3ZoMVV0T1h6dHZtRS14Q18tQ1FCLXFqMERSR3lVd3dwVjRmQVhyeUhQM0Q2MHV0eUJEUVEwS3NtQ3VjT2kxTy01b1Y1Q0w1N1REOUJoc21MNA?oc=5",
+      "source": "中国商务部 (Google News)",
+      "title": "商务部海关总署中央军委装备发展部公告2026年第49号公布优化调整无人机相关物项出口管制措施的决定 - 中华人民共和国商务部",
+      "summary": "商务部海关总署中央军委装备发展部公告2026年第49号公布优化调整无人机相关物项出口管制措施的决定&nbsp;&nbsp;中华人民共和国商务部",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcEJINVkzLU5OVlMtaThGclM2eHJhRlRtTExyQkhlaXBkZWR2M3J6ZENEMHdpTFB2VGRURnZuY3ZoMVV0T1h6dHZtRS14Q18tQ1FCLXFqMERSR3lVd3dwVjRmQVhyeUhQM0Q2MHV0eUJEUVEwS3NtQ3VjT2kxTy01b1Y1Q0w1N1REOUJoc21MNA?oc=5",
+      "date": "Mon, 19 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYkJ0SlV2TWxkejRMemRrcGdKU1lmeFV1N2l2UVUtQ3MtUEcyamlubGtzMk5EaVQ5YU5VRVRxQnNqWUhSRGR3QktzS2FuYVhGaUFwOE56dWs3dE1hTVhQQS1OV1RxWmY1b3dBVzUzaTFia2cwZXN5b29fb3ZGQXVzZlJqOUkySTZDY3NzTDdMNA?oc=5",
+      "source": "中国商务部 (Google News)",
+      "title": "商务部等9部门关于加快推进科技兴商的意见 - 中华人民共和国商务部",
+      "summary": "商务部等9部门关于加快推进科技兴商的意见&nbsp;&nbsp;中华人民共和国商务部",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYkJ0SlV2TWxkejRMemRrcGdKU1lmeFV1N2l2UVUtQ3MtUEcyamlubGtzMk5EaVQ5YU5VRVRxQnNqWUhSRGR3QktzS2FuYVhGaUFwOE56dWs3dE1hTVhQQS1OV1RxWmY1b3dBVzUzaTFia2cwZXN5b29fb3ZGQXVzZlJqOUkySTZDY3NzTDdMNA?oc=5",
+      "date": "Mon, 19 Oct 2026 02:12:00 GMT"
+    },
+    {
+      "id": "https://www.wto.org/spanish/news_s/news26_s/safe_mdg_12oct26_511_s.htm",
+      "source": "WTO",
+      "title": "Madagascar inicia una investigación en materia de salvaguardias sobre determinados artículos de confitería",
+      "summary": "El 12 de octubre de 2026, Madagascar notificó al Comité de Salvaguardias de la OMC que el 9 de octubre de 2026 había iniciado una investigación en materia de salvaguardias sobre las importaciones de artículos de confitería con o sin chocolate y cacao.",
+      "url": "https://www.wto.org/spanish/news_s/news26_s/safe_mdg_12oct26_511_s.htm",
+      "date": "Mon, 12 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NQTdLMFRCUk1xWVhsa1BzeWp4OEhpeVFsNnhlelVTeTFndHpoYmJFQ29HekRXOUFLYTkxeGRNeE9SMUMxellnNXJ3aEhQNkVESGZv?oc=5",
+      "source": "中国商务部 (Google News)",
+      "title": "政务公开 - 中华人民共和国商务部",
+      "summary": "政务公开&nbsp;&nbsp;中华人民共和国商务部",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NQTdLMFRCUk1xWVhsa1BzeWp4OEhpeVFsNnhlelVTeTFndHpoYmJFQ29HekRXOUFLYTkxeGRNeE9SMUMxellnNXJ3aEhQNkVESGZv?oc=5",
+      "date": "Mon, 08 Jul 2024 05:06:12 GMT"
+    },
+    {
+      "id": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/joint-ministerial-statement-risk-famine-sudan-2026-10-23_en",
+      "source": "欧盟委员会新闻",
+      "title": "Joint ministerial statement on the risk of famine in Sudan",
+      "summary": "Sudan is experiencing an alarming deterioration in its food security. The risk of famine in the coming months, as warned by the Integrated Food Security Phase Classification, needs urgent action. There is no time to lose to save lives and prevent famine.",
+      "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/joint-ministerial-statement-risk-famine-sudan-2026-10-23_en",
+      "date": "Fri, 23 Oct 2026 17:26:41 +0200"
+    },
+    {
+      "id": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-visits-ottawa-discussions-preparedness-health-emergencies-2026-10-23_en",
+      "source": "欧盟委员会新闻",
+      "title": "Commissioner Lahbib visits Ottawa for discussions on preparedness for health emergencies",
+      "summary": "Commissioner for Equality, Preparedness and Crisis Management, Hadja Lahbib will visit Ottawa to meet with Canadian authorities to discuss health emergencies preparedness and response. The trip includes a visit to an aircraft factory where a total of 24 firefighting aircraft are being produced.",
+      "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-visits-ottawa-discussions-preparedness-health-emergencies-2026-10-23_en",
+      "date": "Fri, 23 Oct 2026 17:15:18 +0200"
+    },
+    {
+      "id": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/building-bridges-through-science-diplomacy-2026-10-23_en",
+      "source": "欧盟委员会新闻",
+      "title": "Building bridges through science diplomacy",
+      "summary": "The European Commission, UNESCO and the Union for the Mediterranean set the stage for discussing science diplomacy at the SESAME synchrotron in Jordan.",
+      "url": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/building-bridges-through-science-diplomacy-2026-10-23_en",
+      "date": "Fri, 23 Oct 2026 16:09:29 +0200"
+    },
+    {
+      "id": "https://employment-social-affairs.ec.europa.eu/news/ai-and-skills-europe-closing-adoption-gap-2026-10-23_en",
+      "source": "欧盟委员会新闻",
+      "title": "AI and skills in Europe – Closing the adoption gap",
+      "summary": "In a recent brief, the Commission's Joint Research Centre notes that AI tools are now part of everyday work for around 30% of workers in the EU. Many jobs that could use AI do not do so, especially in smaller companies and among mid‑career staff.",
+      "url": "https://employment-social-affairs.ec.europa.eu/news/ai-and-skills-europe-closing-adoption-gap-2026-10-23_en",
+      "date": "Fri, 23 Oct 2026 15:59:23 +0200"
+    },
+    {
+      "id": "https://single-market-economy.ec.europa.eu/news/enterprise-europe-network-annual-conference-2026-agile-network-changing-world-2026-10-23_en",
+      "source": "欧盟委员会新闻",
+      "title": "Enterprise Europe Network Annual Conference 2026: An Agile Network in a Changing World",
+      "summary": "The Enterprise Europe Network Annual Conference 2026 takes place 11-13 November at the Croke Park Conference Centre in Dublin, Ireland, with Network partners and stakeholders.\nUnder the theme 'An Agile Network in a Changing World', 700 participants join onsite and online for 3 days of exchange.",
+      "url": "https://single-market-economy.ec.europa.eu/news/enterprise-europe-network-annual-conference-2026-agile-network-changing-world-2026-10-23_en",
+      "date": "Fri, 23 Oct 2026 13:33:31 +0200"
+    },
+    {
+      "id": "https://www.scmp.com/economy/china-economy/article/3371917/china-europe-should-coordinate-carbon-pricing-border-tax-energy-transition-expert",
+      "source": "SCMP",
+      "title": "China, Europe should coordinate on carbon pricing, border tax: energy transition expert",
+      "summary": "China and Europe should jointly introduce a system like the Carbon Border Adjustment Mechanism (CBAM), a levy on carbon-intensive imports designed to account for the carbon costs domestic producers face, which “applies against the rest of the world,” the co-chair of a global energy transition organi",
+      "url": "https://www.scmp.com/economy/china-economy/article/3371917/china-europe-should-coordinate-carbon-pricing-border-tax-energy-transition-expert",
+      "date": "Fri, 23 Oct 2026 12:30:15 +0000"
+    },
+    {
+      "id": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-civil-protection-mechanism-turns-25-2026-10-23_en",
+      "source": "欧盟委员会新闻",
+      "title": "EU civil protection mechanism turns 25",
+      "summary": "Since its creation, it has been activated more than 900 times by 160 countries and 8 international organisations, coordinating assistance in response to wildfires, floods, earthquakes, health emergencies and other disasters across Europe and around the world.",
+      "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-civil-protection-mechanism-turns-25-2026-10-23_en",
+      "date": "Fri, 23 Oct 2026 12:09:09 +0200"
+    },
+    {
+      "id": "https://competition-policy.ec.europa.eu/about/news/commission-opens-investigation-possible-anticompetitive-conduct-omya-supply-calcium-carbonates-paper-2026-10-23_en",
+      "source": "欧盟委员会新闻",
+      "title": "Commission opens investigation into possible anticompetitive conduct by Omya in the supply of calcium carbonates to the paper industry",
+      "summary": "The European Commission has opened a formal antitrust investigation to assess whether Omya has breached EU competition rules by requiring customers in the paper industry to purchase all or most of their calcium carbonates from Omya.",
+      "url": "https://competition-policy.ec.europa.eu/about/news/commission-opens-investigation-possible-anticompetitive-conduct-omya-supply-calcium-carbonates-paper-2026-10-23_en",
+      "date": "Fri, 23 Oct 2026 12:07:40 +0200"
+    },
+    {
+      "id": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-announces-additional-eur225-million-reinforce-humanitarian-assistance-yemen-2026-10-23_en",
+      "source": "欧盟委员会新闻",
+      "title": "EU announces an additional €22.5 million to reinforce humanitarian assistance in Yemen",
+      "summary": "The European Commission is releasing €22.5 million in humanitarian aid to Yemen, in addition to the €87.5 million previously allocated for 2026, to address the consequences of the renewed conflict escalation and the critical needs of millions of people affected by the protracted crisis.",
+      "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-announces-additional-eur225-million-reinforce-humanitarian-assistance-yemen-2026-10-23_en",
+      "date": "Fri, 23 Oct 2026 11:58:00 +0200"
+    },
+    {
+      "id": "https://employment-social-affairs.ec.europa.eu/news/investing-skills-competitiveness-small-and-medium-companies-2026-10-23_en",
+      "source": "欧盟委员会新闻",
+      "title": "Investing in skills for the competitiveness of small and medium companies",
+      "summary": "As Ireland leads the Presidency of the Council of the European Union, business leaders and policymakers met in Dublin to focus on a pressing question: how can Europe equip its small and medium-sized companies (SME) with the talent and skills they need to grow, innovate and compete?&nbsp;",
+      "url": "https://employment-social-affairs.ec.europa.eu/news/investing-skills-competitiveness-small-and-medium-companies-2026-10-23_en",
+      "date": "Fri, 23 Oct 2026 10:20:29 +0200"
+    },
+    {
+      "id": "https://translation.ec.europa.eu/news-and-events/news/new-episode-dgt-podcast-languages-and-technology-2026-10-23_en",
+      "source": "欧盟委员会新闻",
+      "title": "New episode – DGT podcast: Languages and Technology",
+      "summary": "Listen to episode 14 of the DGT podcast: Languages and Technology!",
+      "url": "https://translation.ec.europa.eu/news-and-events/news/new-episode-dgt-podcast-languages-and-technology-2026-10-23_en",
+      "date": "Fri, 23 Oct 2026 10:00:44 +0200"
+    },
+    {
+      "id": "https://www.scmp.com/economy/global-economy/article/3371906/how-china-captured-nearly-82-worlds-new-ship-orders",
+      "source": "SCMP",
+      "title": "How China captured nearly 82% of the world’s new ship orders",
+      "summary": "China’s shipbuilding sector now leads the world by an overwhelming margin, with the country’s shipyards accounting for 81.8 per cent of global new ship orders in the first nine months of the year, according to official data.\nDemand was also expected to stay resilient, with elevated crude oil prices ",
+      "url": "https://www.scmp.com/economy/global-economy/article/3371906/how-china-captured-nearly-82-worlds-new-ship-orders",
+      "date": "Fri, 23 Oct 2026 10:00:10 +0000"
+    },
+    {
+      "id": "https://www.scmp.com/economy/china-economy/article/3371865/beijing-tightens-rules-outbound-capital-better-shield-chinese-assets",
+      "source": "SCMP",
+      "title": "Beijing tightens rules on outbound capital to better shield Chinese assets",
+      "summary": "China has unveiled a revised rule for regulating outbound investment, requiring investors to report major adverse developments more diligently, including foreign demands to hand over technology or dispose of stakes.\nThe new rule, announced by the National Development and Reform Commission (NDRC) on ",
+      "url": "https://www.scmp.com/economy/china-economy/article/3371865/beijing-tightens-rules-outbound-capital-better-shield-chinese-assets",
+      "date": "Fri, 23 Oct 2026 05:00:20 +0000"
+    },
+    {
+      "id": "https://www.scmp.com/economy/china-economy/series/3371844/chinas-fifth-plenum-ground",
+      "source": "SCMP",
+      "title": "China’s fifth plenum, from the ground up",
+      "summary": "",
+      "url": "https://www.scmp.com/economy/china-economy/series/3371844/chinas-fifth-plenum-ground",
+      "date": "Fri, 23 Oct 2026 02:15:14 +0000"
+    },
+    {
+      "id": "https://www.scmp.com/economy/china-economy/article/3371785/even-beijing-boosts-oversight-chinese-investors-continue-pivot-offshore-assets",
+      "source": "SCMP",
+      "title": "Even as Beijing boosts oversight, Chinese investors continue pivot to offshore assets",
+      "summary": "Chinese households are increasingly shifting assets from real estate and bank deposits into more lucrative investments at home and abroad, despite growing oversight, Moody’s Ratings said.\nA multi-year downturn in the Chinese property market and low interest rates are fuelling the demand for alternat",
+      "url": "https://www.scmp.com/economy/china-economy/article/3371785/even-beijing-boosts-oversight-chinese-investors-continue-pivot-offshore-assets",
+      "date": "Fri, 23 Oct 2026 01:00:09 +0000"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLXIwOXlqVDlLQkFHRDlhUTF5d3dnVzNLazZJX0RFTjlZdXQ0V2VWUXFzeTdTMHdqb3hPTTl5LTZiZlVkdzM3Yld3MXFrN0NURWFKTEQzZkxTSWhxNU0wUFVvQWxyeFBLYlpIZExBZmljM0lrUl9LNzM3LUlYTElCeVBZQUpHLTIwVVoyc2ZWSQ?oc=5",
+      "source": "中国商务部 (Google News)",
+      "title": "商务部科技部公告2026年第48号就修订《中国禁止出口限制出口技术目录》公开征求意见并对相关技术出口实施临时登记管理 - 中华人民共和国商务部",
+      "summary": "商务部科技部公告2026年第48号就修订《中国禁止出口限制出口技术目录》公开征求意见并对相关技术出口实施临时登记管理&nbsp;&nbsp;中华人民共和国商务部",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLXIwOXlqVDlLQkFHRDlhUTF5d3dnVzNLazZJX0RFTjlZdXQ0V2VWUXFzeTdTMHdqb3hPTTl5LTZiZlVkdzM3Yld3MXFrN0NURWFKTEQzZkxTSWhxNU0wUFVvQWxyeFBLYlpIZExBZmljM0lrUl9LNzM3LUlYTElCeVBZQUpHLTIwVVoyc2ZWSQ?oc=5",
+      "date": "Fri, 16 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdXNUNXlMMW5QZm5fVEg3SmZiUUg1TGVlVDBCRUFlZVFMUUM1dDBmaGx6VlVCeTZWVkJsVmxiQ3MwQURXdnIwTFFaRjFsTzRhcTJjTGcxOVJ1d05ZblhfWE45Z09yYWZHNEFxazdzdmxWNEdIeHczVF83MzNHcW9nTHJaYWVJTm5OODI0?oc=5",
+      "source": "中国商务部 (Google News)",
+      "title": "商务部新闻发言人就修订《中国禁止出口限制出口技术目录》答记者问 - 中华人民共和国商务部",
+      "summary": "商务部新闻发言人就修订《中国禁止出口限制出口技术目录》答记者问&nbsp;&nbsp;中华人民共和国商务部",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdXNUNXlMMW5QZm5fVEg3SmZiUUg1TGVlVDBCRUFlZVFMUUM1dDBmaGx6VlVCeTZWVkJsVmxiQ3MwQURXdnIwTFFaRjFsTzRhcTJjTGcxOVJ1d05ZblhfWE45Z09yYWZHNEFxazdzdmxWNEdIeHczVF83MzNHcW9nTHJaYWVJTm5OODI0?oc=5",
+      "date": "Fri, 16 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "id": "https://asia.nikkei.com/business/food-beverage/japan-snack-maker-kameda-seika-to-exit-india-shift-focus-to-north-america",
+      "source": "Nikkei Asia",
+      "title": "Japan snack maker Kameda Seika to exit India, shift focus to North America",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/food-beverage/japan-snack-maker-kameda-seika-to-exit-india-shift-focus-to-north-america",
+      "date": ""
+    },
+    {
+      "id": "https://asia.nikkei.com/politics/indonesia-free-university-plan-to-attract-ai-risks-more-fiscal-strain",
+      "source": "Nikkei Asia",
+      "title": "Indonesia free university plan to attract AI risks more fiscal strain",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/indonesia-free-university-plan-to-attract-ai-risks-more-fiscal-strain",
+      "date": ""
+    },
+    {
+      "id": "https://asia.nikkei.com/spotlight/your-week-in-asia/china-s-fifth-plenum-jio-listing-on-indian-bourses-boj-meeting",
+      "source": "Nikkei Asia",
+      "title": "China's fifth plenum, Jio listing on Indian bourses, BOJ meeting",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/china-s-fifth-plenum-jio-listing-on-indian-bourses-boj-meeting",
+      "date": ""
+    },
+    {
+      "id": "https://asia.nikkei.com/business/automobiles/pressed-by-chinese-evs-in-southeast-asia-mitsubishi-motors-makes-risky-pivot",
+      "source": "Nikkei Asia",
+      "title": "Pressed by Chinese EVs in Southeast Asia, Mitsubishi Motors makes risky pivot",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/pressed-by-chinese-evs-in-southeast-asia-mitsubishi-motors-makes-risky-pivot",
+      "date": ""
+    },
+    {
+      "id": "https://asia.nikkei.com/business/travel-leisure/south-korean-golfers-flock-to-small-japanese-town-for-deals-at-resort",
+      "source": "Nikkei Asia",
+      "title": "South Korean golfers flock to small Japanese town for deals at resort",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/travel-leisure/south-korean-golfers-flock-to-small-japanese-town-for-deals-at-resort",
+      "date": ""
+    },
+    {
+      "id": "https://asia.nikkei.com/business/agriculture/australia-s-red-tipped-bananas-are-its-first-ecoganic-export",
+      "source": "Nikkei Asia",
+      "title": "Australia's red-tipped bananas are its first 'ecoganic' export",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/agriculture/australia-s-red-tipped-bananas-are-its-first-ecoganic-export",
+      "date": ""
+    },
+    {
+      "id": "https://asia.nikkei.com/business/transportation/sydney-s-new-international-airport-opens-to-passengers",
+      "source": "Nikkei Asia",
+      "title": "Sydney's new international airport opens to passengers",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/transportation/sydney-s-new-international-airport-opens-to-passengers",
+      "date": ""
+    },
+    {
+      "id": "https://asia.nikkei.com/life-arts/life/destinations/footloose-in-davao-cracking-open-the-philippines-durian-city",
+      "source": "Nikkei Asia",
+      "title": "Footloose in Davao: Cracking open the Philippines' 'durian city'",
+      "summary": "",
+      "url": "https://asia.nikkei.com/life-arts/life/destinations/footloose-in-davao-cracking-open-the-philippines-durian-city",
+      "date": ""
+    },
+    {
+      "id": "https://asia.nikkei.com/politics/middle-east-crisis/saudi-led-coalition-says-it-downed-2-missiles-fired-by-houthis",
+      "source": "Nikkei Asia",
+      "title": "Saudi-led coalition says it downed 2 missiles fired by Houthis",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/middle-east-crisis/saudi-led-coalition-says-it-downed-2-missiles-fired-by-houthis",
+      "date": ""
+    },
+    {
+      "id": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-urges-us-to-halt-proposed-expansion-of-outbound-investment-curbs",
+      "source": "Nikkei Asia",
+      "title": "China urges US to halt proposed expansion of outbound investment curbs",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-urges-us-to-halt-proposed-expansion-of-outbound-investment-curbs",
+      "date": ""
+    },
+    {
+      "id": "https://asia.nikkei.com/spotlight/my-personal-history/succession-stephen-schwarzman-24",
+      "source": "Nikkei Asia",
+      "title": "Succession: Stephen Schwarzman (24)",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/my-personal-history/succession-stephen-schwarzman-24",
+      "date": ""
+    },
+    {
+      "id": "https://asia.nikkei.com/politics/international-relations/japan-pm-takaichi-to-urge-germany-for-favorable-ev-treatment-in-eu",
+      "source": "Nikkei Asia",
+      "title": "Japan PM Takaichi to urge Germany for favorable EV treatment in EU",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/international-relations/japan-pm-takaichi-to-urge-germany-for-favorable-ev-treatment-in-eu",
+      "date": ""
+    },
+    {
+      "id": "https://asia.nikkei.com/business/technology/artificial-intelligence/tokio-marine-first-japan-nonlife-insurer-to-cover-ai-enabled-robots",
+      "source": "Nikkei Asia",
+      "title": "Tokio Marine first Japan nonlife insurer to cover AI-enabled robots",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/tokio-marine-first-japan-nonlife-insurer-to-cover-ai-enabled-robots",
+      "date": ""
+    },
+    {
+      "id": "https://asia.nikkei.com/editor-s-picks/interview/more-php-scale-dangers-lurk-on-the-internet-cloudflare-ceo-says",
+      "source": "Nikkei Asia",
+      "title": "More PHP-scale dangers lurk on the internet, CloudFlare CEO says",
+      "summary": "",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/more-php-scale-dangers-lurk-on-the-internet-cloudflare-ceo-says",
+      "date": ""
+    },
+    {
+      "id": "https://asia.nikkei.com/politics/international-relations/three-red-lines-needed-against-china-japan-defense-academy-chief-says",
+      "source": "Nikkei Asia",
+      "title": "'Three red lines' needed against China, Japan defense academy chief says",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/international-relations/three-red-lines-needed-against-china-japan-defense-academy-chief-says",
+      "date": ""
     }
   ]
 }
