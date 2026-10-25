@@ -84,37 +84,7 @@ EU-01|欧盟委员会（贸易总司 / 新闻角）|T1 官方|5|98-100|贸易救
 const ADAPTERS={official:async()=>[],media:async()=>[],social:async()=>[]}; 
 const F='m,ty,cn,dm,ti,su,tier,ind,doc,an,hi,lv,sc,nv,mk,re,ve,cx,mr,fl,sr,sec'.split(',');
 let D=[];
-let SAMPLE=[];
 let REAL=false;
-
-// 翻译逻辑
-const transCache = new Map();
-const isEnglish = (str) => /[a-zA-Z]{4,}/.test(str) && !/[\u4e00-\u9fa5]/.test(str); 
-async function translateText(text) {
-  if(!text || !isEnglish(text)) return text;
-  if(transCache.has(text)) return transCache.get(text);
-  try {
-    const res = await fetch(`https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=zh-CN&dt=t&q=${encodeURIComponent(text)}`);
-    const data = await res.json();
-    const translated = data[0].map(item => item[0]).join('');
-    transCache.set(text, translated);
-    return translated;
-  } catch(e) { return text; }
-}
-async function autoTranslateData() {
-  let updated = false;
-  for(const e of D) {
-    if(!e.ti_zh && isEnglish(e.ti)) {
-      e.ti_zh = '翻译中...'; updated = true;
-      translateText(e.ti).then(zh => { e.ti_zh = zh; render(); });
-    }
-    if(!e.su_zh && isEnglish(e.su)) {
-      e.su_zh = '摘要翻译中...'; updated = true;
-      translateText(e.su).then(zh => { e.su_zh = zh; render(); });
-    }
-  }
-  if(updated) render();
-}
 
 // 真实数据拉取适配器
 async function loadRealData() {
@@ -141,8 +111,8 @@ async function loadRealData() {
             ts: d.getTime(),
             rg: cn,
             dm: '政策动态',
-            ti: e.title,
-            su: e.summary,
+            ti: e.title,       // 后台已翻译成中文
+            su: e.summary,     // 后台已翻译成中文
             ty: ty,
             tier: tier,
             ind: 1, doc: ty === 'official' ? 1 : 0, an: 0, hi: 0.9,
@@ -163,7 +133,6 @@ async function loadRealData() {
     REAL = false;
   }
   
-  // 重新装载
   D.length = 0;
   if(!REAL){ 
     $('#warn').innerHTML='⚠ 暂无数据，请确保 GitHub Actions 已成功生成 news.json';
@@ -171,15 +140,16 @@ async function loadRealData() {
   }
   
   const n=NOW();
-  window.__EVENTS__.events.slice().sort((a,b)=>a.ts-b.ts).forEach((x,i)=>{
+  // 【修复排序】严格按照时间戳降序（新到旧）装载
+  window.__EVENTS__.events.sort((a,b)=>b.ts-a.ts).forEach((x,i)=>{
     x.id=i+1; x.m=Math.max(0,(n-x.ts)/6e4); x.cn=x.rg; D.push(x);
   });
   
-  $('#warn').innerHTML='✔ 真实数据 · 更新于 ' + window.__EVENTS__.generated + ' · 共 ' + D.length + ' 条（规则自动聚合与估算评分，非人工核实）';
+  $('#warn').innerHTML='✔ 真实数据 · 更新于 ' + window.__EVENTS__.generated + ' · 共 ' + D.length + ' 条（后台已固定中文翻译）';
   
   render();
   if(!window.__hasInit) {
-    tick(); setInterval(tick, 1000); autoTranslateData();
+    tick(); setInterval(tick, 1000);
     window.__hasInit = true;
   }
 }
@@ -207,20 +177,23 @@ function pass(e,r){const rm=e.ty==='rumor';
 if(tab==='all'&&rm)return 0;if(tab==='ok'&&!['已确认','高可信'].includes(r.st))return 0;if(tab==='chk'&&r.st!=='待核实')return 0;if(tab==='rm'&&!rm)return 0;if(tab==='bad'&&!['低可信','疑似谣言','逾期失效'].includes(r.st))return 0;
 if(dom!=='全部'&&e.dm!==dom)return 0;if(rg!=='全部'&&e.rg!==rg)return 0;if(e.m>rng*1440)return 0;if(q&&!(e.ti+e.su+e.sec+e.dm+e.sr.map(x=>x.n).join()).toLowerCase().includes(q))return 0;return 1}
 function list(){return D.map(e=>({e,r:calc(e)})).filter(x=>pass(x.e,x.r)).sort((a,b)=>sort==='t'?a.e.m-b.e.m:sort==='comp'?b.r.comp-a.r.comp:b.r[sort]-a.r[sort])}
+
 function render(){
 $('#tabs').innerHTML=TABS.map(t=>`<button class="pill ${tab===t[0]?'on':''}" data-t="${t[0]}">${t[1]}</button>`).join('');
 $('#chips').innerHTML=DOMS.map(d=>`<button class="chip ${dom===d?'on':''}" data-d="${d}">${d}</button>`).join('');
-const L0=list(),L=L0.slice(0,lim),g={};L.forEach(x=>{const d=new Date(NOW()-x.e.m*6e4),k=d.toDateString();(g[k]=g[k]||{d,a:[]}).a.push(x)});
-$('#feed').innerHTML=L.length?Object.values(g).map(G=>`<div class="day"><div class="dl"><div class="dsk"><div class="dn">${pad(G.d.getDate())}</div><div class="dw">星期${'日一二三四五六'[G.d.getDay()]}</div><div class="ds">${G.d.getMonth()+1}月 · ${G.a.length} 条</div></div></div><div class="ax"><div class="nd"></div></div><div class="dc">${G.a.map(card).join('')}</div></div>`).join(''):'<div class="empty">当前筛选下没有事件</div>';if(L0.length>lim)$('#feed').insertAdjacentHTML('beforeend','<div class="empty"><button class="cbtn" data-a="more">显示更多（还有 '+(L0.length-lim)+' 条）</button></div>');
+const L0=list(),L=L0.slice(0,lim),g={};
+L.forEach(x=>{const d=new Date(NOW()-x.e.m*6e4),k=d.toDateString();(g[k]=g[k]||{d,a:[]}).a.push(x)});
+// 【修复时间轴】强制将日期组降序排列（新到旧）
+const sortedGroups = Object.values(g).sort((a, b) => b.d.getTime() - a.d.getTime());
+$('#feed').innerHTML=L.length?sortedGroups.map(G=>`<div class="day"><div class="dl"><div class="dsk"><div class="dn">${pad(G.d.getDate())}</div><div class="dw">星期${'日一二三四五六'[G.d.getDay()]}</div><div class="ds">${G.d.getMonth()+1}月 · ${G.a.length} 条</div></div></div><div class="ax"><div class="nd"></div></div><div class="dc">${G.a.map(card).join('')}</div></div>`).join(''):'<div class="empty">当前筛选下没有事件</div>';
+if(L0.length>lim)$('#feed').insertAdjacentHTML('beforeend','<div class="empty"><button class="cbtn" data-a="more">显示更多（还有 '+(L0.length-lim)+' 条）</button></div>');
 if(!$('#sls').children.length)$('#sls').innerHTML=[['c','可信度'],['i','重要性'],['f','影响力']].map(x=>`<div class="sl"><span>${x[1]}</span><input type="range" min="0" max="100" value="${W[x[0]]}" data-w="${x[0]}"><b class="mono"></b></div>`).join('');
 ['c','i','f'].forEach((k,i)=>$('#sls').querySelectorAll('b')[i].textContent=Math.round(W[k]/((W.c+W.i+W.f)||1)*100)+'%');
-const A=alerts();$('#alc').textContent='· '+A.length+' 条';$('#als').innerHTML=A.slice(0,6).map(x=>`<div class="al" data-o="${x.e.id}"><span class="k ${x.k}">${x.t}</span><span>${(x.e.ti_zh||x.e.ti).replace(/^【[^】]*】/,'')}</span></div>`).join('')||'<div class="note">暂无预警</div>';
+const A=alerts();$('#alc').textContent='· '+A.length+' 条';$('#als').innerHTML=A.slice(0,6).map(x=>`<div class="al" data-o="${x.e.id}"><span class="k ${x.k}">${x.t}</span><span>${(x.e.ti).replace(/^【[^】]*】/,'')}</span></div>`).join('')||'<div class="note">暂无预警</div>';
 }
 function card(x){const{e,r}=x,rm=e.ty==='rumor',d=new Date(NOW()-e.m*6e4);
-const title = e.ti_zh || e.ti;
-const summary = e.su_zh || e.su;
 return`<div class="card ${rm?'rm':''}"><div class="meta"><span class="ts">${pad(d.getHours())}:${pad(d.getMinutes())}</span><span class="st ${sc(r.st)}">${r.st}</span><span class="tp ${rm?'r':''}">${rm?'传闻 · 未证实':e.ty==='official'?'官方':'媒体'}</span><span class="tp">${e.rg==='EU'?'中欧':'中美'}</span><span class="tp">${e.dm}</span><span class="tp">交叉验证 ${Math.min(e.ind,e.sr.length)} 源</span></div>
-<div class="hl" data-o="${e.id}">${title}</div><div class="sm ${title==='翻译中...'?'loading-txt':''}">${summary}</div>
+<div class="hl" data-o="${e.id}">${e.ti}</div><div class="sm">${e.su}</div>
 <div class="sc">${bar('可信度',r.c)}${bar('重要性',r.imp)}${bar('影响力',r.inf)}<div class="comp" style="color:${col(r.comp)}">${r.comp}<small>综合价值</small></div></div>
 <div class="tags">${r.T.map(t=>`<span class="tg ${t==='高传播待核实'?'w':''}">${t==='高传播待核实'?'⚠ 高传播 / 未证实 / 谨慎对待':t}</span>`).join('')}${e.sec.split(',').map(s=>`<span class="tg">#${s}</span>`).join('')}</div></div>`}
 function alerts(){const o=[];D.forEach(e=>{const r=calc(e),k={};const add=(t,x)=>{if(!k[t]){k[t]=1;o.push({e,k:t,t:x,c:r.comp})}};
@@ -228,20 +201,18 @@ if(r.st!=='疑似谣言'){if(r.comp>=TH)add('hi','综合分≥'+TH);if(r.T.inclu
 if(e.fl.includes('deny'))add('risk','官方辟谣')});return o.sort((a,b)=>b.c-a.c)}
 function open(h){$('#mc').innerHTML=h;$('#mb').classList.add('open')}
 function detail(id){const e=D.find(x=>x.id===id),r=calc(e),rm=e.ty==='rumor',a=adj[id]||{c:0,deb:0},S=[...e.sr].sort((x,y)=>x.o-y.o),t0=NOW()-e.m*6e4;
-const title = e.ti_zh || e.ti;
-const summary = e.su_zh || e.su;
 const fx=(n,v,d)=>`<div class="fx"><span>${n}</span><span class="note">${d}</span><b class="mono" style="color:${col(v)}">${v}</b></div>`;
-open(`<div class="row"><span class="st ${sc(r.st)}">${r.st}</span><span class="tp ${rm?'r':''}">${rm?'传闻 · 未证实':e.ty==='official'?'官方':'媒体'}</span><span class="tp">${e.dm}</span><span class="cbtn" style="margin-left:auto" data-a="x">关闭 ✕</span></div><h3>${title}</h3><div class="sm">${summary}</div>
+open(`<div class="row"><span class="st ${sc(r.st)}">${r.st}</span><span class="tp ${rm?'r':''}">${rm?'传闻 · 未证实':e.ty==='official'?'官方':'媒体'}</span><span class="tp">${e.dm}</span><span class="cbtn" style="margin-left:auto" data-a="x">关闭 ✕</span></div><h3>${e.ti}</h3><div class="sm">${e.su}</div>
 <div class="sec"><div class="h4">评分解释 · 综合 ${r.comp}</div>${fx('可信度',r.c,'来源层级35 · 独立来源25 · 官方原文15 · 历史准确率15 · 传播异常10')}${fx('重要性',r.imp,'政策层级35 · 影响范围25 · 先例性20 · 市场敏感20')}${fx('影响力',r.inf,'广度35 · 速度30 · 跨语言20 · 市场关联15 · 时间衰减×'+r.dec.toFixed(2))}
 <div class="note">综合 = (${r.c}×${W.c} + ${r.imp}×${W.i} + ${r.inf}×${W.f}) ÷ ${W.c+W.i+W.f}（权重可在“模型与预警”调整）</div>${r.R.map(x=>`<div class="note" style="color:var(--amb)">▸ ${x}</div>`).join('')}</div>
 <div class="sec"><div class="h4">多源对比 · ${S.length} 条</div><table class="tbl"><tr><th>来源</th><th>层级</th><th>北京时间</th><th>链接</th></tr>${S.map(s=>`<tr><td>${s.n}</td><td>${TIER[s.t]}</td><td class="mono">${hm(t0+s.o*6e4,'Asia/Shanghai')}</td><td>${s.u?`<a href="${s.u}" target="_blank" rel="noopener noreferrer" style="color:var(--gold)">打开原文</a>`:'<span class="note">示例·占位</span>'}</td></tr>`).join('')}</table></div>
 <div class="sec"><div class="h4">时间线（北京 / 华盛顿）</div>${S.map((s,i)=>`<div class="ln"><span class="mono">${hm(t0+s.o*6e4,'Asia/Shanghai')} / ${hm(t0+s.o*6e4,'America/New_York')}</span>　${i?'':'首次出现：'}${s.n}${i&&s.t<2?'（官方跟进，可信度重算）':''}</div>`).join('')}</div>
-<div class="sec"><div class="h4">传播指标 · 涉及行业</div><div class="note">广度 ${e.re} · 速度 ${e.ve} · 跨语言 ${e.cx} · 市场关联 ${e.mr} ｜ 行业：${e.sec} ｜ 机器翻译内容将标注“机器翻译”</div></div>
+<div class="sec"><div class="h4">传播指标 · 涉及行业</div><div class="note">广度 ${e.re} · 速度 ${e.ve} · 跨语言 ${e.cx} · 市场关联 ${e.mr} ｜ 行业：${e.sec}</div></div>
 <div class="sec"><div class="h4">人工校正（回流模型）</div><div class="row"><button class="cbtn" data-a="adj" data-id="${id}" data-v="10">可信度 +10</button><button class="cbtn" data-a="adj" data-id="${id}" data-v="-10">可信度 −10</button><button class="cbtn" data-a="adj" data-id="${id}" data-v="deb">标记辟谣/噪声</button><button class="cbtn" data-a="adj" data-id="${id}" data-v="0">重置</button></div>
 <div class="note" style="margin-top:6px">${log.filter(l=>l.id===id).map(l=>l.t).join('<br>')||'暂无校正记录'}</div></div>`)}
 function srcModal(){open(`<div class="row"><div class="h4" style="margin:0">来源管理 · 白名单</div><span class="cbtn" style="margin-left:auto" data-a="x">关闭 ✕</span></div><div class="note" style="margin-top:6px">共 ${SRC.length} 个信源，带 ★ 为本次查漏新增。</div><div style="overflow-x:auto"><table class="tbl" style="margin-top:8px;min-width:720px"><tr><th>启用</th><th>编号</th><th>来源</th><th>层级</th><th>间隔(分)</th><th>基准分</th><th>监控看点</th></tr>${SRC.map((s,i)=>`<tr><td><input type="checkbox" data-s="${i}" ${s.on?'checked':''}></td><td class="mono">${s.id}</td><td>${s.n}</td><td>${s.g}</td><td><input class="inp" style="width:56px;padding:3px 8px" type="number" min="1" value="${s.iv}" data-v="${i}"></td><td class="mono">${s.b}</td><td>${s.note}</td></tr>`).join('')}</table></div>
-<div class="note" style="margin-top:10px">建议轮询：官方 5–15 分钟 · 主流媒体 5–10 分钟 · 公开社区 1–5 分钟，热点期动态加速；失败重试、断点续采、去重、语言识别均由后端完成。历史准确率随人工校正与最终证实结果滚动更新，并反哺“可信度”。仅采集公开内容，遵守 robots 与平台条款。</div>`)}
-function expModal(){const L=list();open(`<div class="row"><div class="h4" style="margin:0">导出事件清单（${L.length} 条）</div><span class="cbtn" style="margin-left:auto" data-a="x">关闭 ✕</span></div><textarea class="inp" id="ex" readonly style="margin-top:10px">${['状态\t综合\t可信\t重要\t影响\t标题\t来源'].concat(L.map(({e,r})=>[r.st,r.comp,r.c,r.imp,r.inf,e.ti_zh||e.ti,e.sr.map(s=>s.n).join('；')].join('\t'))).join('\n')}</textarea><div class="row" style="margin-top:8px"><button class="cbtn" data-a="cp">复制全部（可粘贴到表格）</button></div>`)}
+<div class="note" style="margin-top:10px">建议轮询：官方 5–15 分钟 · 主流媒体 5–10 分钟 · 公开社区 1–5 分钟，热点期动态加速；失败重试、断点续采、去重、语言识别均由后端完成。</div>`)}
+function expModal(){const L=list();open(`<div class="row"><div class="h4" style="margin:0">导出事件清单（${L.length} 条）</div><span class="cbtn" style="margin-left:auto" data-a="x">关闭 ✕</span></div><textarea class="inp" id="ex" readonly style="margin-top:10px">${['状态\t综合\t可信\t重要\t影响\t标题\t来源'].concat(L.map(({e,r})=>[r.st,r.comp,r.c,r.imp,r.inf,e.ti,e.sr.map(s=>s.n).join('；')].join('\t'))).join('\n')}</textarea><div class="row" style="margin-top:8px"><button class="cbtn" data-a="cp">复制全部（可粘贴到表格）</button></div>`)}
 
 async function poll(){last=NOW(); if(REAL){await loadRealData();left=20;return;} left=20; render();}
 
