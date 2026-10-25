@@ -1,0 +1,33 @@
+name: Daily Trade Intel Scrape
+
+on:
+  schedule:
+    - cron: "0 1 * * *"   # 每天 UTC 01:00，即北京时间 09:00
+  workflow_dispatch:        # 同时允许手动点击运行，方便测试
+
+permissions:
+  contents: write           # 必须声明，否则无法把 news.json 提交回仓库
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        run: python scraper.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          git diff --staged --quiet || git commit -m "data: $(date -u +%F)"
+          git push
