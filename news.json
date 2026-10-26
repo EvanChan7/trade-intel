@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-25T09:37:09.667316+00:00",
-  "count": 50,
+  "updated_at": "2026-10-26T05:50:30.233702+00:00",
+  "count": 51,
   "events": [
+    {
+      "id": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-civil-protection-mechanism-turns-25-2026-10-23_en",
+      "source": "欧盟委员会",
+      "title": "欧盟民事保护机制成立 25 周年",
+      "summary": "自创建以来，它已被 160 个国家和 8 个国际组织启动了 900 多次，协调欧洲和世界各地的野火、洪水、地震、突发卫生事件和其他灾害的援助工作。",
+      "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-civil-protection-mechanism-turns-25-2026-10-23_en",
+      "date": "2026-10-25T18:45:13+00:00"
+    },
     {
       "id": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/building-bridges-through-science-diplomacy-2026-10-23_en",
       "source": "欧盟委员会",
@@ -25,14 +33,6 @@
       "summary": "欧洲企业网络 2026 年年会将于 11 月 11 日至 13 日在爱尔兰都柏林的克罗克公园会议中心举行，网络合作伙伴和利益相关者将出席。\n在“变化世界中的敏捷网络”主题下，700 名参与者参加了现场和在线交流，为期 3 天。",
       "url": "https://single-market-economy.ec.europa.eu/news/enterprise-europe-network-annual-conference-2026-agile-network-changing-world-2026-10-23_en",
       "date": "2026-10-23T11:33:31+00:00"
-    },
-    {
-      "id": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-civil-protection-mechanism-turns-25-2026-10-23_en",
-      "source": "欧盟委员会",
-      "title": "欧盟民事保护机制成立 25 周年",
-      "summary": "自创建以来，它已被 160 个国家和 8 个国际组织启动了 900 多次，协调欧洲和世界各地的野火、洪水、地震、突发卫生事件和其他灾害的援助工作。",
-      "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-civil-protection-mechanism-turns-25-2026-10-23_en",
-      "date": "2026-10-23T10:09:09+00:00"
     },
     {
       "id": "https://competition-policy.ec.europa.eu/about/news/commission-opens-investigation-possible-anticompetitive-conduct-omya-supply-calcium-carbonates-paper-2026-10-23_en",
@@ -147,6 +147,14 @@
       "date": "2026-10-22T08:08:53+00:00"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BVkFfV0w1OHFvQ05JREoxUHpSdXJrT0xIOU02alBoZ1FTUC1oZTdCdnZSSUdhYThVVlN1OXp0alZ1Y2JSYVZjYjRXQm5SMG5URlBnR242QXdNMzE4MHBkMm9RRFhKa1loTEdLUmt6V3NyREV0OGxHLUNR?oc=5",
+      "source": "Google News-中国商务部",
+      "title": "世贸组织成员深化贸易与气候相关措施讨论，交流最新进展 - WTO/FTA咨询网",
+      "summary": "世贸组织成员深化贸易与气候相关措施讨论，交流最新进展&nbsp;&nbsp;WTO/FTA咨询网",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9BVkFfV0w1OHFvQ05JREoxUHpSdXJrT0xIOU02alBoZ1FTUC1oZTdCdnZSSUdhYThVVlN1OXp0alZ1Y2JSYVZjYjRXQm5SMG5URlBnR242QXdNMzE4MHBkMm9RRFhKa1loTEdLUmt6V3NyREV0OGxHLUNR?oc=5",
+      "date": "2026-10-22T07:15:00+00:00"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XdUNTRW9mb3hwWlJrVWxtRnlDNWU5UUp4aGxKY2ZpZm9fTXdUVWdJNFdMWnZuVVEtTkZENnZSS0pUYzd6UnNsTGF3aTQ0ZHlVVWRQU0RJSzN1UEtVVGtyYjdR?oc=5",
       "source": "Reuters-全球贸易",
       "title": "FM：对日本稀土出口管制旨在防止“重新军事化”核野心 - 环球时报",
@@ -160,7 +168,7 @@
       "title": "美国努力解决特朗普与习近平峰会未能解决的与中国相关的关键矿产短缺问题 - 自由欧洲电台/自由电台",
       "summary": "美国努力解决特朗普与习近平峰会未能解决的与中国相关的关键矿产短缺问题 自由欧洲电台/自由电台",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdUNUc2xhUmh3RVJOdHhBUVZVZEpEYTdRUnhCN29lbVJLQUJvRU1ZREFucEFEQnhsZ0o4Y2xBakotcGFxeWtvbzJyX05pcFJTS0d5dHBrUkpEcTJCLUwyWlFtQUU2MzB1YngtSXFPMlQzUHVHdVAyN19sVG95RTNQN2w0ZUpyQndfYWgxaTdGRldIcVJH0gGXAUFVX3lxTE1ZQVhXaVhlZUJIc0swNklZX3hzWXJLY3dSTV92V3U1MnRRS1l6bEhRREw5bnFYZlp4ZDBJQ1ZXNnhEY0dwTlN1cDNnZE1SbDRkemhvTTdUNkhiRy1ONDlhbWpPSG5xd3VNMW84QjlWM1V6aG1ybUc1ZnZvY0V6VWp4b3pnRndka0lsUmEyVllqNUx0VXpLU2c?oc=5",
-      "date": "2026-10-21T05:27:33+00:00"
+      "date": "2026-10-21T06:27:33+00:00"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45cTBqemh6ZFhvQzRqemxqVnZEeEluamNxbDZ4dS1WZzFpcnRNU3RLTG53T2p4V1RiQXQtZVlpMjdjUmNQUXl2WWtYeGdXVlRYMDRDaUVKZFFHODNMTUtodktQNWVuVndWMkdFYTNtczVidTIxSE5BUThDTGo?oc=5",
@@ -243,9 +251,25 @@
       "date": "2026-10-19T11:18:14+00:00"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ0xCX2VXZ05LSXBmVl9yRlFpemxKR0xFdkF3SkNFOUpiWDVyS3BKZkhUVTljckl1SW9rYXVtZ0J1dUlvek9YWEIxNzF1VnVhZHgwX2RuMWRxam9sZ3N0Q25PeHQ4Qzk4cnhDb2g3aWc3N2E4S3dNWjUzTVBxNGwySVVTNjBoQ21SMUlzanhoRGl5Zw?oc=5",
+      "source": "Google News-中国商务部",
+      "title": "商务部 海关总署公告2026年第51号 公布优化调整挖泥船相关物项出口管制措施的决定 - 中华人民共和国商务部",
+      "summary": "商务部 海关总署公告2026年第51号 公布优化调整挖泥船相关物项出口管制措施的决定&nbsp;&nbsp;中华人民共和国商务部",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ0xCX2VXZ05LSXBmVl9yRlFpemxKR0xFdkF3SkNFOUpiWDVyS3BKZkhUVTljckl1SW9rYXVtZ0J1dUlvek9YWEIxNzF1VnVhZHgwX2RuMWRxam9sZ3N0Q25PeHQ4Qzk4cnhDb2g3aWc3N2E4S3dNWjUzTVBxNGwySVVTNjBoQ21SMUlzanhoRGl5Zw?oc=5",
+      "date": "2026-10-19T11:18:14+00:00"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaUJwVW1IR0ExWmUzSXV6YTBrYUw0WXJVUTFtenFRYXQ0QmZBaWdXYWFmNEVDMm92SWxPNlRYc19ubkFVRVhBbUc5aERhNVJRUUJzUWpNWHJFcTR5OHozUGNZWWEyLU9kdU95R3BaZXF4T19zeTBrZkU1ZzI2aXdlNkJXaE02Q01fSlV5eFBsVEdqLUM0Z0w1WFI5SjVnY2NmdFd0VDRQZ3UzODhyaURpNzhkVTVzUQ?oc=5",
+      "source": "Reuters-全球贸易",
+      "title": "中国对更多无人机和工业机械实施出口限制 - Bloomberg.com",
+      "summary": "中国对更多无人机和工业机械实施出口限制 Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaUJwVW1IR0ExWmUzSXV6YTBrYUw0WXJVUTFtenFRYXQ0QmZBaWdXYWFmNEVDMm92SWxPNlRYc19ubkFVRVhBbUc5aERhNVJRUUJzUWpNWHJFcTR5OHozUGNZWWEyLU9kdU95R3BaZXF4T19zeTBrZkU1ZzI2aXdlNkJXaE02Q01fSlV5eFBsVEdqLUM0Z0w1WFI5SjVnY2NmdFd0VDRQZ3UzODhyaURpNzhkVTVzUQ?oc=5",
+      "date": "2026-10-19T08:54:59+00:00"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWTlhZlpjS2V4NWxoVE9NYkZHZWpPdlByS1M0d0tiM1pOZ29KZ0tURDl6T1lWQTd3WF9RNWtuaS15TnRSN2JwMEVoRXBnVm5jVTFkSi1LNnkzZlB3OGxLMjBtMzVFZ1hUQjBxMXZXRXJuV3FsNGJ6T3NqWWFzaHNMRjBTY2F6dUZYTEtpdlN6RDRIbFRx?oc=5",
       "source": "Reuters-全球贸易",
-      "title": "China announces export controls for tunnel boring machines - Nikkei Asia",
+      "title": "中国宣布对隧道掘进机实施出口管制 - 日经亚洲",
       "summary": "中国宣布对隧道掘进机实施出口管制 日经亚洲",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWTlhZlpjS2V4NWxoVE9NYkZHZWpPdlByS1M0d0tiM1pOZ29KZ0tURDl6T1lWQTd3WF9RNWtuaS15TnRSN2JwMEVoRXBnVm5jVTFkSi1LNnkzZlB3OGxLMjBtMzVFZ1hUQjBxMXZXRXJuV3FsNGJ6T3NqWWFzaHNMRjBTY2F6dUZYTEtpdlN6RDRIbFRx?oc=5",
       "date": "2026-10-19T08:37:00+00:00"
@@ -259,14 +283,6 @@
       "date": "2026-10-19T08:16:00+00:00"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ0xCX2VXZ05LSXBmVl9yRlFpemxKR0xFdkF3SkNFOUpiWDVyS3BKZkhUVTljckl1SW9rYXVtZ0J1dUlvek9YWEIxNzF1VnVhZHgwX2RuMWRxam9sZ3N0Q25PeHQ4Qzk4cnhDb2g3aWc3N2E4S3dNWjUzTVBxNGwySVVTNjBoQ21SMUlzanhoRGl5Zw?oc=5",
-      "source": "Google News-中国商务部",
-      "title": "商务部 海关总署公告2026年第51号 公布优化调整挖泥船相关物项出口管制措施的决定 - 中华人民共和国商务部",
-      "summary": "商务部 海关总署公告2026年第51号 公布优化调整挖泥船相关物项出口管制措施的决定&nbsp;&nbsp;中华人民共和国商务部",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ0xCX2VXZ05LSXBmVl9yRlFpemxKR0xFdkF3SkNFOUpiWDVyS3BKZkhUVTljckl1SW9rYXVtZ0J1dUlvek9YWEIxNzF1VnVhZHgwX2RuMWRxam9sZ3N0Q25PeHQ4Qzk4cnhDb2g3aWc3N2E4S3dNWjUzTVBxNGwySVVTNjBoQ21SMUlzanhoRGl5Zw?oc=5",
-      "date": "2026-10-19T07:43:23+00:00"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMEdTQnBfVXZWMDdIYTA3aDY4OXZTUTNFZW90VGpvN3lIYjNDS0V6TEdvVG9lem1mQ1BQcm5ucUZLbTVCQmRfbGN0YnRfcldpUzhFS3gyRTZWSm1tcGt1ZFQ2ZGk2cTNfVE5pYUNXaFJyWktIQjRKYXpGTUl3UFBCNUFhOXZNay1zbm1iczZHbEd2NWc?oc=5",
       "source": "Google News-中国商务部",
       "title": "商务部新闻发言人就盾构机等物项实施出口管制、优化调整挖泥船相关物项出口管制措施答记者问 - 中华人民共和国商务部",
@@ -275,28 +291,12 @@
       "date": "2026-10-19T07:24:00+00:00"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcEJINVkzLU5OVlMtaThGclM2eHJhRlRtTExyQkhlaXBkZWR2M3J6ZENEMHdpTFB2VGRURnZuY3ZoMVV0T1h6dHZtRS14Q18tQ1FCLXFqMERSR3lVd3dwVjRmQVhyeUhQM0Q2MHV0eUJEUVEwS3NtQ3VjT2kxTy01b1Y1Q0w1N1REOUJoc21MNA?oc=5",
-      "source": "Google News-中国商务部",
-      "title": "商务部海关总署中央军委装备发展部公告2026年第49号公布优化调整无人机相关物项出口管制措施的决定 - 中华人民共和国商务部",
-      "summary": "商务部海关总署中央军委装备发展部公告2026年第49号公布优化调整无人机相关物项出口管制措施的决定&nbsp;&nbsp;中华人民共和国商务部",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcEJINVkzLU5OVlMtaThGclM2eHJhRlRtTExyQkhlaXBkZWR2M3J6ZENEMHdpTFB2VGRURnZuY3ZoMVV0T1h6dHZtRS14Q18tQ1FCLXFqMERSR3lVd3dwVjRmQVhyeUhQM0Q2MHV0eUJEUVEwS3NtQ3VjT2kxTy01b1Y1Q0w1N1REOUJoc21MNA?oc=5",
-      "date": "2026-10-19T07:00:00+00:00"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYkJ0SlV2TWxkejRMemRrcGdKU1lmeFV1N2l2UVUtQ3MtUEcyamlubGtzMk5EaVQ5YU5VRVRxQnNqWUhSRGR3QktzS2FuYVhGaUFwOE56dWs3dE1hTVhQQS1OV1RxWmY1b3dBVzUzaTFia2cwZXN5b29fb3ZGQXVzZlJqOUkySTZDY3NzTDdMNA?oc=5",
       "source": "Google News-中国商务部",
       "title": "商务部等9部门关于加快推进科技兴商的意见 - 中华人民共和国商务部",
       "summary": "商务部等9部门关于加快推进科技兴商的意见&nbsp;&nbsp;中华人民共和国商务部",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYkJ0SlV2TWxkejRMemRrcGdKU1lmeFV1N2l2UVUtQ3MtUEcyamlubGtzMk5EaVQ5YU5VRVRxQnNqWUhSRGR3QktzS2FuYVhGaUFwOE56dWs3dE1hTVhQQS1OV1RxWmY1b3dBVzUzaTFia2cwZXN5b29fb3ZGQXVzZlJqOUkySTZDY3NzTDdMNA?oc=5",
       "date": "2026-10-19T02:12:00+00:00"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUzR6T2xvUUt2Njl6TUZXaWFPYWxRU3QwRTZKM0d6N2tQUFlLcE1yUWZZLWlXc0w0Y0pMUzRaNlp2LWRZSUUtTWFBY0YzYllNT0dQNGx0eFo5YXUyQkpaZE44aUUtTUhpd29vZ1NmdGc2bFZUd1pSMW9OekJ2ZUljekNvRTFaZ0dNdTNFcVNmNDJic0M1T1RreXNWRUZ6ckxTVUE4NVBPdmRjcjJYTHlObTlFZjhDWHZuVkl4YXcwTk83TE8y?oc=5",
-      "source": "Reuters-全球贸易",
-      "title": "中国提议扩大对人工智能、生物制药和太阳能技术的出口管制 - 全球制裁和出口管制博客",
-      "summary": "中国提议扩大对人工智能、生物制药和太阳能技术的出口管制 全球制裁和出口管制博客",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUzR6T2xvUUt2Njl6TUZXaWFPYWxRU3QwRTZKM0d6N2tQUFlLcE1yUWZZLWlXc0w0Y0pMUzRaNlp2LWRZSUUtTWFBY0YzYllNT0dQNGx0eFo5YXUyQkpaZE44aUUtTUhpd29vZ1NmdGc2bFZUd1pSMW9OekJ2ZUljekNvRTFaZ0dNdTNFcVNmNDJic0M1T1RreXNWRUZ6ckxTVUE4NVBPdmRjcjJYTHlObTlFZjhDWHZuVkl4YXcwTk83TE8y?oc=5",
-      "date": "2026-10-18T20:25:24+00:00"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLXIwOXlqVDlLQkFHRDlhUTF5d3dnVzNLazZJX0RFTjlZdXQ0V2VWUXFzeTdTMHdqb3hPTTl5LTZiZlVkdzM3Yld3MXFrN0NURWFKTEQzZkxTSWhxNU0wUFVvQWxyeFBLYlpIZExBZmljM0lrUl9LNzM3LUlYTElCeVBZQUpHLTIwVVoyc2ZWSQ?oc=5",
@@ -323,6 +323,14 @@
       "date": "2026-10-16T01:04:19+00:00"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FZzh6NzM3VjlBSVVaRTBBWVJOb3M2Ql9jb2JuNDFIcnROb2ozVDIxZ0lwM1oxQl9qaGZnUHMzYU5WTm5rV0tVaFQ0SlgtTEpyaEhwNHJXY0FBU0NrQ0wwMkxIUi13eXJUdW85WXJkZjR5MGJwY05CTkhn?oc=5",
+      "source": "Google News-中国商务部",
+      "title": "自贸协定持续惠好中智双边贸易 - WTO/FTA咨询网",
+      "summary": "自贸协定持续惠好中智双边贸易&nbsp;&nbsp;WTO/FTA咨询网",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FZzh6NzM3VjlBSVVaRTBBWVJOb3M2Ql9jb2JuNDFIcnROb2ozVDIxZ0lwM1oxQl9qaGZnUHMzYU5WTm5rV0tVaFQ0SlgtTEpyaEhwNHJXY0FBU0NrQ0wwMkxIUi13eXJUdW85WXJkZjR5MGJwY05CTkhn?oc=5",
+      "date": "2026-10-15T07:00:00+00:00"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OLXU3b3dfQkU2aDk4OG9rVXg0SF84OUJITTZvcnh1a0YwVW53LUJ6QWpYRXhGVjQ3dFFjQjdrNVJGcUJjdU9yOE1ENk9xM1ctdS1QSDhybF80WThjT0E2WDN6QlFKd014dmFUQXJ4Zmg4UzcyVGc?oc=5",
       "source": "Google News-中国商务部",
       "title": "印美贸易谈判为何陷入僵局 - 中国贸易救济信息网",
@@ -337,14 +345,6 @@
       "summary": "本通知为美国海关和边境保护局评估符合《美国-墨西哥-加拿大协定》优惠关税待遇的加拿大和墨西哥产品的“美国含量”提供指导，以便根据 2026 年 6 月 1 日第 11032 号公告实施关税。",
       "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20938/guidance-to-us-customs-and-border-protection-regarding-the-assessment-of-us-content-for-purposes-of",
       "date": "2026-10-14T04:00:00+00:00"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdkR0NVZfTHN5eWZPdWQtR1hHZVFhcUdGMXU2MG9jY3diVVUtZ0pRMG1qeC1pTTJUaUY4dEJXcHJZc2xBN0JuLV9pWVYya3VWR0hGdk16U1lSd1g0bGtDRkRuWE9xSTJ4aFNDdFRoTTVwbWhkMjNXSHVESC1qbWtzaHJB?oc=5",
-      "source": "Google News-中国商务部",
-      "title": "国别贸易投资环境信息网 - 中华人民共和国商务部",
-      "summary": "国别贸易投资环境信息网&nbsp;&nbsp;中华人民共和国商务部",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdkR0NVZfTHN5eWZPdWQtR1hHZVFhcUdGMXU2MG9jY3diVVUtZ0pRMG1qeC1pTTJUaUY4dEJXcHJZc2xBN0JuLV9pWVYya3VWR0hGdk16U1lSd1g0bGtDRkRuWE9xSTJ4aFNDdFRoTTVwbWhkMjNXSHVESC1qbWtzaHJB?oc=5",
-      "date": "2026-10-12T07:00:00+00:00"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZHByMndhckJXaDFDRUlrUmZDRDdmLXhGVGxEZFMzdXd0aTVmNmtjeUV2cEloOXZIRmQzel9SclkteVEzUzk3ekI3dG9QRTdNYVowVlZzclQ3d010U0FZaTlLRGRpaEdMRGlUTHpvZklBTlZ1YmJvWWxYVlVDQURad0g4RFBiS0Uyb2Y4?oc=5",
@@ -401,6 +401,14 @@
       "summary": "两用物项出口管制清单数据库 中华人民共和国两用物项出口管制清单&nbsp;&nbsp;中国出口管制信息网",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FcnQ2ZFUybTJnbTRWYmpfY1RNRmU1Sm5vTG45RlJHVEFmN1plc0FBVXFUVnVnZlFsdzZndVpEaWNVbFV4RUJIamNaOC1vSTJxU0l1SkJDeWd6NVJsZERYNg?oc=5",
       "date": "2026-04-25T21:07:22+00:00"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFA1LUJhUGRtVjBZbjI5TGp1SGZNMEpXLXQ1b044UWlxbVFPRWJobFpEYmRrd29vZEVTQWM2QjhhUQ?oc=5",
+      "source": "Google News-中国商务部",
+      "title": "中华人民共和国商务部 - 中华人民共和国商务部",
+      "summary": "中华人民共和国商务部&nbsp;&nbsp;中华人民共和国商务部",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFA1LUJhUGRtVjBZbjI5TGp1SGZNMEpXLXQ1b044UWlxbVFPRWJobFpEYmRrd29vZEVTQWM2QjhhUQ?oc=5",
+      "date": "2023-10-29T03:07:01+00:00"
     }
   ]
 }
