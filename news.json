@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-11-06T07:44:49.540054+00:00",
-  "count": 54,
+  "updated_at": "2026-11-07T06:53:20.210641+00:00",
+  "count": 57,
   "events": [
+    {
+      "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcExYZThRWWdOcFN0dzBJelYtOXVsbnhrTHpoYmdQYTdCX2hLU3ZKNVRpTEJKSU85WTBSZE41SUhNYVhWZW83YldlRUUtNXN5OGNoV0ZNNW1ZNE5XVHVnU1ZOcTVLSHdLN2RYSkx0d25oUnVKRTBzVVk1ZjdYTUdwRDZiUlZVblc4SWxKZEVjb3FWSEJzZ2Q4Um9SMkFMc0ZhWm0zcWhOWFA5cFV0TmFn?oc=5",
+      "source": "Reuters-全球贸易",
+      "title": "由于稀土出货量不足，美国敦促中国遵守釜山贸易休战协议。 - 投资直播",
+      "summary": "由于稀土出货量不足，美国敦促中国遵守釜山贸易休战协议。  投资现场",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcExYZThRWWdOcFN0dzBJelYtOXVsbnhrTHpoYmdQYTdCX2hLU3ZKNVRpTEJKSU85WTBSZE41SUhNYVhWZW83YldlRUUtNXN5OGNoV0ZNNW1ZNE5XVHVnU1ZOcTVLSHdLN2RYSkx0d25oUnVKRTBzVVk1ZjdYTUdwRDZiUlZVblc4SWxKZEVjb3FWSEJzZ2Q4Um9SMkFMc0ZhWm0zcWhOWFA5cFV0TmFn?oc=5",
+      "date": "2026-11-06T17:39:09+00:00"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb1hFMFZLZ3NScUN5R1drUjBFWFZGSXA5a1JjYW9TTkp0UE5nYWNxekFRNlBQcG00X3NpRmZHVVJ4X25HM3pnaHYtMVgxSENsT0RrTmg4OURDNk12dmhyVDFZbHN6V2g3Y0hWY05HaWxKaVdoMXFxVlBEdUwteWEtVjB5YTdyNTBORnQ1azRXQnFFeVFWcFZfRzFpQTVVSkI3dXFUcFJYWjIwT3JRckcwRzVmdklOdw?oc=5",
+      "source": "Reuters-全球贸易",
+      "title": "英伟达的人工智能芯片出口成为民主党国会的目标 - Bloomberg.com",
+      "summary": "Nvidia 的 AI 芯片出口成为民主党国会的目标 Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb1hFMFZLZ3NScUN5R1drUjBFWFZGSXA5a1JjYW9TTkp0UE5nYWNxekFRNlBQcG00X3NpRmZHVVJ4X25HM3pnaHYtMVgxSENsT0RrTmg4OURDNk12dmhyVDFZbHN6V2g3Y0hWY05HaWxKaVdoMXFxVlBEdUwteWEtVjB5YTdyNTBORnQ1azRXQnFFeVFWcFZfRzFpQTVVSkI3dXFUcFJYWjIwT3JRckcwRzVmdklOdw?oc=5",
+      "date": "2026-11-06T14:56:59+00:00"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZnlJMnVjVmJhSGNSemVhZmZTd3ZER0pBeUVoQ09XWFhla2xjX1VwU1QyZDdxQldaMXhXQzNHRVhvMzYyVXBJZzlsQTY4SDJhUy1XV3llbUxOLTBRY2JfamZOZXo3eXhocXAwU0VObmZ6Y3RULWVvUWc1ejdScW0zODVJMjBMX19FVFE?oc=5",
+      "source": "Google News-中国商务部",
+      "title": "中国与加蓬签署结束共同发展经济伙伴关系协定早期收获安排谈判的谅解备忘录 - 商务部",
+      "summary": "中国与加蓬签署结束共同发展经济伙伴关系协定早期收获安排谈判的谅解备忘录&nbsp;&nbsp;商务部",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZnlJMnVjVmJhSGNSemVhZmZTd3ZER0pBeUVoQ09XWFhla2xjX1VwU1QyZDdxQldaMXhXQzNHRVhvMzYyVXBJZzlsQTY4SDJhUy1XV3llbUxOLTBRY2JfamZOZXo3eXhocXAwU0VObmZ6Y3RULWVvUWc1ejdScW0zODVJMjBMX19FVFE?oc=5",
+      "date": "2026-11-06T12:06:00+00:00"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPekVlazRMWnRzWG1NWDNNQ3kxYUNVdUtudV8xY1g2bWx2V3pQaFVpekMyTkxoZkNFVlJkaU51NjBDTnRpbk5zbWNsY1RkZHM?oc=5",
+      "source": "Reuters-全球贸易",
+      "title": "中国如何意外打破西方对武器贸易的垄断 - CounterPunch.org",
+      "summary": "中国如何意外打破西方对武器贸易的垄断 CounterPunch.org",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPekVlazRMWnRzWG1NWDNNQ3kxYUNVdUtudV8xY1g2bWx2V3pQaFVpekMyTkxoZkNFVlJkaU51NjBDTnRpbk5zbWNsY1RkZHM?oc=5",
+      "date": "2026-11-06T07:33:18+00:00"
+    },
+    {
+      "id": "https://www.federalregister.gov/documents/2026/11/06/2026-22726/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
+      "source": "美国BIS (Federal Register)",
+      "title": "机构信息收集活动；提交管理和预算办公室 (OMB) 审批；评论请求；申请流程 豁免进口资格标准 限制多晶硅及多晶硅衍生物库存的措施",
+      "summary": "根据 1995 年《文书减少法案》(PRA)，商务部邀请公众和其他联邦机构对拟议的和持续的信息收集发表评论，这有助于我们评估信息收集要求的影响并最大限度地减少公众的报告负担。本通知的目的是允许公众在 60 天内对 OMB 批准的临时紧急收集提出意见",
+      "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22726/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
+      "date": "2026-11-06T05:00:00+00:00"
+    },
+    {
+      "id": "https://www.federalregister.gov/documents/2026/11/06/2026-22725/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
+      "source": "美国BIS (Federal Register)",
+      "title": "机构信息收集活动；提交管理和预算办公室 (OMB) 审批；评论请求；第 232 条 对特种药品及相关成分进口的国家安全调整",
+      "summary": "根据 1995 年《文书减少法案》(PRA)，商务部邀请公众和其他联邦机构对拟议的和持续的信息收集发表评论，这有助于我们评估信息收集要求的影响并最大限度地减少公众的报告负担。本通知的目的是允许公众在 60 天内对 OMB 批准的临时紧急收集提出意见",
+      "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22725/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
+      "date": "2026-11-06T05:00:00+00:00"
+    },
     {
       "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaQkNlMWpraDhmRGtzSUZJNlRPLVl5azBwMDdWZ1c2bGozMGlBUDhuYnM4MzhJeFpEQklJWno2ZVBtWU96X3RNWkppSTNhSkZpZXU0cnp1SE1JQVJndXk3LUhveHQ2bUctMTZzeFBNSW1mVjJreGc?oc=5",
       "source": "Reuters-全球贸易",
@@ -11,20 +59,92 @@
       "date": "2026-11-06T04:27:57+00:00"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnVy10Znk3SVJGZDRpUjZBRGk3WlVyQmdCY1prUFZsLTZXMXBUcFdZVXpQZHRYVG5NX2liVDlqQ25GTHZ3YmJndExRX3ctWGJ4ekhrT085dUI1RkZ2RVZfVGl1YzJmTlIzM0VaMHpyNGg0UkE2UWc?oc=5",
-      "source": "Google News-中国商务部",
-      "title": "贸易救济 - 中国贸易救济信息网",
-      "summary": "贸易救济&nbsp;&nbsp;中国贸易救济信息网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnVy10Znk3SVJGZDRpUjZBRGk3WlVyQmdCY1prUFZsLTZXMXBUcFdZVXpQZHRYVG5NX2liVDlqQ25GTHZ3YmJndExRX3ctWGJ4ekhrT085dUI1RkZ2RVZfVGl1YzJmTlIzM0VaMHpyNGg0UkE2UWc?oc=5",
-      "date": "2026-11-06T02:59:34+00:00"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNDRsdElnRGFmbW5YVDI0UlZydWQtaHZhRUlFWFdpTDZrRWxUbzJDWWVrYVlKb2NmTmJOeUhxSXNtc3FxaWRjZGhDZUxoQlJWZWZwekNUUUFiNjVBMXVQZ09jU1lJR3BWREhRbF92b1pTZHNPVmNSSjU0VnFsZWtLamRadUtEVVhnSnlFZWp4WWEwZGt1THFBMjNHWlZkbnFSSTRtTEMzQjJYNGJvUE5iYnZoTmlzN1NmOXhsR3ppd3VIdllfbzFTOWRpd2s2TmpNY3c?oc=5",
       "source": "Reuters-全球贸易",
       "title": "美国延长暂停对中国企业的出口限制 - 日经亚洲",
       "summary": "美国延长对中国企业出口限制的暂停期限日经亚洲",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNDRsdElnRGFmbW5YVDI0UlZydWQtaHZhRUlFWFdpTDZrRWxUbzJDWWVrYVlKb2NmTmJOeUhxSXNtc3FxaWRjZGhDZUxoQlJWZWZwekNUUUFiNjVBMXVQZ09jU1lJR3BWREhRbF92b1pTZHNPVmNSSjU0VnFsZWtLamRadUtEVVhnSnlFZWp4WWEwZGt1THFBMjNHWlZkbnFSSTRtTEMzQjJYNGJvUE5iYnZoTmlzN1NmOXhsR3ppd3VIdllfbzFTOWRpd2s2TmpNY3c?oc=5",
       "date": "2026-11-05T23:11:00+00:00"
+    },
+    {
+      "id": "https://taxation-customs.ec.europa.eu/news/new-guidance-electricity-imports-under-centralised-clearance-import-cci-2026-11-06_en",
+      "source": "欧盟委员会",
+      "title": "集中进口清关（CCI）下电力进口新指南",
+      "summary": "新指南支持欧盟在集中进口清关（CCI）框架下对电力进口采取统一方法。",
+      "url": "https://taxation-customs.ec.europa.eu/news/new-guidance-electricity-imports-under-centralised-clearance-import-cci-2026-11-06_en",
+      "date": "2026-11-05T23:00:00+00:00"
+    },
+    {
+      "id": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-releases-eur16-million-humanitarian-aid-myanmar-and-rohingya-refugees-bangladesh-2026-11-06_en",
+      "source": "欧盟委员会",
+      "title": "欧盟为孟加拉国的缅甸和罗辛亚难民提供1600万欧元的人道主义援助",
+      "summary": "欧盟已额外拨款 1600 万欧元人道主义援助，以帮助受缅甸持续冲突影响的社区以及罗兴亚难民及其在孟加拉国的收容社区。",
+      "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-releases-eur16-million-humanitarian-aid-myanmar-and-rohingya-refugees-bangladesh-2026-11-06_en",
+      "date": "2026-11-05T23:00:00+00:00"
+    },
+    {
+      "id": "https://policy.trade.ec.europa.eu/news/commission-initiates-safeguard-investigation-imports-pet-resin-chemicals-2026-11-06_en",
+      "source": "欧盟委员会",
+      "title": "欧盟委员会对进口PET树脂化学品发起保障措施调查",
+      "summary": "今天，欧盟委员会启动了一项保障措施调查，以评估是否需要采取保障措施来保护欧盟工业免受聚对苯二甲酸乙二醇酯（PET）树脂化学品进口大幅增加的影响。",
+      "url": "https://policy.trade.ec.europa.eu/news/commission-initiates-safeguard-investigation-imports-pet-resin-chemicals-2026-11-06_en",
+      "date": "2026-11-05T23:00:00+00:00"
+    },
+    {
+      "id": "https://energy.ec.europa.eu/news/eu-push-accelerated-global-climate-action-cop31-2026-11-06_en",
+      "source": "欧盟委员会",
+      "title": "欧盟将在 COP31 上推动加速全球气候行动",
+      "summary": "在 11 月 9 日至 20 日于土耳其安塔利亚举行的 COP31 联合国气候变化大会上，欧盟将与国际伙伴合作，加速全球气候行动并实现《巴黎协定》的目标。",
+      "url": "https://energy.ec.europa.eu/news/eu-push-accelerated-global-climate-action-cop31-2026-11-06_en",
+      "date": "2026-11-05T23:00:00+00:00"
+    },
+    {
+      "id": "https://employment-social-affairs.ec.europa.eu/news/eu-actions-prevent-and-combat-child-poverty-explained-children-and-young-people-2026-11-06_en",
+      "source": "欧盟委员会",
+      "title": "向儿童和青少年解释欧盟预防和消除儿童贫困的行动",
+      "summary": "一本新的儿童友好出版物《打破儿童贫困的循环——加强欧洲儿童保障》解释了欧盟如何努力让每个儿童在生活中享有公平的机会。",
+      "url": "https://employment-social-affairs.ec.europa.eu/news/eu-actions-prevent-and-combat-child-poverty-explained-children-and-young-people-2026-11-06_en",
+      "date": "2026-11-05T23:00:00+00:00"
+    },
+    {
+      "id": "https://enlargement.ec.europa.eu/news/commission-opens-negotiations-extend-roam-home-western-balkans-2026-11-06_en",
+      "source": "欧盟委员会",
+      "title": "委员会启动谈判，将“像在家一样漫游”扩展到西巴尔干地区",
+      "summary": "欧盟委员会已启动谈判，将阿尔巴尼亚、波斯尼亚和黑塞哥维那、科索沃、黑山、北马其顿和塞尔维亚纳入欧盟“像在家一样漫游”制度。",
+      "url": "https://enlargement.ec.europa.eu/news/commission-opens-negotiations-extend-roam-home-western-balkans-2026-11-06_en",
+      "date": "2026-11-05T23:00:00+00:00"
+    },
+    {
+      "id": "https://housing.ec.europa.eu/whats-new/news/european-responsible-housing-awards-open-applications-2026-11-06_en",
+      "source": "欧盟委员会",
+      "title": "欧洲责任住房奖开放申请",
+      "summary": "2027 年版欧洲责任住房奖的申请截止日期为 2026 年 12 月 31 日。",
+      "url": "https://housing.ec.europa.eu/whats-new/news/european-responsible-housing-awards-open-applications-2026-11-06_en",
+      "date": "2026-11-05T23:00:00+00:00"
+    },
+    {
+      "id": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2361",
+      "source": "欧盟委员会",
+      "title": "TikTok：初步发现有害的“兔子洞”效应",
+      "summary": "欧盟委员会初步认定 TikTok 因其推荐系统存在所谓的“兔子洞效应”而违反了《数字服务法》(DSA)。",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2361",
+      "date": "2026-11-05T23:00:00+00:00"
+    },
+    {
+      "id": "https://commission.europa.eu/news-and-media/news/celebrating-30-years-marie-sklodowska-curie-actions-2026-11-06_en",
+      "source": "欧盟委员会",
+      "title": "庆祝玛丽·斯克沃多夫斯卡-居里行动 30 周年",
+      "summary": "三十多年来欧盟针对研究人员培训、流动和职业发展的旗舰计划",
+      "url": "https://commission.europa.eu/news-and-media/news/celebrating-30-years-marie-sklodowska-curie-actions-2026-11-06_en",
+      "date": "2026-11-05T23:00:00+00:00"
+    },
+    {
+      "id": "https://fpi.ec.europa.eu/news-and-events/news/paris-peace-forum-2026-mediating-together-peace-lasts-2026-11-06_en",
+      "source": "欧盟委员会",
+      "title": "2026 年巴黎和平论坛：共同调解，实现持久和平",
+      "summary": "欧盟委员会外交政策工具服务处 (FPI) 将在 2026 年巴黎和平论坛上重点关注和平调解如何适应不断变化的世界，并于 11 月 10 日举办“今日和平调解：新参与者、新联盟、持久成果”主题小组讨论。",
+      "url": "https://fpi.ec.europa.eu/news-and-events/news/paris-peace-forum-2026-mediating-together-peace-lasts-2026-11-06_en",
+      "date": "2026-11-05T23:00:00+00:00"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdHdLczgwVTVTWTBzWWoxVEZ4UXUwakItZVVSYWtHcjBLWXl0ZUFsVVhPSklqakl1YzlDMlkza2xIZU5hQldmOE0yUThKRHhuUDZacDlmb0FyU0pmRW5GY2ctRlc0NVk5Wjd3NWxuMFZ6Mnh1Q3RucUFmN0RXeF9BelVxTTlvMkgycHZmM2drSEtGc0R4?oc=5",
@@ -43,20 +163,28 @@
       "date": "2026-11-05T15:09:00+00:00"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUc0JXdFFrNXJHSkxKclVRQkdfMXZNbmk5akFqZDA2dWFQbXV2MUd1d2V1TFhfVW9uT2F5WXJJVHZoNUZUUEtLVFF2aWotaHBVTk9kcFpvZkFucXppMlp3YzZvaWdXVmZ3ZUZJdzFsV3kzaXBMWnpiSjJ4aUhxcVHSAYQBQVVfeXFMTXVzSHktMk1IYUR5bm45MWpEQmRpZkkwbS1LSVNZZm02Q05uZE56ekhLZjBKV0RLWlVhdVoteHFra2hPOFdMNXEweDc4eUhvWTlqQWxwcXpMdURoMzVmUnBaMFRBc0RtTG1FQXhSekFZeDhSM25Yc3o2THdGckl0cEtLSG9q?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeGlmbUlvNVBvdFVCRVhqallRb0RwaGxQVzRRbVpXaHh1YUJKMGc3LUJnYno0NFQwRnVXSm5CTzN3MEtGbWdoX0tCc21oMHl4WGJyRWRHaE9XQzFjWXRGSXlyYW83WDV2MHFqMTd6YnhSNndNcjBEYk5NdzdfOUdMX19kZkdjRl9vTm04Tklya0xRbzg0enB4d201ZmtTM24zU0xBel81YlJRWVFLUV9xMnlnSnhmR1FzelBLR1U4OTU4dW9PQnfSAcYBQVVfeXFMUHREYzVxOG9HbmNYZ05HZkRwS29TamppSHRPd0szZGFHS0Yxc2l1NmpZelF2RjlhRVpQWVdoWkhKXy0yRi1kRlBWRW12RnVscHRRTG5ON2dFb0dtQTV1S0FnMW5zLVhFLWEwT2JBWk9UY29oRmh1dFo5N0RBNG1rMjNscTg1bzlKTl9selBWMTZzX3llWWY4c0NoYkpTLUVsNVRJVHZwdk56ZE5SZjRTaVE3eVdNeGxBNzVfdDRNTks3U1dtNDFR?oc=5",
+      "source": "Reuters-全球贸易",
+      "title": "在中美贸易谈判之前，中期选举的失败对贝森特意味着什么？ - 南华早报",
+      "summary": "在中美贸易谈判之前，中期选举的失败对贝森特意味着什么？  南华早报",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeGlmbUlvNVBvdFVCRVhqallRb0RwaGxQVzRRbVpXaHh1YUJKMGc3LUJnYno0NFQwRnVXSm5CTzN3MEtGbWdoX0tCc21oMHl4WGJyRWRHaE9XQzFjWXRGSXlyYW83WDV2MHFqMTd6YnhSNndNcjBEYk5NdzdfOUdMX19kZkdjRl9vTm04Tklya0xRbzg0enB4d201ZmtTM24zU0xBel81YlJRWVFLUV9xMnlnSnhmR1FzelBLR1U4OTU4dW9PQnfSAcYBQVVfeXFMUHREYzVxOG9HbmNYZ05HZkRwS29TamppSHRPd0szZGFHS0Yxc2l1NmpZelF2RjlhRVpQWVdoWkhKXy0yRi1kRlBWRW12RnVscHRRTG5ON2dFb0dtQTV1S0FnMW5zLVhFLWEwT2JBWk9UY29oRmh1dFo5N0RBNG1rMjNscTg1bzlKTl9selBWMTZzX3llWWY4c0NoYkpTLUVsNVRJVHZwdk56ZE5SZjRTaVE3eVdNeGxBNzVfdDRNTks3U1dtNDFR?oc=5",
+      "date": "2026-11-05T14:30:07+00:00"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUc0JXdFFrNXJHSkxKclVRQkdfMXZNbmk5akFqZDA2dWFQbXV2MUd1d2V1TFhfVW9uT2F5WXJJVHZoNUZUUEtLVFF2aWotaHBVTk9kcFpvZkFucXppMlp3YzZvaWdXVmZ3ZUZJdzFsV3kzaXBMWnpiSjJ4aUhxcVE?oc=5",
       "source": "Reuters-全球贸易",
       "title": "消息人士告诉 CNBC，中国人工智能实验室 Moonshot 在美国对中国实施限制之际转向欧洲寻求 Nvidia Blackwell 访问权限 - CNBC",
       "summary": "消息人士告诉 CNBC，中国人工智能实验室 Moonshot 在美国对中国实施限制之际转向欧洲寻求 Nvidia Blackwell 访问权限",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUc0JXdFFrNXJHSkxKclVRQkdfMXZNbmk5akFqZDA2dWFQbXV2MUd1d2V1TFhfVW9uT2F5WXJJVHZoNUZUUEtLVFF2aWotaHBVTk9kcFpvZkFucXppMlp3YzZvaWdXVmZ3ZUZJdzFsV3kzaXBMWnpiSjJ4aUhxcVHSAYQBQVVfeXFMTXVzSHktMk1IYUR5bm45MWpEQmRpZkkwbS1LSVNZZm02Q05uZE56ekhLZjBKV0RLWlVhdVoteHFra2hPOFdMNXEweDc4eUhvWTlqQWxwcXpMdURoMzVmUnBaMFRBc0RtTG1FQXhSekFZeDhSM25Yc3o2THdGckl0cEtLSG9q?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUc0JXdFFrNXJHSkxKclVRQkdfMXZNbmk5akFqZDA2dWFQbXV2MUd1d2V1TFhfVW9uT2F5WXJJVHZoNUZUUEtLVFF2aWotaHBVTk9kcFpvZkFucXppMlp3YzZvaWdXVmZ3ZUZJdzFsV3kzaXBMWnpiSjJ4aUhxcVE?oc=5",
       "date": "2026-11-05T13:34:14+00:00"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV2JaaXNjZXpzaUhmeDN5Q2pJT2RIZndsOVZ4dGJpZW9jZk0yR3lCaS16eXVGNTZpUWdQZ3luUU51eUI3YmxhbXg1bU5vQ3ZMcDQ0RzBid3NPdnNWa21PLXdRODNVeURBSWc5WERpdDFjdjJqNEdtVUx0eWxzUlEyOXVOUGt6Vm5mdGow?oc=5",
-      "source": "Google News-中国商务部",
-      "title": "支持上海国际贸易中心提质升级工作推进会在上海召开 - 商务部",
-      "summary": "支持上海国际贸易中心提质升级工作推进会在上海召开&nbsp;&nbsp;商务部",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV2JaaXNjZXpzaUhmeDN5Q2pJT2RIZndsOVZ4dGJpZW9jZk0yR3lCaS16eXVGNTZpUWdQZ3luUU51eUI3YmxhbXg1bU5vQ3ZMcDQ0RzBid3NPdnNWa21PLXdRODNVeURBSWc5WERpdDFjdjJqNEdtVUx0eWxzUlEyOXVOUGt6Vm5mdGow?oc=5",
-      "date": "2026-11-05T08:19:00+00:00"
+      "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONFFCeG5lVnMzT3V4SGVGaVI3SENwWUthb2ttMzlnTHJRYmVRQlpQS1gyMkl0Z2FBN2FXNUVnQXlBZkI0OHA0R19SQS1tQVJSbm0yMzBlbllMWWJKNnBHV2N3UUdQWEc4emZqbjc2Z3dkQU44RlZ5emFkd1JZaVhtMlBmSWZHSzNOMHpqSlhrcGRQT0lz?oc=5",
+      "source": "Reuters-全球贸易",
+      "title": "中国稀土出口暂停将于 11 月 10 日到期。这对美国稀土和 MP 材料意味着什么。 - 杂七杂八的傻瓜",
+      "summary": "中国稀土出口暂停将于 11 月 10 日到期。这对美国稀土和 MP 材料意味着什么。  杂七杂八的傻瓜",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONFFCeG5lVnMzT3V4SGVGaVI3SENwWUthb2ttMzlnTHJRYmVRQlpQS1gyMkl0Z2FBN2FXNUVnQXlBZkI0OHA0R19SQS1tQVJSbm0yMzBlbllMWWJKNnBHV2N3UUdQWEc4emZqbjc2Z3dkQU44RlZ5emFkd1JZaVhtMlBmSWZHSzNOMHpqSlhrcGRQT0lz?oc=5",
+      "date": "2026-11-05T13:13:00+00:00"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ieFJUV0FBLXdRb1Q3YTVuaG1Xd3p4ckxkUkg1RE5rWlYxSmt1cjhOZEtKd004MFlTcEtZWFRyblFpYmg1ZmtDV2tsTi1hWF9FNGJXSzZ2RVlWa042VmN5bGdzcmZKSFBwVFNFUm80YzlUVF9LOTRKX3FOaw?oc=5",
@@ -115,14 +243,6 @@
       "date": "2026-11-04T23:00:00+00:00"
     },
     {
-      "id": "https://policy.trade.ec.europa.eu/news/commission-aims-unlock-business-opportunities-eu-medical-device-companies-china-2026-11-05_en",
-      "source": "欧盟委员会",
-      "title": "欧盟委员会旨在为欧盟医疗器械公司在中国释放商机",
-      "summary": "欧盟委员会今天率领欧洲医疗器械公司代表团前往上海，支持中国市场的新商机。",
-      "url": "https://policy.trade.ec.europa.eu/news/commission-aims-unlock-business-opportunities-eu-medical-device-companies-china-2026-11-05_en",
-      "date": "2026-11-04T23:00:00+00:00"
-    },
-    {
       "id": "https://enlargement.ec.europa.eu/news/commission-disburses-eur436-billion-ukraine-under-eur90-billion-ukraine-support-loan-2026-11-05_en",
       "source": "欧盟委员会",
       "title": "委员会根据 900 亿欧元乌克兰支持贷款向乌克兰支付 43.6 亿欧元",
@@ -139,6 +259,14 @@
       "date": "2026-11-04T23:00:00+00:00"
     },
     {
+      "id": "https://policy.trade.ec.europa.eu/news/commission-aims-unlock-business-opportunities-eu-medical-device-companies-china-2026-11-05_en",
+      "source": "欧盟委员会",
+      "title": "欧盟委员会旨在为欧盟医疗器械公司在中国释放商机",
+      "summary": "欧盟委员会今天率领欧洲医疗器械公司代表团前往上海，支持中国市场的新商机。",
+      "url": "https://policy.trade.ec.europa.eu/news/commission-aims-unlock-business-opportunities-eu-medical-device-companies-china-2026-11-05_en",
+      "date": "2026-11-04T23:00:00+00:00"
+    },
+    {
       "id": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/commission-invites-nominations-next-president-european-research-council-2026-11-05_en",
       "source": "欧盟委员会",
       "title": "委员会邀请提名欧洲研究理事会下一任主席",
@@ -147,11 +275,11 @@
       "date": "2026-11-04T23:00:00+00:00"
     },
     {
-      "id": "https://finance.ec.europa.eu/news/commission-meeting-sanctions-implementation-brings-together-member-states-and-international-partners-2026-11-05_en",
+      "id": "https://commission.europa.eu/news-and-media/news/shaping-europes-future-through-education-and-training-2026-11-05_en",
       "source": "欧盟委员会",
-      "title": "制裁执行委员会会议汇聚了会员国和国际合作伙伴",
-      "summary": "工会限制措施（制裁）高级别小组第八次会议将于今天 2026 年 11 月 5 日举行。",
-      "url": "https://finance.ec.europa.eu/news/commission-meeting-sanctions-implementation-brings-together-member-states-and-international-partners-2026-11-05_en",
+      "title": "通过教育和培训塑造欧洲的未来",
+      "summary": "教育和技能包有助于扭转基本技能的下降趋势，改善教学以及数字工具和人工智能在教育中的使用方式",
+      "url": "https://commission.europa.eu/news-and-media/news/shaping-europes-future-through-education-and-training-2026-11-05_en",
       "date": "2026-11-04T23:00:00+00:00"
     },
     {
@@ -169,22 +297,6 @@
       "summary": "欧盟委员会提出了到 2040 年渔业和水产养殖业的愿景，为未来 15 年加强该行业的环境和经济活力设定了方向。",
       "url": "https://blue-economy-observatory.ec.europa.eu/news/commission-presents-its-vision-2040-thriving-fisheries-and-aquaculture-sector-2026-11-05_en",
       "date": "2026-11-04T23:00:00+00:00"
-    },
-    {
-      "id": "https://commission.europa.eu/news-and-media/news/shaping-europes-future-through-education-and-training-2026-11-05_en",
-      "source": "欧盟委员会",
-      "title": "通过教育和培训塑造欧洲的未来",
-      "summary": "教育和技能包有助于扭转基本技能的下降趋势，改善教学以及数字工具和人工智能在教育中的使用方式",
-      "url": "https://commission.europa.eu/news-and-media/news/shaping-europes-future-through-education-and-training-2026-11-05_en",
-      "date": "2026-11-04T23:00:00+00:00"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ2J2RHozUzhNdWZKejdqMm92a3cyaV8xMjh2ekdIZVZ6VEM2bkxOSnJhemU2eUdndG1Qc0pNd2RxQVVrX0xVZ0lSeWxLc0x3S21kd3ZBMEl0Vk9sSGhkSEctVFJ6WVlxQ0ZiZWI0Y0VYdWN6YngwS1NKSzl6dFJEbm9ENEtuRVpYc1dGMENodFNMR2ZoU3VnUV9ZRHdhSVRaQ0RweUVsVmFBcEl2ZXI4TW5NeDBXU1QyZW1EUTV4eklSY0c5R2dLcFZFa1V6SzF3emtV?oc=5",
-      "source": "Reuters-全球贸易",
-      "title": "特朗普的中期失败为中国、加拿大、印度和非洲最大经济体在美国贸易谈判中提供了新的筹码 - Business Insider Africa",
-      "summary": "特朗普的中期失败为中国、加拿大、印度和非洲最大经济体在美国贸易谈判中提供了新的筹码",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ2J2RHozUzhNdWZKejdqMm92a3cyaV8xMjh2ekdIZVZ6VEM2bkxOSnJhemU2eUdndG1Qc0pNd2RxQVVrX0xVZ0lSeWxLc0x3S21kd3ZBMEl0Vk9sSGhkSEctVFJ6WVlxQ0ZiZWI0Y0VYdWN6YngwS1NKSzl6dFJEbm9ENEtuRVpYc1dGMENodFNMR2ZoU3VnUV9ZRHdhSVRaQ0RweUVsVmFBcEl2ZXI4TW5NeDBXU1QyZW1EUTV4eklSY0c5R2dLcFZFa1V6SzF3emtV?oc=5",
-      "date": "2026-11-04T18:18:01+00:00"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb05DX3U3cmVhWTVRVTRQbkdqRTB3RzhFdlhfeWxGckw1cl93bjJXMkwwLTJURUxuRUI1eUNDTm5SVE1FQmtFNFRhaXVXQnJtbjAyNkI4VFQ0NWdkZnplRHZhdVBBSTNpT09mWlgyTVFrRzdBX2dMS0VycDBjcnpPdnVBSWE1RmlxY1M3TjdkdUVJc2RPWGN5cUljMVJvZnJPVnFKSjFMONIBpwFBVV95cUxNWG1faG9kV1ItTlIyLTlfeXdETldlcFlPRXJfLWJxdy1tcFVTSTU5MTBmSkpuVjROVmtQMGZYcXpLZmpLTl9tY294QVRrYjI1enJTaThlVXUwakJqc1dhQWZKVGFXTjZxTnZGU1NSMENMeGZrQ0pyMHg3NlN1Z0NrLUZUQThXUW4xYjJOc0k3UnlMVVZsRlpwZjR4ZGdsUEVUQWhBcWVicw?oc=5",
@@ -217,86 +329,6 @@
       "summary": "南非将加快出口多元化应对美贸易限制&nbsp;&nbsp;中国贸易救济信息网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTd1BONkw3M1dMZW5NMk9jazFtY1Z3MXAxdnZpdEJUODFHUVE0UFZBZUVKLTFleVBuVlYzb1hWckk4SEZpd19vdUxuTFJ5MkhpQmVzOVBzZHU0VWU3OXJzOGJ1UURKS2hmNTc5RGJzYk9NTHk4VXMwcA?oc=5",
       "date": "2026-11-04T05:54:17+00:00"
-    },
-    {
-      "id": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/european-commission-and-european-space-agency-launch-joint-website-showcasing-collaborative-research-2026-11-04_en",
-      "source": "欧盟委员会",
-      "title": "欧盟委员会和欧洲航天局推出联合网站，展示对我们不断变化的星球的合作研究",
-      "summary": "联合地球系统科学计划将欧洲研究项目联系起来，以更好地了解环境变化并提供与欧洲政策和社会相关的知识。",
-      "url": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/european-commission-and-european-space-agency-launch-joint-website-showcasing-collaborative-research-2026-11-04_en",
-      "date": "2026-11-03T23:00:00+00:00"
-    },
-    {
-      "id": "https://international-partnerships.ec.europa.eu/news-and-events/news/third-implementation-dialogue-international-partnerships-2026-11-04_en",
-      "source": "欧盟委员会",
-      "title": "第三次国际伙伴关系实施对话",
-      "summary": "继致力于简化欧盟法律并加强其实施的“更简单、更快欧洲的沟通”之后，约瑟夫·西克拉委员将于 2026 年 11 月 12 日主持第三次国际伙伴关系实施对话。",
-      "url": "https://international-partnerships.ec.europa.eu/news-and-events/news/third-implementation-dialogue-international-partnerships-2026-11-04_en",
-      "date": "2026-11-03T23:00:00+00:00"
-    },
-    {
-      "id": "https://commission.europa.eu/news-and-media/news/results-04-11-2026-auction-eu-bills-2026-11-04_en",
-      "source": "欧盟委员会",
-      "title": "2026 年 4 月 11 日拍卖结果（欧盟法案）",
-      "summary": "拍卖结果欧盟票据。",
-      "url": "https://commission.europa.eu/news-and-media/news/results-04-11-2026-auction-eu-bills-2026-11-04_en",
-      "date": "2026-11-03T23:00:00+00:00"
-    },
-    {
-      "id": "https://transport.ec.europa.eu/news-events/news/commission-strengthens-europes-position-worlds-leading-tourism-destination-2026-11-04_en",
-      "source": "欧盟委员会",
-      "title": "委员会加强欧洲作为世界领先旅游目的地的地位",
-      "summary": "委员会提出了新的欧盟可持续旅游业战略，以提高该行业的竞争力、可持续性和复原力。",
-      "url": "https://transport.ec.europa.eu/news-events/news/commission-strengthens-europes-position-worlds-leading-tourism-destination-2026-11-04_en",
-      "date": "2026-11-03T23:00:00+00:00"
-    },
-    {
-      "id": "https://enlargement.ec.europa.eu/news/2026-enlargement-package-shows-reform-commitment-delivers-progress-towards-eu-membership-2026-11-04_en",
-      "source": "欧盟委员会",
-      "title": "2026 年扩大一揽子计划表明改革承诺为加入欧盟带来了进展",
-      "summary": "今天，欧盟委员会通过了年度扩大一揽子计划，评估了扩大伙伴在过去一年中取得的进展，并制定了未来的改革重点。",
-      "url": "https://enlargement.ec.europa.eu/news/2026-enlargement-package-shows-reform-commitment-delivers-progress-towards-eu-membership-2026-11-04_en",
-      "date": "2026-11-03T23:00:00+00:00"
-    },
-    {
-      "id": "https://employment-social-affairs.ec.europa.eu/news/hospitals-and-healthcare-social-partners-celebrate-20-years-social-dialogue-2026-11-04_en",
-      "source": "欧盟委员会",
-      "title": "医院和医疗保健社会合作伙伴庆祝社会对话 20 周年",
-      "summary": "二十年来，欧盟医院和医疗保健部门社会对话委员会提供了联合解决方案，以支持整个欧洲的工人、雇主和有弹性的医疗保健系统。",
-      "url": "https://employment-social-affairs.ec.europa.eu/news/hospitals-and-healthcare-social-partners-celebrate-20-years-social-dialogue-2026-11-04_en",
-      "date": "2026-11-03T23:00:00+00:00"
-    },
-    {
-      "id": "https://blue-economy-observatory.ec.europa.eu/news/eu-sets-out-new-strategy-arctic-2026-11-04_en",
-      "source": "欧盟委员会",
-      "title": "欧盟制定新的北极战略",
-      "summary": "欧盟新的北极战略以欧盟2021年北极政策中确定的问题为基础，并对自那时以来发生的重大地缘政治、安全和环境变化做出反应。",
-      "url": "https://blue-economy-observatory.ec.europa.eu/news/eu-sets-out-new-strategy-arctic-2026-11-04_en",
-      "date": "2026-11-03T23:00:00+00:00"
-    },
-    {
-      "id": "https://fpi.ec.europa.eu/news-and-events/news/strengthening-eu-peace-mediation-insights-eu-community-practice-peace-mediation-2026-2026-11-04_en",
-      "source": "欧盟委员会",
-      "title": "加强欧盟和平调解：2026 年欧盟和平调解实践社区的见解",
-      "summary": "第八届欧盟和平调解实践社区 (CoP) 在布鲁塞尔举行，来自 60 个国家的 300 多名和平实践者和政策制定者齐聚一堂。",
-      "url": "https://fpi.ec.europa.eu/news-and-events/news/strengthening-eu-peace-mediation-insights-eu-community-practice-peace-mediation-2026-2026-11-04_en",
-      "date": "2026-11-03T23:00:00+00:00"
-    },
-    {
-      "id": "https://energy.ec.europa.eu/news/biomethane-mechanism-first-matching-round-connect-buyers-and-suppliers-2026-11-04_en",
-      "source": "欧盟委员会",
-      "title": "生物甲烷机制：第一轮对接买家和供应商",
-      "summary": "欧盟委员会正在启动生物甲烷机制下的第一轮配对，以将整个欧洲的生物甲烷潜在买家和供应商聚集在一起。",
-      "url": "https://energy.ec.europa.eu/news/biomethane-mechanism-first-matching-round-connect-buyers-and-suppliers-2026-11-04_en",
-      "date": "2026-11-03T23:00:00+00:00"
-    },
-    {
-      "id": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261104-1",
-      "source": "欧盟委员会",
-      "title": "欧盟统计局：2026年非家庭电价进一步下跌",
-      "summary": "2026 年上半年，欧盟非家庭消费者的平均电价为每千瓦时 (kWh) 0.18 欧元。",
-      "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261104-1",
-      "date": "2026-11-03T23:00:00+00:00"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPN3NvSDljSzl2TnVyaGdtSGYxWkg0Znh2amJYVGVfSEk2d2NTcEk1bXdlRndpcHF6aWRKM2dHUWpRQlJKZXhqMkprNTBZaGdsSXNiN25QbGlJZWRSNzVMR3cwS2RqdUkwMmR1V05sckhuWE9TenJxMVVNNllqdUw5YlN0b1h1MXZjdmk2U0s5SExyY3BqN0o0b2h2NjlHdlphVVFKRW5uNURidTd1c1BaOS1nS3I1dmtsYzVxY3RsN0xfbWg5X0o5LWJ4LXZoOHhYcGdiR0c0dWRqSzRVMFl1R1c3azhUWVhSQWgtUUVoWQ?oc=5",
@@ -371,22 +403,6 @@
       "date": "2026-11-01T12:00:00+00:00"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQzdPQ3VheHFTSmhSamJhcDFBLXVycEl3X3hkdE1CRENQT3hUQmt5czZCY3hjM1QtV2N6UHV3MVp0dU9JTXphU2d4RTJLWHZWZE53TWZwVXY2M3pGT2N3aUlBX0wtQXYzYVkyRUZUNnhzd1R6MWRzRUEtTFdkd2xoR3h2dkV1RzJuTUlhX2hZUk5Kd1U?oc=5",
-      "source": "Google News-中国商务部",
-      "title": "商务部国际司负责人解读中国—瑞士自由贸易协定升级议定书 - 商务部",
-      "summary": "商务部国际司负责人解读中国—瑞士自由贸易协定升级议定书&nbsp;&nbsp;商务部",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQzdPQ3VheHFTSmhSamJhcDFBLXVycEl3X3hkdE1CRENQT3hUQmt5czZCY3hjM1QtV2N6UHV3MVp0dU9JTXphU2d4RTJLWHZWZE53TWZwVXY2M3pGT2N3aUlBX0wtQXYzYVkyRUZUNnhzd1R6MWRzRUEtTFdkd2xoR3h2dkV1RzJuTUlhX2hZUk5Kd1U?oc=5",
-      "date": "2026-10-30T13:52:00+00:00"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbmJXb3A1dC1LQ3hxU3FjdFR6SldXcDNhV240bVU0OGdIdC1YZGU1R3Z4YllXOHhSUG1zNW84T3lhYTZNYjBPTGYxM1JKSDhpbXBtazZqT25KWnZRbXdDenRiN1MwdWE0M1liUVRUelJSanBBVmt5aDB4QTJ3TE15cVpvR1J1Qmp1QTFnS3R2T0s3SW9zcmIzNk5uYnRFYU5qbUpRZ2xuSFlaQUlfOGlJamxhc2M0WlU?oc=5",
-      "source": "Reuters-全球贸易",
-      "title": "对中国实施的人工智能出口管制再次困扰美国 - 福布斯",
-      "summary": "对中国实施的人工智能出口管制再次困扰美国福布斯",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbmJXb3A1dC1LQ3hxU3FjdFR6SldXcDNhV240bVU0OGdIdC1YZGU1R3Z4YllXOHhSUG1zNW84T3lhYTZNYjBPTGYxM1JKSDhpbXBtazZqT25KWnZRbXdDenRiN1MwdWE0M1liUVRUelJSanBBVmt5aDB4QTJ3TE15cVpvR1J1Qmp1QTFnS3R2T0s3SW9zcmIzNk5uYnRFYU5qbUpRZ2xuSFlaQUlfOGlJamxhc2M0WlU?oc=5",
-      "date": "2026-10-30T13:00:30+00:00"
-    },
-    {
       "id": "https://www.federalregister.gov/documents/2026/10/27/2026-21840/order-renewing-order-temporarily-denying-export-privileges",
       "source": "美国BIS (Federal Register)",
       "title": "临时拒绝出口特权的命令更新命令",
@@ -411,20 +427,20 @@
       "date": "2026-10-09T07:00:00+00:00"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FcnQ2ZFUybTJnbTRWYmpfY1RNRmU1Sm5vTG45RlJHVEFmN1plc0FBVXFUVnVnZlFsdzZndVpEaWNVbFV4RUJIamNaOC1vSTJxU0l1SkJDeWd6NVJsZERYNg?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TZzUyZWV0R1RFTWtRRkUyYVFaUFBrTno3ZUs1Yy1KNGRzM3hzVWp0eEwzVFlwalBHZVlTNk1mbEhFS3o2WlJJSjhnTFoyTmxOWjd3?oc=5",
       "source": "Google News-中国商务部",
-      "title": "两用物项出口管制清单数据库 中华人民共和国两用物项出口管制清单 - 中国出口管制信息网",
-      "summary": "两用物项出口管制清单数据库 中华人民共和国两用物项出口管制清单&nbsp;&nbsp;中国出口管制信息网",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FcnQ2ZFUybTJnbTRWYmpfY1RNRmU1Sm5vTG45RlJHVEFmN1plc0FBVXFUVnVnZlFsdzZndVpEaWNVbFV4RUJIamNaOC1vSTJxU0l1SkJDeWd6NVJsZERYNg?oc=5",
-      "date": "2026-04-25T21:07:22+00:00"
+      "title": "政策发布 - 商务部",
+      "summary": "政策发布&nbsp;&nbsp;商务部",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TZzUyZWV0R1RFTWtRRkUyYVFaUFBrTno3ZUs1Yy1KNGRzM3hzVWp0eEwzVFlwalBHZVlTNk1mbEhFS3o2WlJJSjhnTFoyTmxOWjd3?oc=5",
+      "date": "2024-07-17T06:51:13+00:00"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYWpjbzZTWk15Sm5rWTNMLVkxeVpkT1dOdW15NTlVd0QzdzRlUUhqc01HbU8yUl8xLW1GRU4xQUh3VmVZM29PSUU5ZjFBQTBJQUp6OTRDa19kTFAyaFI0aDBVeDZWQ2o3NDBJSEN1Rk5JRVpxQ0lQM2daeWRmSW56N3NWZHRGcE5pbGRxUGdpaw?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NQTdLMFRCUk1xWVhsa1BzeWp4OEhpeVFsNnhlelVTeTFndHpoYmJFQ29HekRXOUFLYTkxeGRNeE9SMUMxellnNXJ3aEhQNkVESGZv?oc=5",
       "source": "Google News-中国商务部",
-      "title": "商务部公告2025第62号 公布对稀土相关技术实施出口管制的决定 - 商务部",
-      "summary": "商务部公告2025第62号 公布对稀土相关技术实施出口管制的决定&nbsp;&nbsp;商务部",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYWpjbzZTWk15Sm5rWTNMLVkxeVpkT1dOdW15NTlVd0QzdzRlUUhqc01HbU8yUl8xLW1GRU4xQUh3VmVZM29PSUU5ZjFBQTBJQUp6OTRDa19kTFAyaFI0aDBVeDZWQ2o3NDBJSEN1Rk5JRVpxQ0lQM2daeWRmSW56N3NWZHRGcE5pbGRxUGdpaw?oc=5",
-      "date": "2025-10-09T07:00:00+00:00"
+      "title": "政务公开 - 商务部",
+      "summary": "政务公开&nbsp;&nbsp;商务部",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NQTdLMFRCUk1xWVhsa1BzeWp4OEhpeVFsNnhlelVTeTFndHpoYmJFQ29HekRXOUFLYTkxeGRNeE9SMUMxellnNXJ3aEhQNkVESGZv?oc=5",
+      "date": "2024-07-08T05:06:12+00:00"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFA1LUJhUGRtVjBZbjI5TGp1SGZNMEpXLXQ1b044UWlxbVFPRWJobFpEYmRrd29vZEVTQWM2QjhhUQ?oc=5",
@@ -433,6 +449,14 @@
       "summary": "中华人民共和国商务部&nbsp;&nbsp;中华人民共和国商务部",
       "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFA1LUJhUGRtVjBZbjI5TGp1SGZNMEpXLXQ1b044UWlxbVFPRWJobFpEYmRrd29vZEVTQWM2QjhhUQ?oc=5",
       "date": "2023-10-29T03:07:01+00:00"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE10UkdpeGYzdGpmdWQ2UGFyNFBIX05YMnpTMEtTclRLWDc2aXJDMm9RTFl4LUpmSFl2NkxDcUczNE4?oc=5",
+      "source": "Google News-中国商务部",
+      "title": "外贸实务查询服务 - 国际贸易税费查询",
+      "summary": "外贸实务查询服务&nbsp;&nbsp;国际贸易税费查询",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE10UkdpeGYzdGpmdWQ2UGFyNFBIX05YMnpTMEtTclRLWDc2aXJDMm9RTFl4LUpmSFl2NkxDcUczNE4?oc=5",
+      "date": "2019-05-04T05:09:33+00:00"
     }
   ]
 }
