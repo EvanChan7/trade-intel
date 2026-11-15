@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-14T07:26:48.214160+00:00",
-  "count": 60,
+  "updated_at": "2026-11-15T07:38:53.035452+00:00",
+  "count": 61,
   "events": [
     {
       "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM1ZhWWRRd2s0b0hudVhjS19JSjRXaTNDbGE0S2JyaTU3M3FSOUE0dk5MTXZXRGp6ODVCdHFiUDNxbXMxM1JudGQ2cEM4OWFtSzZxSXNpUlFTY1Bxb3N6OFZBdVVvVFY5SVV0RzlCRmVsb2N1clpqQ3ZZRVhYQUY1WlRHbWlRS1hsRVhv?oc=5",
@@ -19,12 +19,20 @@
       "date": "2026-11-13T20:32:50+00:00"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGIzcVZhWDU2cVlTWlhGZFZUMGlCcldoTU4wc2Z2UUpqUzJiNWp3Sy1kTVFQTnRKbHVnY2cwWHh0WEx3YkV5ZVMxOUFnMmVIc0kzaHdHc0NEVm9NS3hsVTdfTHR1ZWR4OTc2NUNpXzUteWZvblRYcEFVRDBIVTQyanVZTGdDYVFTaDJLTWFYdWNmSzBtU09Dd1RZVkhLUjB0WkR2Rm0tVTZnXzctWTREMXF3QjhZNTUxMHhDWjJZMHc?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2RjMXJ5cnYyUmVXT3FXVVVIeENJN0hQT3E0ZTg1YlpRSEItczBNaW1SZzlIM2hBNEZldVVzUjEwQzRDczhvVkQwMjZlLXh4U1pqd1NFcTFJOHh6MUMtQktSVmFmZUtzTUowb2hCdU1tVzY5NFFwWURpT3c5RW9zMUJOVHNvcG5aVG9lTUIzVUNqMW8yWkNzcXpidmtNRnlia3hySVpfbGRfQ3phbjJmbGZuYlhwS0E?oc=5",
       "source": "Reuters-全球贸易",
-      "title": "独家报道：黄仁勋退出和美国审查将危及依赖英伟达的 30 亿美元中国人工智能项目 - 路透中文网",
-      "summary": "独家报道：黄仁勋退出和美国审查将危及依赖 Nvidia 的 30 亿美元中国人工智能项目 路透",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGIzcVZhWDU2cVlTWlhGZFZUMGlCcldoTU4wc2Z2UUpqUzJiNWp3Sy1kTVFQTnRKbHVnY2cwWHh0WEx3YkV5ZVMxOUFnMmVIc0kzaHdHc0NEVm9NS3hsVTdfTHR1ZWR4OTc2NUNpXzUteWZvblRYcEFVRDBIVTQyanVZTGdDYVFTaDJLTWFYdWNmSzBtU09Dd1RZVkhLUjB0WkR2Rm0tVTZnXzctWTREMXF3QjhZNTUxMHhDWjJZMHc?oc=5",
-      "date": "2026-11-13T17:19:01+00:00"
+      "title": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃，詹森！ - TechCrunch",
+      "summary": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃，詹森！  TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2RjMXJ5cnYyUmVXT3FXVVVIeENJN0hQT3E0ZTg1YlpRSEItczBNaW1SZzlIM2hBNEZldVVzUjEwQzRDczhvVkQwMjZlLXh4U1pqd1NFcTFJOHh6MUMtQktSVmFmZUtzTUowb2hCdU1tVzY5NFFwWURpT3c5RW9zMUJOVHNvcG5aVG9lTUIzVUNqMW8yWkNzcXpidmtNRnlia3hySVpfbGRfQ3phbjJmbGZuYlhwS0E?oc=5",
+      "date": "2026-11-13T18:40:30+00:00"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLTRNS3BqaXcwNDJlOTNLZDU2NkdSbmtHUFFPNFJTRFBvdXVselAtVGkyU25RR3Q0Q1djS0N1TDM0VnpNRXNHWmxiVE15bVduU3BUMUlONURZUC1EbTNIa1FqX3liOHBiOUk2S0xKSDMtS0lnZjg3ajVZdTVtTnl3NC1vTWNDM0M4SEFKV3d4N3dieXdvaWhNdEtYc2pvdy0xcVI3VDBGQXM4N00?oc=5",
+      "source": "Reuters-全球贸易",
+      "title": "Bessent 指责商务部对 Nvidia 合作伙伴 Megaspeed 缺乏出口管制 - 路透中文网",
+      "summary": "Bessent 指责商务部对 Nvidia 合作伙伴 Megaspeed 缺乏出口管制 - 路透中文网",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLTRNS3BqaXcwNDJlOTNLZDU2NkdSbmtHUFFPNFJTRFBvdXVselAtVGkyU25RR3Q0Q1djS0N1TDM0VnpNRXNHWmxiVE15bVduU3BUMUlONURZUC1EbTNIa1FqX3liOHBiOUk2S0xKSDMtS0lnZjg3ajVZdTVtTnl3NC1vTWNDM0M4SEFKV3d4N3dieXdvaWhNdEtYc2pvdy0xcVI3VDBGQXM4N00?oc=5",
+      "date": "2026-11-13T18:29:18+00:00"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcmRRc05NbWxzcmFLS2ZvWDhIX2IzZkJIZnZSRmhBMWFXaEJMOHdZaVFrQXRKZVhhRFptWTVQcXJnVGNBNG5rUGNOcUdTME1MeFNOQ0U5Y2xMRjZWYTVSWnBtMW9ydFh1WUJUeXAwbWkzTTQtUGg4VDZlRjFsOEI2NWZCLWNjUkxLTkdsNmpUTWJ5Xzk5S2pxcllZOVZOTVVOOTF5NEZQVVh3VW1UTXNjUExFdUtNWUJNaHQzbTZzd0XSAcYBQVVfeXFMTnRaVkFVSUxtTXBVYkZlNWotRHg1QXFWMDdjdnRVSE8wQ1BZLTd4T3JpWjZGOWxXNWlHWUJoY2lnSTBIZ0tabkpzRHJQNkdyRmRVNlZvZTF3T0RIaTNWNEk4WmN2NEoyNGRGTFNFdTJEeXNYQ1NFYzVLdkhJS1B5QmtadHZzMnJ2QlRQZG9kNEFIUmNGc1I5bEM0d0dRWlpsc240d0lxQ1A3b0E4bEZDUUlvQTlWSnRIWVVOWEVpY2t1NWxuNVNR?oc=5",
@@ -46,7 +54,7 @@
       "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVWFnOVptNmRjNHNNRnJuNWg2RXFUOGlockk1THR3RnQwNlhfbTZiNnBWWXJERG1ZSURrcm9pcUd2TzlOdmNTZHM3RXRkUElLdkU1THJpX3hSR2dBVE1FUjZfUTdhLWJpTVRSTnRUWDFLdW5hNXMzMkExMXRrVGhucGp3WWhSM3Fk?oc=5",
       "source": "Reuters-全球贸易",
       "title": "英伟达黄丑闻后，中国警告美国不要对芯片实施新的出口管制 - 哥伦比亚广播公司新闻",
-      "summary": "在英伟达黄丑闻之后，中国警告美国不要对芯片实施新的出口管制 CBS 新闻",
+      "summary": "英伟达黄丑闻后，中国警告美国不要对芯片实施新的出口管制 CBS 新闻",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVWFnOVptNmRjNHNNRnJuNWg2RXFUOGlockk1THR3RnQwNlhfbTZiNnBWWXJERG1ZSURrcm9pcUd2TzlOdmNTZHM3RXRkUElLdkU1THJpX3hSR2dBVE1FUjZfUTdhLWJpTVRSTnRUWDFLdW5hNXMzMkExMXRrVGhucGp3WWhSM3Fk?oc=5",
       "date": "2026-11-13T15:19:00+00:00"
     },
@@ -59,26 +67,10 @@
       "date": "2026-11-13T01:51:40+00:00"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55dHkyZksxU3pIN0hJWFhxeGdqS0Z1RWIyNWw4SF9XeURxRmE0WmpZWnFYQjRnUS16cnpfV3Jmd1ZtRnBwOGxLS1AzSTZKVGQ5RTBTZXNCRkxzZkhDRFo3UGVaa3ZYWXRGMEhjS3FGcWh0WlYybkNz?oc=5",
-      "source": "Google News-中国商务部",
-      "title": "内蒙古自贸试验区新批包头、鄂尔多斯两个联动发展区 - 中国贸易救济信息网",
-      "summary": "内蒙古自贸试验区新批包头、鄂尔多斯两个联动发展区&nbsp;&nbsp;中国贸易救济信息网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55dHkyZksxU3pIN0hJWFhxeGdqS0Z1RWIyNWw4SF9XeURxRmE0WmpZWnFYQjRnUS16cnpfV3Jmd1ZtRnBwOGxLS1AzSTZKVGQ5RTBTZXNCRkxzZkhDRFo3UGVaa3ZYWXRGMEhjS3FGcWh0WlYybkNz?oc=5",
-      "date": "2026-11-13T01:50:14+00:00"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LbVFVSDh1Z2s3c0VacXFZRGRXZXczZENJXzlFOU5vYnVKQ2xjZGV1YWl4bVZ0YVVlT1lGanpkVFlvTmlIcmQzd09WNnlBUWlNOVNBTEItbFRLTXNtQTIwTHY4Tkt0YnlidmVucjRWQnE5dw?oc=5",
-      "source": "Google News-中国商务部",
-      "title": "让贸易成为促进全球发展繁荣的普惠引擎（国际论坛） - 中国贸易救济信息网",
-      "summary": "让贸易成为促进全球发展繁荣的普惠引擎（国际论坛）&nbsp;&nbsp;中国贸易救济信息网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LbVFVSDh1Z2s3c0VacXFZRGRXZXczZENJXzlFOU5vYnVKQ2xjZGV1YWl4bVZ0YVVlT1lGanpkVFlvTmlIcmQzd09WNnlBUWlNOVNBTEItbFRLTXNtQTIwTHY4Tkt0YnlidmVucjRWQnE5dw?oc=5",
-      "date": "2026-11-13T01:49:21+00:00"
-    },
-    {
       "id": "https://energy.ec.europa.eu/news/ten-citizen-led-energy-communities-win-first-eu-prize-governance-innovations-energy-communities-2026-11-13_en",
       "source": "欧盟委员会",
       "title": "十个公民主导的能源社区荣获首届欧盟能源社区治理创新奖",
-      "summary": "今天，欧盟委员会颁发了能源社区治理创新一等奖。该奖项旨在表彰在决策、分享利益以及与地方当局和企业合作方面表现突出的可再生能源和公民能源社区。",
+      "summary": "今天，欧盟委员会授予能源社区治理创新一等奖。该奖项旨在表彰在决策、分享利益以及与地方当局和企业合作方面表现突出的可再生能源和公民能源社区。",
       "url": "https://energy.ec.europa.eu/news/ten-citizen-led-energy-communities-win-first-eu-prize-governance-innovations-energy-communities-2026-11-13_en",
       "date": "2026-11-12T23:00:00+00:00"
     },
@@ -141,7 +133,7 @@
     {
       "id": "https://environment.ec.europa.eu/news/commission-restricts-lead-fishing-weights-and-lures-protect-people-and-environment-2026-11-13_en",
       "source": "欧盟委员会",
-      "title": "委员会限制渔重和鱼饵中的铅含量，以保护人类和环境",
+      "title": "委员会限制渔坠和鱼饵中的铅含量，以保护人类和环境",
       "summary": "2026 年 11 月 12 日，委员会根据欧盟化学品法规 REACH，采取了限制渔重和鱼饵中铅含量的措施。",
       "url": "https://environment.ec.europa.eu/news/commission-restricts-lead-fishing-weights-and-lures-protect-people-and-environment-2026-11-13_en",
       "date": "2026-11-12T23:00:00+00:00"
@@ -214,25 +206,17 @@
       "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbEZQd1VKRnhGOXdpSDNHeGtxVzBDdEN3a0VnV3hyZG9YZXhscndPSk92N291WE5CTkYwU190dWNSVHFYUnFtWDUyaGtXLTNxWDZzT0oweU9wdTBFS0x1RzJtR0hvbks1TGFCQ0J5QnN3Q01vd0V6bVdtaWZxMGdTY1VoUU9aQm1uRFVVOC1qM0fSAZYBQVVfeXFMUEFLaXQwYzN4NDZ6dzJ0Y3E4XzR1Q3VmSEh4S2pZbVo1V01hZnlrN3YySEtyUjB6VTNPR2ZKNkZnT1lRcHo3bHdWaERzM25JWDFCR3VTTnd1aGZjZU4xbVFjcXpyNVlUSng1MS1jM3VZMWdjaHJWUWVZQTk0Qk9McUxmRnNtQ01obDM1VENMNWcydFdYVFB3?oc=5",
       "source": "Reuters-全球贸易",
       "title": "黄仁勋与涉嫌间谍的恋情再次推动特朗普与习近平峰会前加强对中国芯片的限制 - CNBC",
-      "summary": "黄仁勋与涉嫌间谍的恋情再次推动特朗普与习近平峰会之前加强对中国芯片的限制 CNBC",
+      "summary": "黄仁勋与涉嫌间谍的恋情再次推动特朗普与习近平峰会前加强对中国芯片的限制 CNBC",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbEZQd1VKRnhGOXdpSDNHeGtxVzBDdEN3a0VnV3hyZG9YZXhscndPSk92N291WE5CTkYwU190dWNSVHFYUnFtWDUyaGtXLTNxWDZzT0oweU9wdTBFS0x1RzJtR0hvbks1TGFCQ0J5QnN3Q01vd0V6bVdtaWZxMGdTY1VoUU9aQm1uRFVVOC1qM0fSAZYBQVVfeXFMUEFLaXQwYzN4NDZ6dzJ0Y3E4XzR1Q3VmSEh4S2pZbVo1V01hZnlrN3YySEtyUjB6VTNPR2ZKNkZnT1lRcHo3bHdWaERzM25JWDFCR3VTTnd1aGZjZU4xbVFjcXpyNVlUSng1MS1jM3VZMWdjaHJWUWVZQTk0Qk9McUxmRnNtQ01obDM1VENMNWcydFdYVFB3?oc=5",
       "date": "2026-11-12T07:16:18+00:00"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU2otaHFORWxkN3E2TnF1cllybUxndHc4b3d1SlI3bExwOWNnV2F6VXRnU2h4eWFWMFBEUy1pcWxhaUNUTVNjZ0NZU21OMTFnRERCeGlMeW9UbkpNa3g2ZDZLNG9VanFCbzk3OGdXWWE4ZFM4MVozZzItTFVWVGdJdXNmTzlGM2U1QWtBYXp5SFhwUWlTQ0sxckxYdjlvZWJFSGFuVUVHSGZwTnJDaXlGRGlFSmllODd3WkpfeF9sOEVxeXdKU3JZ?oc=5",
       "source": "Reuters-全球贸易",
-      "title": "美国民主党资深参议员敦促政府在中国安全担忧中保留英伟达出口记录 - 路透中文网",
+      "title": "美国民主党资深参议员敦促政府在中国安全担忧之际保留英伟达出口记录 - 路透中文网",
       "summary": "美国民主党资深参议员敦促政府在中国安全担忧中保留英伟达的出口记录 - 路透中文网",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU2otaHFORWxkN3E2TnF1cllybUxndHc4b3d1SlI3bExwOWNnV2F6VXRnU2h4eWFWMFBEUy1pcWxhaUNUTVNjZ0NZU21OMTFnRERCeGlMeW9UbkpNa3g2ZDZLNG9VanFCbzk3OGdXWWE4ZFM4MVozZzItTFVWVGdJdXNmTzlGM2U1QWtBYXp5SFhwUWlTQ0sxckxYdjlvZWJFSGFuVUVHSGZwTnJDaXlGRGlFSmllODd3WkpfeF9sOEVxeXdKU3JZ?oc=5",
       "date": "2026-11-12T03:44:00+00:00"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9seWUySTlZTlpzUThpYWowUkVaejkxcGtZWTZBZGlGTnl6M0lHeUlNTkVTaGR4MmxMWGFMZHFzaWtEeXNkeFlJdnc0dXBweUdYbFpvNjFydVpvUWMwQ203QzJSU3hucmM5NjgzbV9FZ1g1UDk0WlBPOQ?oc=5",
-      "source": "Google News-中国商务部",
-      "title": "我国将深化与共建国家绿色贸易跨境电商等合作 - 中国贸易救济信息网",
-      "summary": "我国将深化与共建国家绿色贸易跨境电商等合作&nbsp;&nbsp;中国贸易救济信息网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9seWUySTlZTlpzUThpYWowUkVaejkxcGtZWTZBZGlGTnl6M0lHeUlNTkVTaGR4MmxMWGFMZHFzaWtEeXNkeFlJdnc0dXBweUdYbFpvNjFydVpvUWMwQ203QzJSU3hucmM5NjgzbV9FZ1g1UDk0WlBPOQ?oc=5",
-      "date": "2026-11-12T02:07:52+00:00"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vQmdQZVB0V3JxVm0wa3NtNVhHajFqMldLY002YUhoRWFsRXVKaks3TW9FRDF2dTZRRVhsUF9LVjd2Q014SVFzZGFSd0c2aVd4VHJyeUN4VDhYM0d2VXZJVURLVUZickRGS3ctNy1kY1luUQ?oc=5",
@@ -289,14 +273,6 @@
       "summary": "独家新闻：在椭圆形办公室摊牌后，卢特尼克再次停止限制 Nvidia 芯片对中国的销售 Axios",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa01VNnZpTE10OFNfTFRXZDZzeUJwSjFkNmlhVjFwUVExM3RmaUlNOG1jWm1aYXJMRHkyb2s1WGdMQU9IQUN6RE5kVi1ub3JkQ0wxVnc2YWFvY2VzTWRiX0FZeVlpdDNsMzBhcWpzOVhqNVh4UUFCa2cySy1ZSlkwTGRxbHVjcEU?oc=5",
       "date": "2026-11-11T21:03:01+00:00"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaVpPcUo3Z1ZxUzFvVkxybU5OSDRoLUV4djhIU2JtTV9GeHVfTV9yRkwtS280M0xrVkpnc3NSby1UVkJaVlBrbE1hN3hHRDRvbXdET0wxdUNSUGRmcUZwRloyS1hBemdpdUZ3SlpXQWE1N0xLVi01ZDNyUzZaQmV1Zk84VGJHcHp1QklUTHRVUmVHMFRaSEtPaDNkUTk0U2k4WVVweTdPblk1STlxNjVCLU1UQkRtLS1pQ205bkIxaknSAcABQVVfeXFMTWlaT3FKN2dWcVMxb1ZMcm1OTkg0aC1FeHY4SFNibU1fRnh1X01fckZMLUtvNDNMa1ZKZ3NzUm8tVFZCWlZQa2xNYTd4R0Q0b213RE9MMXVDUlBkZnFGcEZaMktYQXpnaXVGd0paV0FhNTdMS1YtNWQzclM2WkJldWZPOFRiR3B6dUJJVEx0VVJlRzBUWkhLT2gzZFE5NFNpOFlVcHk3T25ZNUk5cTY1Qi1NVEJEbS0taUNtOW5CMWpJ?oc=5",
-      "source": "Reuters-全球贸易",
-      "title": "交易与交易？中美贸易呼吁兑现特习峰会前的承诺 - 南华早报",
-      "summary": "交易与交易？中美贸易呼吁兑现特习峰会前的承诺 南华早报",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaVpPcUo3Z1ZxUzFvVkxybU5OSDRoLUV4djhIU2JtTV9GeHVfTV9yRkwtS280M0xrVkpnc3NSby1UVkJaVlBrbE1hN3hHRDRvbXdET0wxdUNSUGRmcUZwRloyS1hBemdpdUZ3SlpXQWE1N0xLVi01ZDNyUzZaQmV1Zk84VGJHcHp1QklUTHRVUmVHMFRaSEtPaDNkUTk0U2k4WVVweTdPblk1STlxNjVCLU1UQkRtLS1pQ205bkIxaknSAcABQVVfeXFMTWlaT3FKN2dWcVMxb1ZMcm1OTkg0aC1FeHY4SFNibU1fRnh1X01fckZMLUtvNDNMa1ZKZ3NzUm8tVFZCWlZQa2xNYTd4R0Q0b213RE9MMXVDUlBkZnFGcEZaMktYQXpnaXVGd0paV0FhNTdMS1YtNWQzclM2WkJldWZPOFRiR3B6dUJJVEx0VVJlRzBUWkhLT2gzZFE5NFNpOFlVcHk3T25ZNUk5cTY1Qi1NVEJEbS0taUNtOW5CMWpJ?oc=5",
-      "date": "2026-11-11T02:34:23+00:00"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZbE15RTk2R2NVdjVYNzFtWlRlX2VETVBmYmZXblQ2MXNhWTk4emtOWU8wVVpLNzQwemZoRWFFeFUyblJLaEhXQ1N4Mkk0aUZaUzNlNXBVUzhZWnI4WHJFWkZITjE3V2tpUlFwaUdXSVpOU0hHa3c?oc=5",
@@ -363,6 +339,14 @@
       "date": "2026-11-10T01:37:44+00:00"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObkFqc091Z2RDX3dCZ052b21fcHE4dEpZSktXbnlnSHJQLXBpZFJkZjR1NUl4UUF5a2NrNHdNbkRXVUZSQnBEb1YwSlFwR0ZoV1dGRExxd1hSMVRZYWFBMlJhak85d0ZOOGVpWWtZMnM0cnVBZ2JucVpQSlVraGdSUmlfc0hpOVU1?oc=5",
+      "source": "Reuters-全球贸易",
+      "title": "中国将与美国的贸易休战期延长两个月 - 《华尔街日报》",
+      "summary": "中国将与美国的贸易休战期延长两个月 The Journal Record",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObkFqc091Z2RDX3dCZ052b21fcHE4dEpZSktXbnlnSHJQLXBpZFJkZjR1NUl4UUF5a2NrNHdNbkRXVUZSQnBEb1YwSlFwR0ZoV1dGRExxd1hSMVRZYWFBMlJhak85d0ZOOGVpWWtZMnM0cnVBZ2JucVpQSlVraGdSUmlfc0hpOVU1?oc=5",
+      "date": "2026-11-09T18:05:57+00:00"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UZlhkVUh1TGxHTmVEd2Ixb2lNUFNwbERsOGNOLThVSE1FeVBNaFByaDZQSVg2eFQtTFNfdXRsNVAtbXY3TGdhbEFGN28xLTNJYzlxMkF4aWhnRy1PQkRFRkN1YXNNS2JYOGQtWktEYjM1WDRnOEdxcG5NM2dtcHc?oc=5",
       "source": "Reuters-全球贸易",
       "title": "农民等待出口明朗，中国延长与美国的贸易休战 - AgroLatam",
@@ -374,7 +358,7 @@
       "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1RllKNlZJUzFhX1A3NGxSUkZzMVBBd0lPNjBhYXN4andaeFpRYWxBU0Q3ZmFrdXlBcUg0ZFNacUk5XzhISkZGcGtTRXV6MmlRd3BKZzZRTWxUVUdjWFhXRWpXaVVSQUhhcGh4QVNHaTJmSVRxTFE?oc=5",
       "source": "Reuters-全球贸易",
       "title": "中国对美国的报复性关税推迟两个月，稀土出口管制豁免期限延长至1月10日 - BigGo Finance",
-      "summary": "中国将对美国的报复性关税推迟两个月，并将稀土出口管制豁免期限延长至 1 月 10 日 BigGo Finance",
+      "summary": "中国将对美国的报复性关税推迟两个月，并将稀土出口管制豁免期限延长至 1 月 10 日 BigGo 财经",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1RllKNlZJUzFhX1A3NGxSUkZzMVBBd0lPNjBhYXN4andaeFpRYWxBU0Q3ZmFrdXlBcUg0ZFNacUk5XzhISkZGcGtTRXV6MmlRd3BKZzZRTWxUVUdjWFhXRWpXaVVSQUhhcGh4QVNHaTJmSVRxTFE?oc=5",
       "date": "2026-11-09T09:35:00+00:00"
     },
@@ -389,8 +373,8 @@
     {
       "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdXlPV1lpWTVoR1JBSFBMMHJiMl9ERlpDNk9lakxSbUk5RVF5T2thVnRra3hFX0o1R1VoSDJqWnZ3YVIxTzNEcE9TWTR6clBLSWZMWkpwV1FUbzFiZWJSOFJwVlJxdGxKcjFBR3MyeFZlMHItV3h5TVM0OE4waFBkYmVfZ3ZmNlNjX3hJTmFBaw?oc=5",
       "source": "Google News-中国商务部",
-      "title": "海关总署公告2026年第58号公布继续暂停实施商务部、海关总署公告2025年第55号、56号、57号、58号及商务部公告2025年第61号、62号的决定 - 商务部",
-      "summary": "海关总署公告2026年第58号公布继续暂停实施商务部、海关总署公告2025年第55号、56号、57号、58号及商务部公告2025年第61号、62号的决定&nbsp;&nbsp;商务部",
+      "title": "海关总署公告2026年第58号公布继续暂停实施商务部、海关总署公告2025年第55号、56号、57号、58号及商务部公告2025年第61号、62号的决定 - 中华人民共和国商务部",
+      "summary": "海关总署公告2026年第58号公布继续暂停实施商务部、海关总署公告2025年第55号、56号、57号、58号及商务部公告2025年第61号、62号的决定&nbsp;&nbsp;中华人民共和国商务部",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdXlPV1lpWTVoR1JBSFBMMHJiMl9ERlpDNk9lakxSbUk5RVF5T2thVnRra3hFX0o1R1VoSDJqWnZ3YVIxTzNEcE9TWTR6clBLSWZMWkpwV1FUbzFiZWJSOFJwVlJxdGxKcjFBR3MyeFZlMHItV3h5TVM0OE4waFBkYmVfZ3ZmNlNjX3hJTmFBaw?oc=5",
       "date": "2026-11-09T08:00:00+00:00"
     },
@@ -459,6 +443,14 @@
       "date": "2026-10-30T07:00:00+00:00"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU1hjVnFRVUZlSUUxUzhZekx1dk9Oems1OW9FdHcxanA5Vk5ZYzExS3htVFpEQ3Ffa0N4MFVNRXZoY2lTV0FEZHduejVoUV9iUkt0YVpMWUVwU3Z4ZDRwaWFvaHVLVVBhNWdtd0N5VWxRaUtObVdNU3RNeEVSMTZDTkpOZGNuQmdubWtJT2VlM3REUQ?oc=5",
+      "source": "Google News-中国商务部",
+      "title": "商务部等4部门印发关于进一步提高海南自由贸易港贸易自由化便利化水平的通知 - 中华人民共和国商务部",
+      "summary": "商务部等4部门印发关于进一步提高海南自由贸易港贸易自由化便利化水平的通知&nbsp;&nbsp;中华人民共和国商务部",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU1hjVnFRVUZlSUUxUzhZekx1dk9Oems1OW9FdHcxanA5Vk5ZYzExS3htVFpEQ3Ffa0N4MFVNRXZoY2lTV0FEZHduejVoUV9iUkt0YVpMWUVwU3Z4ZDRwaWFvaHVLVVBhNWdtd0N5VWxRaUtObVdNU3RNeEVSMTZDTkpOZGNuQmdubWtJT2VlM3REUQ?oc=5",
+      "date": "2026-10-29T07:00:00+00:00"
+    },
+    {
       "id": "https://www.federalregister.gov/documents/2026/10/27/2026-21840/order-renewing-order-temporarily-denying-export-privileges",
       "source": "美国BIS (Federal Register)",
       "title": "临时拒绝出口特权的命令更新命令",
@@ -467,12 +459,28 @@
       "date": "2026-10-27T04:00:00+00:00"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTG5jZjN2TTNhZlQ4ckdoNDBJTndLTU8ySmd4V2FOTzdzT0RYVEd5RnlUYzZULWJlR3RsT0ZXa3NCdU1aaTBNcDNFZy1iNzFLWWxLRnNDaGNWOXUzSzhwOWtLd01VczVGVk9TN3hTS1hxcXJTVWdSa1Roa3pRRjVfZDZwdklUcXpubUhrRHNPZ0txY0k?oc=5",
+      "source": "Google News-中国商务部",
+      "title": "海参、章鱼、加勒比龙虾、带鱼等冷冻海产品贸易合作信息 - 中华人民共和国商务部",
+      "summary": "海参、章鱼、加勒比龙虾、带鱼等冷冻海产品贸易合作信息&nbsp;&nbsp;中华人民共和国商务部",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTG5jZjN2TTNhZlQ4ckdoNDBJTndLTU8ySmd4V2FOTzdzT0RYVEd5RnlUYzZULWJlR3RsT0ZXa3NCdU1aaTBNcDNFZy1iNzFLWWxLRnNDaGNWOXUzSzhwOWtLd01VczVGVk9TN3hTS1hxcXJTVWdSa1Roa3pRRjVfZDZwdklUcXpubUhrRHNPZ0txY0k?oc=5",
+      "date": "2026-10-21T07:00:00+00:00"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FcnQ2ZFUybTJnbTRWYmpfY1RNRmU1Sm5vTG45RlJHVEFmN1plc0FBVXFUVnVnZlFsdzZndVpEaWNVbFV4RUJIamNaOC1vSTJxU0l1SkJDeWd6NVJsZERYNg?oc=5",
       "source": "Google News-中国商务部",
       "title": "两用物项出口管制清单数据库 中华人民共和国两用物项出口管制清单 - 中国出口管制信息网",
       "summary": "两用物项出口管制清单数据库 中华人民共和国两用物项出口管制清单&nbsp;&nbsp;中国出口管制信息网",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FcnQ2ZFUybTJnbTRWYmpfY1RNRmU1Sm5vTG45RlJHVEFmN1plc0FBVXFUVnVnZlFsdzZndVpEaWNVbFV4RUJIamNaOC1vSTJxU0l1SkJDeWd6NVJsZERYNg?oc=5",
       "date": "2026-04-25T21:07:22+00:00"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWHdqajJ3c3lTNEVWYVh6RnNMZ0w5QnhMeWJ6R2RhcjVTNzBuZ0ppa1RmakR5aVBkWjk4LXg5d1NkNE8tRnZXYVpaYnNNb2ZMM2lSU3Y2azFTR3l4RWx3OFplNFhTelVFdmo0alhYVWdVczcyWENIVVEtU09Hd193R1hWVzI1TlpqalBaMUVpNmg0dw?oc=5",
+      "source": "Google News-中国商务部",
+      "title": "《中华人民共和国出口管制法》全文 - 中华人民共和国商务部",
+      "summary": "《中华人民共和国出口管制法》全文&nbsp;&nbsp;中华人民共和国商务部",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWHdqajJ3c3lTNEVWYVh6RnNMZ0w5QnhMeWJ6R2RhcjVTNzBuZ0ppa1RmakR5aVBkWjk4LXg5d1NkNE8tRnZXYVpaYnNNb2ZMM2lSU3Y2azFTR3l4RWx3OFplNFhTelVFdmo0alhYVWdVczcyWENIVVEtU09Hd193R1hWVzI1TlpqalBaMUVpNmg0dw?oc=5",
+      "date": "2025-11-30T09:42:04+00:00"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYWpjbzZTWk15Sm5rWTNMLVkxeVpkT1dOdW15NTlVd0QzdzRlUUhqc01HbU8yUl8xLW1GRU4xQUh3VmVZM29PSUU5ZjFBQTBJQUp6OTRDa19kTFAyaFI0aDBVeDZWQ2o3NDBJSEN1Rk5JRVpxQ0lQM2daeWRmSW56N3NWZHRGcE5pbGRxUGdpaw?oc=5",
