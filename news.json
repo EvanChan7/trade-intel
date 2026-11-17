@@ -1,61 +1,53 @@
 {
-  "updated_at": "2026-11-16T07:43:28.552745+00:00",
-  "count": 22,
+  "updated_at": "2026-11-17T08:53:14.536401+00:00",
+  "count": 23,
   "events": [
     {
-      "id": "https://north-africa-middle-east-gulf.ec.europa.eu/news/cop31-commission-launches-climate-related-actions-under-pact-mediterranean-2026-11-13_en",
+      "id": "https://translation.ec.europa.eu/news-and-events/news/translating-europe-forum-2026-language-professionals-matter-2026-11-16_en",
       "source": "欧盟委员会",
-      "title": "在 COP31 上，委员会根据《地中海公约》启动了与气候相关的行动",
-      "summary": "在土耳其安塔利亚举行的 COP31 联合国气候变化会议上，委员会今天介绍了《地中海公约》下的气候相关行动。 它们是欧盟承诺与国际伙伴合作加速全球气候行动并实现……目标的一部分。",
-      "url": "https://north-africa-middle-east-gulf.ec.europa.eu/news/cop31-commission-launches-climate-related-actions-under-pact-mediterranean-2026-11-13_en",
-      "date": "2026-11-12T23:00:00+00:00"
+      "title": "2026 年欧洲翻译论坛：语言专业人士很重要！",
+      "summary": "了解 #2026TEF 的主要要点和亮点。",
+      "url": "https://translation.ec.europa.eu/news-and-events/news/translating-europe-forum-2026-language-professionals-matter-2026-11-16_en",
+      "date": "2026-11-15T23:00:00+00:00"
     },
     {
-      "id": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/commission-launches-first-global-alliance-climate-and-health-research-funding-cop31-2026-11-13_en",
+      "id": "https://single-market-economy.ec.europa.eu/news/digital-product-passport-registry-technical-guidance-available-2026-11-16_en",
       "source": "欧盟委员会",
-      "title": "委员会在 COP31 上启动首个气候与健康研究资助全球联盟",
-      "summary": "研究和创新新闻快讯：欧盟委员会已开始寻找欧洲研究理事会 (ERC) 的下一任主席，邀请提名一位科学领袖，以支持前沿研究并在世界舞台上代表欧洲科学。",
-      "url": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/commission-launches-first-global-alliance-climate-and-health-research-funding-cop31-2026-11-13_en",
-      "date": "2026-11-12T23:00:00+00:00"
+      "title": "委员会发布技术指南以支持数字产品护照注册的实施",
+      "summary": "现在可以使用一整套技术文档来帮助组织为欧盟数字产品护照 (DPP) 注册准备其系统。",
+      "url": "https://single-market-economy.ec.europa.eu/news/digital-product-passport-registry-technical-guidance-available-2026-11-16_en",
+      "date": "2026-11-15T23:00:00+00:00"
     },
     {
-      "id": "https://environment.ec.europa.eu/news/23-million-tonnes-textile-waste-generated-2024-2026-11-13_en",
+      "id": "https://energy.ec.europa.eu/news/electricity-coordination-group-considers-eu-electricity-market-prepared-winter-2026-11-16_en",
       "source": "欧盟委员会",
-      "title": "2024 年将产生 230 万吨纺织废料",
-      "summary": "2024年，欧盟产生了230万吨纺织废料。家庭处置占这一数额的一半以上。同年，处理了 140 万吨纺织废料，相当于当年产生的所有纺织废料的 63%。",
-      "url": "https://environment.ec.europa.eu/news/23-million-tonnes-textile-waste-generated-2024-2026-11-13_en",
-      "date": "2026-11-12T23:00:00+00:00"
+      "title": "电力协调小组认为欧盟电力市场已为冬季做好准备",
+      "summary": "根据昨天举行的电力协调小组（ECG）会议上欧盟委员会、各国专家和主要利益相关者之间的讨论，欧盟电力市场已为冬季做好适当准备，但有必要继续密切监控市场。",
+      "url": "https://energy.ec.europa.eu/news/electricity-coordination-group-considers-eu-electricity-market-prepared-winter-2026-11-16_en",
+      "date": "2026-11-15T23:00:00+00:00"
     },
     {
-      "id": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261111-2",
+      "id": "https://competition-policy.ec.europa.eu/about/news/commission-unconditionally-approves-unicredits-acquisition-commerzbank-2026-11-16_en",
       "source": "欧盟委员会",
-      "title": "2025年农业产值创历史新高",
-      "summary": "2025年，欧盟农业产值以基本价格计算达到创纪录的5587亿欧元，比2024年的5329亿欧元增长4.8%。",
-      "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261111-2",
-      "date": "2026-11-12T23:00:00+00:00"
+      "title": "欧盟委员会无条件批准裕信银行收购德国商业银行",
+      "summary": "欧盟委员会已根据欧盟合并条例无条件批准裕信银行收购德国商业银行的提议。委员会的结论是，该交易不会引起欧洲经济区（“EEA”）的竞争担忧。",
+      "url": "https://competition-policy.ec.europa.eu/about/news/commission-unconditionally-approves-unicredits-acquisition-commerzbank-2026-11-16_en",
+      "date": "2026-11-15T23:00:00+00:00"
     },
     {
-      "id": "https://commission.europa.eu/news-and-media/news/announcement-next-auction-eu-bills-18-11-2026-2026-11-13_en",
+      "id": "https://commission.europa.eu/news-and-media/news/joint-press-statement-michael-mcgrath-commissioner-democracy-justice-rule-law-and-consumer-2026-11-16_en",
       "source": "欧盟委员会",
-      "title": "2026 年 11 月 18 日下一次拍卖（欧盟法案）公告",
-      "summary": "拍卖公告欧盟票据。",
-      "url": "https://commission.europa.eu/news-and-media/news/announcement-next-auction-eu-bills-18-11-2026-2026-11-13_en",
-      "date": "2026-11-12T23:00:00+00:00"
+      "title": "民主、司法、法治和消费者保护专员 Michael McGrath 和肯尼亚数据专员 Immaculate Kassait 发表联合新闻声明",
+      "summary": "欧盟和肯尼亚正在朝着具有里程碑意义的相互数据充分性安排迈进，为安全数据流、更强大的数字贸易、研究合作和投资机会铺平道路——这是欧盟与非洲之间的首个此类伙伴关系。",
+      "url": "https://commission.europa.eu/news-and-media/news/joint-press-statement-michael-mcgrath-commissioner-democracy-justice-rule-law-and-consumer-2026-11-16_en",
+      "date": "2026-11-15T23:00:00+00:00"
     },
     {
-      "id": "https://enlargement.ec.europa.eu/news/president-von-der-leyen-and-commissioner-kos-host-second-eu-enlargement-forum-2026-11-13_en",
+      "id": "https://energy.ec.europa.eu/news/ten-citizen-led-energy-communities-win-first-eu-prize-governance-innovations-energy-communities-2026-11-13_en",
       "source": "欧盟委员会",
-      "title": "冯德莱恩总统和科斯委员将主办第二届欧盟扩大论坛",
-      "summary": "周一，欧盟委员会主席乌苏拉·冯德莱恩与欧盟扩大委员玛塔·科斯将在布鲁塞尔主办第二届欧盟扩大论坛，题为“更广泛的欧洲 - 更强的欧洲”。",
-      "url": "https://enlargement.ec.europa.eu/news/president-von-der-leyen-and-commissioner-kos-host-second-eu-enlargement-forum-2026-11-13_en",
-      "date": "2026-11-12T23:00:00+00:00"
-    },
-    {
-      "id": "https://fpi.ec.europa.eu/news-and-events/news/paris-peace-forum-2026-peace-mediation-built-endurance-and-empathy-2026-11-13_en",
-      "source": "欧盟委员会",
-      "title": "2026 年巴黎和平论坛：建立在忍耐力和同理心基础上的和平调解",
-      "summary": "11 月 10 日至 11 日，欧盟委员会外交政策工具服务处 (FPI) 参加了第九届巴黎和平论坛，将和平调解作为其参与的核心。",
-      "url": "https://fpi.ec.europa.eu/news-and-events/news/paris-peace-forum-2026-peace-mediation-built-endurance-and-empathy-2026-11-13_en",
+      "title": "十个公民主导的能源社区荣获首届欧盟能源社区治理创新奖",
+      "summary": "今天，欧盟委员会授予能源社区治理创新一等奖。该奖项旨在表彰在决策、分享利益以及与地方当局和企业合作方面表现突出的可再生能源和公民能源社区。",
+      "url": "https://energy.ec.europa.eu/news/ten-citizen-led-energy-communities-win-first-eu-prize-governance-innovations-energy-communities-2026-11-13_en",
       "date": "2026-11-12T23:00:00+00:00"
     },
     {
@@ -64,6 +56,14 @@
       "title": "委员会限制渔坠和鱼饵中的铅含量，以保护人类和环境",
       "summary": "2026 年 11 月 12 日，委员会根据欧盟化学品法规 REACH，采取了限制渔重和鱼饵中铅含量的措施。",
       "url": "https://environment.ec.europa.eu/news/commission-restricts-lead-fishing-weights-and-lures-protect-people-and-environment-2026-11-13_en",
+      "date": "2026-11-12T23:00:00+00:00"
+    },
+    {
+      "id": "https://enlargement.ec.europa.eu/news/president-von-der-leyen-and-commissioner-kos-host-second-eu-enlargement-forum-2026-11-13_en",
+      "source": "欧盟委员会",
+      "title": "冯德莱恩总统和科斯委员将主办第二届欧盟扩大论坛",
+      "summary": "周一，欧盟委员会主席乌苏拉·冯德莱恩与欧盟扩大委员玛塔·科斯将在布鲁塞尔主办第二届欧盟扩大论坛，题为“更广泛的欧洲 - 更强的欧洲”。",
+      "url": "https://enlargement.ec.europa.eu/news/president-von-der-leyen-and-commissioner-kos-host-second-eu-enlargement-forum-2026-11-13_en",
       "date": "2026-11-12T23:00:00+00:00"
     },
     {
@@ -83,43 +83,59 @@
       "date": "2026-11-12T23:00:00+00:00"
     },
     {
-      "id": "https://defence-industry-space.ec.europa.eu/advanced-sensors-next-generation-communications-how-european-defence-fund-helps-european-defence-2026-11-13_en",
+      "id": "https://competition-policy.ec.europa.eu/about/news/commission-approves-eur286-million-german-state-aid-port-hamburg-2026-11-13_en",
       "source": "欧盟委员会",
-      "title": "从先进传感器到下一代通信：欧洲国防基金如何帮助欧洲国防工业开发关键技术",
-      "summary": "国防格局在不断发展，需要不断创新。要保持欧盟成员国武装部队始终领先，必须采用新技术。  ",
-      "url": "https://defence-industry-space.ec.europa.eu/advanced-sensors-next-generation-communications-how-european-defence-fund-helps-european-defence-2026-11-13_en",
+      "title": "委员会批准德国国家向汉堡港提供 2.86 亿欧元的援助",
+      "summary": "欧盟委员会已根据欧盟国家援助规则批准了两项价值 1.43 亿欧元的德国措施，以支持汉堡港的基础设施工程。这些措施涉及两个不同的基础设施项目，一个位于萨尔茨吉特码头，一个位于施泰因韦尔德码头。",
+      "url": "https://competition-policy.ec.europa.eu/about/news/commission-approves-eur286-million-german-state-aid-port-hamburg-2026-11-13_en",
       "date": "2026-11-12T23:00:00+00:00"
     },
     {
-      "id": "https://energy.ec.europa.eu/news/ten-citizen-led-energy-communities-win-first-eu-prize-governance-innovations-energy-communities-2026-11-13_en",
+      "id": "https://environment.ec.europa.eu/news/23-million-tonnes-textile-waste-generated-2024-2026-11-13_en",
       "source": "欧盟委员会",
-      "title": "十个公民主导的能源社区荣获首届欧盟能源社区治理创新奖",
-      "summary": "今天，欧盟委员会颁发了能源社区治理创新一等奖。该奖项旨在表彰在决策、分享利益以及与地方当局和企业合作方面表现突出的可再生能源和公民能源社区。",
-      "url": "https://energy.ec.europa.eu/news/ten-citizen-led-energy-communities-win-first-eu-prize-governance-innovations-energy-communities-2026-11-13_en",
+      "title": "2024 年将产生 230 万吨纺织废料",
+      "summary": "2024年，欧盟产生了230万吨纺织废料。家庭处置占这一数额的一半以上。同年，处理了 140 万吨纺织废料，相当于当年产生的所有纺织废料的 63%。",
+      "url": "https://environment.ec.europa.eu/news/23-million-tonnes-textile-waste-generated-2024-2026-11-13_en",
       "date": "2026-11-12T23:00:00+00:00"
     },
     {
-      "id": "https://international-partnerships.ec.europa.eu/news-and-events/news/eu-and-gggi-sign-eur10-million-contribution-agreement-mobilise-eur1-billion-climate-aligned-2026-11-13_en",
+      "id": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261111-2",
       "source": "欧盟委员会",
-      "title": "欧盟和GGGI签署1000万欧元出资协议，以动员高达10亿欧元的气候相关投资",
-      "summary": "欧盟和全球绿色增长研究所今天签署了一项1000万欧元的全球门户气候投资基金捐款协议，旨在帮助伙伴国家将气候承诺转化为投资就绪的项目，并动员公共和私人资金。",
-      "url": "https://international-partnerships.ec.europa.eu/news-and-events/news/eu-and-gggi-sign-eur10-million-contribution-agreement-mobilise-eur1-billion-climate-aligned-2026-11-13_en",
+      "title": "2025年农业产值创历史新高",
+      "summary": "2025年，欧盟农业产值以基本价格计算达到创纪录的5587亿欧元，比2024年的5329亿欧元增长4.8%。",
+      "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261111-2",
       "date": "2026-11-12T23:00:00+00:00"
     },
     {
-      "id": "https://defence-industry-space.ec.europa.eu/learning-ukraine-resilience-design-2026-11-13_en",
+      "id": "https://north-africa-middle-east-gulf.ec.europa.eu/news/cop31-commission-launches-climate-related-actions-under-pact-mediterranean-2026-11-13_en",
       "source": "欧盟委员会",
-      "title": "向乌克兰学习：设计韧性",
-      "summary": "乌克兰集群联盟（UCA）出版了一本关于设计韧性以及集群在加强韧性方面的作用的小册子。该手册将 UA Resilience 介绍为一种共享生态系统能力：连接工业能力、有效机构、安全、人员和技能以及欧洲合作社",
-      "url": "https://defence-industry-space.ec.europa.eu/learning-ukraine-resilience-design-2026-11-13_en",
+      "title": "在 COP31 上，委员会根据《地中海公约》启动了与气候相关的行动",
+      "summary": "At the COP31 UN Climate Change Conference in Antalya, Türkiye, the Commission today presented the climate-related actions under the Pact for the Mediterranean. 它们是欧盟承诺与国际伙伴合作加速全球气候行动并实现……目标的一部分。",
+      "url": "https://north-africa-middle-east-gulf.ec.europa.eu/news/cop31-commission-launches-climate-related-actions-under-pact-mediterranean-2026-11-13_en",
       "date": "2026-11-12T23:00:00+00:00"
     },
     {
-      "id": "https://energy.ec.europa.eu/news/oil-coordination-group-confirms-continued-supply-stability-across-eu-2026-11-13_en",
+      "id": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/commission-launches-first-global-alliance-climate-and-health-research-funding-cop31-2026-11-13_en",
       "source": "欧盟委员会",
-      "title": "石油协调组织确认整个欧盟供应持续稳定",
-      "summary": "来自欧盟委员会、欧盟国家、国际能源署（IEA）、能源共同体和北约的专家今天再次在石油协调小组举行会议，与行业代表一起评估当前的石油市场形势。",
-      "url": "https://energy.ec.europa.eu/news/oil-coordination-group-confirms-continued-supply-stability-across-eu-2026-11-13_en",
+      "title": "委员会在 COP31 上启动首个气候与健康研究资助全球联盟",
+      "summary": "研究和创新新闻快讯：欧盟委员会已开始寻找欧洲研究理事会 (ERC) 下一任主席，邀请提名一位科学领袖，以支持前沿研究并在世界舞台上代表欧洲科学。",
+      "url": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/commission-launches-first-global-alliance-climate-and-health-research-funding-cop31-2026-11-13_en",
+      "date": "2026-11-12T23:00:00+00:00"
+    },
+    {
+      "id": "https://commission.europa.eu/news-and-media/news/announcement-next-auction-eu-bills-18-11-2026-2026-11-13_en",
+      "source": "欧盟委员会",
+      "title": "2026 年 11 月 18 日下一次拍卖（欧盟法案）公告",
+      "summary": "拍卖公告欧盟票据。",
+      "url": "https://commission.europa.eu/news-and-media/news/announcement-next-auction-eu-bills-18-11-2026-2026-11-13_en",
+      "date": "2026-11-12T23:00:00+00:00"
+    },
+    {
+      "id": "https://fpi.ec.europa.eu/news-and-events/news/paris-peace-forum-2026-peace-mediation-built-endurance-and-empathy-2026-11-13_en",
+      "source": "欧盟委员会",
+      "title": "2026 年巴黎和平论坛：建立在忍耐力和同理心基础上的和平调解",
+      "summary": "11 月 10 日至 11 日，欧盟委员会外交政策工具服务处 (FPI) 参加了第九届巴黎和平论坛，将和平调解作为其参与的核心。",
+      "url": "https://fpi.ec.europa.eu/news-and-events/news/paris-peace-forum-2026-peace-mediation-built-endurance-and-empathy-2026-11-13_en",
       "date": "2026-11-12T23:00:00+00:00"
     },
     {
@@ -131,20 +147,12 @@
       "date": "2026-11-12T23:00:00+00:00"
     },
     {
-      "id": "https://home-affairs.ec.europa.eu/news/results-euda-drug-survey-6-10-people-eu-see-drug-trafficking-and-drug-use-serious-problems-2026-11-12_en",
+      "id": "https://climate.ec.europa.eu/news-other-reads/news/eu-and-gggi-sign-eur10-million-contribution-agreement-mobilise-eur1-billion-climate-aligned-2026-11-13_en",
       "source": "欧盟委员会",
-      "title": "EUDA毒品调查结果：欧盟十分之六的人认为贩毒和吸毒是严重问题",
-      "summary": "欧盟药品管理局 (EUDA) 发布了毒品调查结果，了解欧洲各地人们如何看待毒品、毒品的影响以及社会应如何应对。 EUDA 对 35 个欧洲国家的 95 883 人（15 岁及以上）进行了调查，其中包括 27 个欧盟国家的受访者。",
-      "url": "https://home-affairs.ec.europa.eu/news/results-euda-drug-survey-6-10-people-eu-see-drug-trafficking-and-drug-use-serious-problems-2026-11-12_en",
-      "date": "2026-11-11T23:00:00+00:00"
-    },
-    {
-      "id": "https://energy.ec.europa.eu/news/eurostat-emergency-oil-stocks-slightly-down-commercial-stocks-july-2026-2026-11-12_en",
-      "source": "欧盟委员会",
-      "title": "欧盟统计局：紧急石油库存小幅下降； 2026 年 7 月商业库存上涨",
-      "summary": "2026年7月，欧盟持有1.035亿吨紧急石油库存。与2026年6月相比，应急石油库存减少了2.5%，而与2025年7月相比，降幅更为大幅，为4.2%。",
-      "url": "https://energy.ec.europa.eu/news/eurostat-emergency-oil-stocks-slightly-down-commercial-stocks-july-2026-2026-11-12_en",
-      "date": "2026-11-11T23:00:00+00:00"
+      "title": "欧盟和GGGI签署1000万欧元出资协议，以动员高达10亿欧元的气候相关投资",
+      "summary": "欧盟和全球绿色增长研究所今天签署了一项1000万欧元的全球门户气候投资基金捐款协议，旨在帮助伙伴国家将气候承诺转化为投资就绪的项目，并动员公共和私人资金。",
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/eu-and-gggi-sign-eur10-million-contribution-agreement-mobilise-eur1-billion-climate-aligned-2026-11-13_en",
+      "date": "2026-11-12T23:00:00+00:00"
     },
     {
       "id": "https://www.federalregister.gov/documents/2026/11/09/2026-22793/extension-of-the-suspension-of-expansion-of-end-user-controls-for-affiliates-of-certain-listed",
@@ -158,7 +166,7 @@
       "id": "https://www.federalregister.gov/documents/2026/11/06/2026-22726/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
       "source": "美国BIS (Federal Register)",
       "title": "机构信息收集活动；提交管理和预算办公室 (OMB) 审批；评论请求；申请流程 豁免进口资格标准 限制多晶硅及多晶硅衍生物库存的措施",
-      "summary": "根据 1995 年《文书减少法案》(PRA)，商务部邀请公众和其他联邦机构对拟议的和持续的信息收集发表评论，这有助于我们评估信息收集要求的影响并最大限度地减少公众的报告负担。本通知的目的是允许公众在 60 天内对 OMB 批准的临时紧急收集提出意见",
+      "summary": "商务部根据 1995 年《文书减少法案》(PRA)，邀请公众和其他联邦机构对拟议的和持续的信息收集发表评论，这有助于我们评估信息收集要求的影响并最大限度地减少公众的报告负担。本通知的目的是允许公众在 60 天内对 OMB 批准的临时紧急收集提出意见",
       "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22726/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
       "date": "2026-11-06T05:00:00+00:00"
     },
@@ -166,7 +174,7 @@
       "id": "https://www.federalregister.gov/documents/2026/11/06/2026-22725/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
       "source": "美国BIS (Federal Register)",
       "title": "机构信息收集活动；提交管理和预算办公室 (OMB) 审批；评论请求；第 232 条 对特种药品及相关成分进口的国家安全调整",
-      "summary": "根据 1995 年《文书减少法案》(PRA)，商务部邀请公众和其他联邦机构对拟议的和持续的信息收集发表评论，这有助于我们评估信息收集要求的影响并最大限度地减少公众的报告负担。本通知的目的是允许公众在 60 天内对 OMB 批准的临时紧急收集提出意见",
+      "summary": "商务部根据 1995 年《文书减少法案》(PRA)，邀请公众和其他联邦机构对拟议的和持续的信息收集发表评论，这有助于我们评估信息收集要求的影响并最大限度地减少公众的报告负担。本通知的目的是允许公众在 60 天内对 OMB 批准的临时紧急收集提出意见",
       "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22725/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
       "date": "2026-11-06T05:00:00+00:00"
     },
