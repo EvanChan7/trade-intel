@@ -1,20 +1,36 @@
 {
-  "updated_at": "2026-11-18T08:17:57.178093+00:00",
-  "count": 56,
+  "updated_at": "2026-11-19T08:27:52.658012+00:00",
+  "count": 53,
   "events": [
     {
-      "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbGluWXJqd3ZKYWprM0V2c1ROMTA1ZmYwYTdCVW8wamtIdE1KNUp5ZzlwdDJmbW0tRTVzQ0ZGdkJLbG10MjJERjZkM1JtZjRQY1ZDc3BRSlpTaWgzanRVMXVCYUF4bVI3WGk2emp3RlhDYXdHMUNiaXlDQUN4ckI0SGFGcnhENVF2YlFZXzRpN3VJczhrSlV6c0d4cFlDSVRPbTI0ZnpESQ?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYlZQdU0wVFk5blotT0kzWlZDZVh5TmRvSmQwNUk1U1llLXJvSVhxRHhGeEJhN1hHOHpWdmludjFzRjZXTmhOZUo3bTZfREJqbUFGam9TNGtETVpEejBmRVNpTk5KZGRLYjgyT2lYX0hpTHZqbkVuYkhIYTN2UGJUY0RadnBvakRVaWc?oc=5",
+      "source": "Google News-中国商务部",
+      "title": "商务部国际司负责人就实质性完成中韩自贸协定第二阶段谈判有关情况答记者问 - 中华人民共和国商务部",
+      "summary": "商务部国际司负责人就实质性完成中韩自贸协定第二阶段谈判有关情况答记者问&nbsp;&nbsp;中华人民共和国商务部",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYlZQdU0wVFk5blotT0kzWlZDZVh5TmRvSmQwNUk1U1llLXJvSVhxRHhGeEJhN1hHOHpWdmludjFzRjZXTmhOZUo3bTZfREJqbUFGam9TNGtETVpEejBmRVNpTk5KZGRLYjgyT2lYX0hpTHZqbkVuYkhIYTN2UGJUY0RadnBvakRVaWc?oc=5",
+      "date": "2026-11-18T15:02:00+00:00"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOTZGWjRrQUUwbjFIdkFjTzVfaXBIOFZ5bG11SW9hNDlOYUtCdldLVVd5azRjNHFPT2pxd2FDTjNrRzlmRFhVc0lEUUgtVkEyXzY2Mk9KSTVCM3NlbW9jcl9BdDJGVjBleHNmdEtxbHAzVncwNGZFemlBRUtyZXZSdXotaDdfcFhiNWs2azJOM05FUQ?oc=5",
       "source": "Reuters-全球贸易",
-      "title": "芯片限制威胁美中贸易休战 - Breakingviews",
-      "summary": "芯片限制威胁美中贸易休战 Breakingviews",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbGluWXJqd3ZKYWprM0V2c1ROMTA1ZmYwYTdCVW8wamtIdE1KNUp5ZzlwdDJmbW0tRTVzQ0ZGdkJLbG10MjJERjZkM1JtZjRQY1ZDc3BRSlpTaWgzanRVMXVCYUF4bVI3WGk2emp3RlhDYXdHMUNiaXlDQUN4ckI0SGFGcnhENVF2YlFZXzRpN3VJczhrSlV6c0d4cFlDSVRPbTI0ZnpESQ?oc=5",
-      "date": "2026-11-18T04:14:20+00:00"
+      "title": "What's at stake for Trump and Xi in Shenzhen: A trade truce deadline, new export controls, and Iran - Fortune",
+      "summary": "What's at stake for Trump and Xi in Shenzhen: A trade truce deadline, new export controls, and Iran&nbsp;&nbsp;Fortune",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOTZGWjRrQUUwbjFIdkFjTzVfaXBIOFZ5bG11SW9hNDlOYUtCdldLVVd5azRjNHFPT2pxd2FDTjNrRzlmRFhVc0lEUUgtVkEyXzY2Mk9KSTVCM3NlbW9jcl9BdDJGVjBleHNmdEtxbHAzVncwNGZFemlBRUtyZXZSdXotaDdfcFhiNWs2azJOM05FUQ?oc=5",
+      "date": "2026-11-18T11:14:00+00:00"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX0dWaWJmUjhiQXRvN1VOVFhwOV9BS2tVRnJDa0w1VTJNejRFUnBSQVhYVXB5RjZpcWFRTERocTB5SDRKUWVvWmotQWNfeUNMRC1VNnhSMzRwQzY4dDUwamJoYjdHZF9KT3pLd2UyVDc2RE1nMTVvYkw0VHZzWTJGMWwxUWNyekhqR3BERg?oc=5",
+      "source": "Reuters-全球贸易",
+      "title": "Tighter rules on chip exports come amid broad divisions over AI and China - The Christian Science Monitor",
+      "summary": "Tighter rules on chip exports come amid broad divisions over AI and China&nbsp;&nbsp;The Christian Science Monitor",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX0dWaWJmUjhiQXRvN1VOVFhwOV9BS2tVRnJDa0w1VTJNejRFUnBSQVhYVXB5RjZpcWFRTERocTB5SDRKUWVvWmotQWNfeUNMRC1VNnhSMzRwQzY4dDUwamJoYjdHZF9KT3pLd2UyVDc2RE1nMTVvYkw0VHZzWTJGMWwxUWNyekhqR3BERg?oc=5",
+      "date": "2026-11-18T05:00:00+00:00"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX0NhQU5GdEJ3aUxWWTFkbm94YXJXWTRmdkltaU9WLWVHQ2tLNVZVb0VuWnZBSnlhM2RUY1dFSlVyT0k2akttcnQ0bWthTUxQdENXNUtFQ0ZIcjNRdTM1Mkp3SXBMRTV0dThvWm15TDQ0QVBRWVpMbHR2bWJZcGFRQjNtODNpV3FVdlhCZGszcm4wU1gzbk0xU2FMOG9ST0lNSEp3?oc=5",
       "source": "Reuters-全球贸易",
-      "title": "Breakingviews - 评论：芯片限制威胁美中贸易休战 - 路透",
-      "summary": "突发观点 - 评论：芯片限制威胁美中贸易休战 - 路透",
+      "title": "Breakingviews - COMMENTARY: Chip curbs threaten US-China trade truce - Reuters",
+      "summary": "Breakingviews - COMMENTARY: Chip curbs threaten US-China trade truce&nbsp;&nbsp;Reuters",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX0NhQU5GdEJ3aUxWWTFkbm94YXJXWTRmdkltaU9WLWVHQ2tLNVZVb0VuWnZBSnlhM2RUY1dFSlVyT0k2akttcnQ0bWthTUxQdENXNUtFQ0ZIcjNRdTM1Mkp3SXBMRTV0dThvWm15TDQ0QVBRWVpMbHR2bWJZcGFRQjNtODNpV3FVdlhCZGszcm4wU1gzbk0xU2FMOG9ST0lNSEp3?oc=5",
       "date": "2026-11-18T04:08:00+00:00"
     },
@@ -27,52 +43,92 @@
       "date": "2026-11-18T01:07:48+00:00"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ta2kyX1JXVHdDYUJGVFVkZllXbHRxUHVKTW5VNjdyc29ldTNVb1RpSUgwN0tLTmJjeGM4ZWlBT1ZOOGoydGxtSXdoOFNjLUVrb2FCTVE5OEFmbjRiVk16di1GOXAtMmFrNWo2cklpR21tb3ZVUEE?oc=5",
+      "source": "Google News-中国商务部",
+      "title": "商务部新闻发言人就美商务部发布限制远程获取先进半导体相关措施答记者问 - 中国贸易救济信息网",
+      "summary": "商务部新闻发言人就美商务部发布限制远程获取先进半导体相关措施答记者问&nbsp;&nbsp;中国贸易救济信息网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ta2kyX1JXVHdDYUJGVFVkZllXbHRxUHVKTW5VNjdyc29ldTNVb1RpSUgwN0tLTmJjeGM4ZWlBT1ZOOGoydGxtSXdoOFNjLUVrb2FCTVE5OEFmbjRiVk16di1GOXAtMmFrNWo2cklpR21tb3ZVUEE?oc=5",
+      "date": "2026-11-18T01:06:57+00:00"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXQtUnc0dXFSSFBBcmQ3R0c5RXhWZFVVSmtxMUpqU21EOUlNNExWYWVacWdwTHJ1cUZWZVFMS293d2FTb3BfZlJhZ3k3ejNQYnB5Vy04S216ZjVTeWxXOWVrSVNQeWlJN1hTRkI2VmV1Mml6aDA4RG9hRUlaZ0l0WUZtZVRjNW1BLVhVTjlreGJ6R08yTWNZX1c2UHFZRThJajNheTRsT203aGZudmpBcTR3dndXallfcmVoUTNR?oc=5",
       "source": "Reuters-全球贸易",
-      "title": "美国民主党参议员在特习会前提出终止中国贸易地位的法案 - 路透中文网",
-      "summary": "美国民主党参议员在特习会前提出终止中国贸易地位的法案 路透",
+      "title": "US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting - Reuters",
+      "summary": "US Democratic senator introduces bill to end China's trade status ahead of Trump-Xi meeting&nbsp;&nbsp;Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXQtUnc0dXFSSFBBcmQ3R0c5RXhWZFVVSmtxMUpqU21EOUlNNExWYWVacWdwTHJ1cUZWZVFMS293d2FTb3BfZlJhZ3k3ejNQYnB5Vy04S216ZjVTeWxXOWVrSVNQeWlJN1hTRkI2VmV1Mml6aDA4RG9hRUlaZ0l0WUZtZVRjNW1BLVhVTjlreGJ6R08yTWNZX1c2UHFZRThJajNheTRsT203aGZudmpBcTR3dndXallfcmVoUTNR?oc=5",
       "date": "2026-11-17T23:01:15+00:00"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSF9VanNvZEtldmpHbllkTGFBN0N1T0FVS3JhcU1XZV8xOGc2eWh6ajExTVFtRjVtdFFqYUxwZnFCd21RVXdRcEktc1ZYV3cyTkJ1TjBPLTJWdFVIOFJRTW9xN1F0M3pyczNqRnZSWHZXMUhIRzFCaE92MElrMTA1RHpQblFnVnZSc2hHenJSMUdJVGd1VlBxNWJHb0NZVkREM2RyOHBaM3NrNkUyUFhZYnp1WTFMdll1U1E?oc=5",
+      "id": "https://energy.ec.europa.eu/news/eu-endorses-global-electrification-pledge-cop31-2026-11-18_en",
+      "source": "欧盟委员会",
+      "title": "EU endorses Global Electrification Pledge at COP31",
+      "summary": "The European Union has endorsed the 35-by-35 Global Electrification Pledge at the UN Climate Change Conference COP31 in Antalya, Türkiye.",
+      "url": "https://energy.ec.europa.eu/news/eu-endorses-global-electrification-pledge-cop31-2026-11-18_en",
+      "date": "2026-11-17T23:00:00+00:00"
+    },
+    {
+      "id": "https://taxation-customs.ec.europa.eu/news/extension-cbam-iceland-and-norway-2026-11-18_en",
+      "source": "欧盟委员会",
+      "title": "Extension of CBAM to Iceland and Norway",
+      "summary": "CBAM will be extended to Norway and Iceland following the entry into force of the EEA Joint Committee Decision.&nbsp;As of 1 January 2027, CBAM will apply in Norway and Iceland to goods imported into their customs territories, in the same way that it applies to goods entering the EU customs territory.",
+      "url": "https://taxation-customs.ec.europa.eu/news/extension-cbam-iceland-and-norway-2026-11-18_en",
+      "date": "2026-11-17T23:00:00+00:00"
+    },
+    {
+      "id": "https://finance.ec.europa.eu/news/commissioner-albuquerque-hosts-high-level-events-champion-financial-literacy-across-eu-2026-11-18_en",
+      "source": "欧盟委员会",
+      "title": "Commissioner Albuquerque hosts high-level events to champion financial literacy across the EU",
+      "summary": "Today, Commissioner Maria Luís Albuquerque hosts the first of two events to raise awareness of the importance of financial literacy and empowering citizens to make sound financial decisions that will ultimately improve their well-being, financial security, and independence.",
+      "url": "https://finance.ec.europa.eu/news/commissioner-albuquerque-hosts-high-level-events-champion-financial-literacy-across-eu-2026-11-18_en",
+      "date": "2026-11-17T23:00:00+00:00"
+    },
+    {
+      "id": "https://commission.europa.eu/news-and-media/news/announcement-next-auction-eu-bonds-23-11-2026-2026-11-18_en",
+      "source": "欧盟委员会",
+      "title": "Announcement of next auction (EU-Bonds) on 23-11-2026",
+      "summary": "Auction announcement EU-Bonds.",
+      "url": "https://commission.europa.eu/news-and-media/news/announcement-next-auction-eu-bonds-23-11-2026-2026-11-18_en",
+      "date": "2026-11-17T23:00:00+00:00"
+    },
+    {
+      "id": "https://commission.europa.eu/news-and-media/news/results-18-11-2026-auction-eu-bills-2026-11-18_en",
+      "source": "欧盟委员会",
+      "title": "Results of 18-11-2026 auction (EU-Bills)",
+      "summary": "Auction results EU-Bills.",
+      "url": "https://commission.europa.eu/news-and-media/news/results-18-11-2026-auction-eu-bills-2026-11-18_en",
+      "date": "2026-11-17T23:00:00+00:00"
+    },
+    {
+      "id": "https://energy.ec.europa.eu/news/commissioner-jorgensen-poland-discuss-energy-and-housing-priorities-2026-11-18_en",
+      "source": "欧盟委员会",
+      "title": "Commissioner Jørgensen in Poland to discuss energy and housing priorities",
+      "summary": "From tomorrow until Monday, Commissioner for Energy and Housing Dan Jørgensen will be in Warsaw and Gdańsk, Poland, to discuss with Polish decision makers and stakeholders about two key priorities for European citizens: affordable, secure and clean energy, and access to affordable housing.",
+      "url": "https://energy.ec.europa.eu/news/commissioner-jorgensen-poland-discuss-energy-and-housing-priorities-2026-11-18_en",
+      "date": "2026-11-17T23:00:00+00:00"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOFRscFU2Tnd4dkpNWURqN2NDcEg1eHBNUW9VTTd5YkRBNlA2eVJkV0xsWHpqNExCek4xTUY0VlU5TjJYM1ZJaWE3YkVNZndhUE5CamYyZlh3WGhRUHhUVzhDRW1IUkVTXzBBQ1hXMTkzM0tiNF9DZGpZcUlTb0xQOFBsVEM1VDhnV0taSlpYYTNsQUpyMnlKQzNSenU3alBia0ZJR1QyQ2hSX3g5bG1yX3d3dTBublY1?oc=5",
       "source": "Reuters-全球贸易",
-      "title": "中国利用出口作为武器。买家俱乐部可能会削弱它 - Bloomberg.com",
-      "summary": "中国利用出口作为武器。买家具乐部可能会削弱它 Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSF9VanNvZEtldmpHbllkTGFBN0N1T0FVS3JhcU1XZV8xOGc2eWh6ajExTVFtRjVtdFFqYUxwZnFCd21RVXdRcEktc1ZYV3cyTkJ1TjBPLTJWdFVIOFJRTW9xN1F0M3pyczNqRnZSWHZXMUhIRzFCaE92MElrMTA1RHpQblFnVnZSc2hHenJSMUdJVGd1VlBxNWJHb0NZVkREM2RyOHBaM3NrNkUyUFhZYnp1WTFMdll1U1E?oc=5",
-      "date": "2026-11-17T21:02:46+00:00"
+      "title": "US to curb China's access to AI chips as Trump heads to Asia - Reuters",
+      "summary": "US to curb China's access to AI chips as Trump heads to Asia&nbsp;&nbsp;Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOFRscFU2Tnd4dkpNWURqN2NDcEg1eHBNUW9VTTd5YkRBNlA2eVJkV0xsWHpqNExCek4xTUY0VlU5TjJYM1ZJaWE3YkVNZndhUE5CamYyZlh3WGhRUHhUVzhDRW1IUkVTXzBBQ1hXMTkzM0tiNF9DZGpZcUlTb0xQOFBsVEM1VDhnV0taSlpYYTNsQUpyMnlKQzNSenU3alBia0ZJR1QyQ2hSX3g5bG1yX3d3dTBublY1?oc=5",
+      "date": "2026-11-17T22:45:00+00:00"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQlh0bGlqUkJSSFFNUFhrTWpsZWpTVUljQS15bmNFcDFjMGF4TG8zc1phbGZKZ2RYZklKVkhOT2tSd1lTX01NRE1jRnc5SV80VzExOW5yVWtGcVc0bHV1emtzUmREMkxyWk9TMlQtS001TXdKNlNPODgtTGVSMWlGYXByR29BQVh2eUE2STlfdk9pV1FrZzVlYlFRckFPcHg5bFFyVUtJNnltVGszRkhvOEdDODZOSVRPbzFtZnJNdlZzM056S0ROS2tMejZyemxybllWU0hRWjFGNEJpc0M2S2Mxb2I3dEdNLXZWTEt6OUdETGRGS256Vg?oc=5",
       "source": "Reuters-全球贸易",
-      "title": "尽管英伟达丑闻可能会在特朗普与习近平的会谈中重新引发贸易紧张局势，但北京仍然持有稀土 - 大西洋理事会",
-      "summary": "由于英伟达丑闻有可能在特朗普与习近平的会谈中重新引发贸易紧张局势，北京仍然掌握着稀土大西洋理事会",
+      "title": "As the Nvidia scandal threatens to reignite trade tensions at Trump-Xi talks, Beijing still holds the rare earths - Atlantic Council",
+      "summary": "As the Nvidia scandal threatens to reignite trade tensions at Trump-Xi talks, Beijing still holds the rare earths&nbsp;&nbsp;Atlantic Council",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQlh0bGlqUkJSSFFNUFhrTWpsZWpTVUljQS15bmNFcDFjMGF4TG8zc1phbGZKZ2RYZklKVkhOT2tSd1lTX01NRE1jRnc5SV80VzExOW5yVWtGcVc0bHV1emtzUmREMkxyWk9TMlQtS001TXdKNlNPODgtTGVSMWlGYXByR29BQVh2eUE2STlfdk9pV1FrZzVlYlFRckFPcHg5bFFyVUtJNnltVGszRkhvOEdDODZOSVRPbzFtZnJNdlZzM056S0ROS2tMejZyemxybllWU0hRWjFGNEJpc0M2S2Mxb2I3dEdNLXZWTEt6OUdETGRGS256Vg?oc=5",
       "date": "2026-11-17T19:17:00+00:00"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlSVR3MU1nbW1JTGJaX2NIUDlIRVVnZl9TZVpvVl9TT2ZHYk50dGk0clVueTVnVlBncmo1SmdWbTlsZTZSVTlXQ1B6Qm9Ya1k4UVZYLV94UGFPaWhpYllxOGpvVmhXTXIzbGNJQW1iZ3FYQzZwSDJKbGM5eDJpUQ?oc=5",
       "source": "Reuters-全球贸易",
-      "title": "英伟达董事会在审查中国芯片销售后组建出口监督小组 - CBS News",
-      "summary": "英伟达董事会在对中国芯片销售进行审查后组建出口监督小组 CBS 新闻",
+      "title": "Nvidia's board forms export oversight panel after scrutiny over China chip sales - CBS News",
+      "summary": "Nvidia's board forms export oversight panel after scrutiny over China chip sales&nbsp;&nbsp;CBS News",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlSVR3MU1nbW1JTGJaX2NIUDlIRVVnZl9TZVpvVl9TT2ZHYk50dGk0clVueTVnVlBncmo1SmdWbTlsZTZSVTlXQ1B6Qm9Ya1k4UVZYLV94UGFPaWhpYllxOGpvVmhXTXIzbGNJQW1iZ3FYQzZwSDJKbGM5eDJpUQ?oc=5",
       "date": "2026-11-17T13:35:00+00:00"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUEx1S1c4QkxOY3U5TFhOV2xQcW5pMG9pY0FGNm9nVkxCY3hhVVd6VW14UTI2bGdyU2Y2aXFTVjJvdHJmcEtHMkhDd2dvQWp1VlJnbFozSFlIMjJBMENpSTlQdERmOEt4WktXeGtCSWozdlZfcEVkSnNKcDFEbHFCN1gtbE1TaGNpN2xidng0ZkNseVYtd3hxMGlfYjk4ODk0MVE0cWg5SVN2c0JCWUNncjFnZXJKQdIBuwFBVV95cUxQdDZieG1BWHRKak9yWTlDVGpMdHVVMU5EejR1bkRZa2RvajY4aEkzRDJsZ0pMeWxVTTRzbk1LU3NZWEk0Ym9WUktJNFkzeElBTk5qcm5WS0k0MzBNV3JVTEw2SzJSTUJaVUxKOHE4R1FpU20zRDFjQWUxTTZkdUNqTlhISnVsU2VzUC1JeTlNSjBCTHhadXVWYXFRaVBfR3JaZzhqOXpCTjJ4cGV6enRrOUM5WGNaMThRX3J3?oc=5",
-      "source": "Reuters-全球贸易",
-      "title": "因英伟达丑闻，美国采取行动阻止中国远程访问人工智能芯片 - 半岛电视台",
-      "summary": "在英伟达丑闻中，美国采取行动阻止中国远程访问人工智能芯片",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUEx1S1c4QkxOY3U5TFhOV2xQcW5pMG9pY0FGNm9nVkxCY3hhVVd6VW14UTI2bGdyU2Y2aXFTVjJvdHJmcEtHMkhDd2dvQWp1VlJnbFozSFlIMjJBMENpSTlQdERmOEt4WktXeGtCSWozdlZfcEVkSnNKcDFEbHFCN1gtbE1TaGNpN2xidng0ZkNseVYtd3hxMGlfYjk4ODk0MVE0cWg5SVN2c0JCWUNncjFnZXJKQdIBuwFBVV95cUxQdDZieG1BWHRKak9yWTlDVGpMdHVVMU5EejR1bkRZa2RvajY4aEkzRDJsZ0pMeWxVTTRzbk1LU3NZWEk0Ym9WUktJNFkzeElBTk5qcm5WS0k0MzBNV3JVTEw2SzJSTUJaVUxKOHE4R1FpU20zRDFjQWUxTTZkdUNqTlhISnVsU2VzUC1JeTlNSjBCTHhadXVWYXFRaVBfR3JaZzhqOXpCTjJ4cGV6enRrOUM5WGNaMThRX3J3?oc=5",
-      "date": "2026-11-17T05:36:01+00:00"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93VFhjOGZCX2g5SmFpajd0MFd0eWtPdElleU5HMHYzXzdpVE9mdk0tOW41cVZzM2RrQVJpbmRjWjk4V1FCNDhsbWFEWEhYZFQ1a2xCMWlrcHh0N3E1U3RCN2hGQ0RoWHFaMU95TVJRNks5QnRWVEdvbnJFTQ?oc=5",
-      "source": "Google News-中国商务部",
-      "title": "绿色贸易迎来综合竞争时代，中国企业如何破局？ - 中国贸易救济信息网",
-      "summary": "绿色贸易迎来综合竞争时代，中国企业如何破局？&nbsp;&nbsp;中国贸易救济信息网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93VFhjOGZCX2g5SmFpajd0MFd0eWtPdElleU5HMHYzXzdpVE9mdk0tOW41cVZzM2RrQVJpbmRjWjk4V1FCNDhsbWFEWEhYZFQ1a2xCMWlrcHh0N3E1U3RCN2hGQ0RoWHFaMU95TVJRNks5QnRWVEdvbnJFTQ?oc=5",
-      "date": "2026-11-17T02:30:27+00:00"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOd0dIekNEb1pzbXNOUFZUSE54OEdiQS0xek9ZTDJjbDYyb0UtSVJralUzdC1vcWVKUkoyUWVnZ096NlZFMGZPYVRqR0VOcjc2TjVOV0JPWlREMDNCQTJla2FoTVRnbUxQN3FlWWtNSGtMSTNxQ0p3Rw?oc=5",
@@ -107,84 +163,100 @@
       "date": "2026-11-17T02:24:03+00:00"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3diZGZDaW14MTdtajJNSTFnMXF3MWtpODZRZDN3UVVRZXBwQllnQXFRRUFYbTAzQmJkLW1qTDAzZDhyYW54UjdBVjFrZVRzV3JiTVRTdmlybkVtRnZVSWlMTnFvYVp3dkFGeWhUVFdrUE1Na3E0WTVuekRuSm5jN1A2aDBnb1NjYXRhYmJfdjlBQWY1X093Q1hHTDM4ZzNhdlYwNVRn?oc=5",
+      "source": "Reuters-全球贸易",
+      "title": "US Moves to Curb Remote Access to Nvidia’s Advanced AI Chips - Bloomberg.com",
+      "summary": "美国采取措施限制对 Nvidia 先进人工智能芯片的远程访问 - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3diZGZDaW14MTdtajJNSTFnMXF3MWtpODZRZDN3UVVRZXBwQllnQXFRRUFYbTAzQmJkLW1qTDAzZDhyYW54UjdBVjFrZVRzV3JiTVRTdmlybkVtRnZVSWlMTnFvYVp3dkFGeWhUVFdrUE1Na3E0WTVuekRuSm5jN1A2aDBnb1NjYXRhYmJfdjlBQWY1X093Q1hHTDM4ZzNhdlYwNVRn?oc=5",
+      "date": "2026-11-16T23:27:28+00:00"
+    },
+    {
+      "id": "https://oceans-and-fisheries.ec.europa.eu/news/marine-weather-intelligence-bringing-ocean-racing-knowledge-commercial-shipping-2026-11-17_en",
+      "source": "欧盟委员会",
+      "title": "Marine Weather Intelligence: Bringing ocean racing knowledge to commercial shipping",
+      "summary": "What if the tools that guide yachts in offshore worldwide sailing races could help commercial ships save fuel and avoid costly delays?\nThis is the idea behind Marine Weather Intelligence (MWI), a French company founded in 2023 and supported by BlueInvest, the EU’s innovation and investment platform",
+      "url": "https://oceans-and-fisheries.ec.europa.eu/news/marine-weather-intelligence-bringing-ocean-racing-knowledge-commercial-shipping-2026-11-17_en",
+      "date": "2026-11-16T23:00:00+00:00"
+    },
+    {
+      "id": "https://energy.ec.europa.eu/news/commission-approves-eur95-billion-dutch-state-aid-support-offshore-wind-energy-2026-11-17_en",
+      "source": "欧盟委员会",
+      "title": "Commission approves €9.5 billion Dutch State aid to support offshore wind energy",
+      "summary": "The European Commission has approved, under EU State aid rules, a €9.5 billion Dutch scheme to support renewable electricity production from two offshore wind farms in the North Sea.",
+      "url": "https://energy.ec.europa.eu/news/commission-approves-eur95-billion-dutch-state-aid-support-offshore-wind-energy-2026-11-17_en",
+      "date": "2026-11-16T23:00:00+00:00"
+    },
+    {
+      "id": "https://blue-economy-observatory.ec.europa.eu/news/17-new-projects-eur119-million-action-restoring-and-protecting-europes-ocean-and-waters-2026-11-17_en",
+      "source": "欧盟委员会",
+      "title": "17 new projects, €119 million in action for restoring and protecting Europe’s ocean and waters",
+      "summary": "The EU Mission Ocean and Waters has welcomed 17 new projects selected under the eight topics of the 2025 call ‘Supporting the implementation of the Restore our Ocean and Waters Mission’ (HORIZON-MISS-2025-03).",
+      "url": "https://blue-economy-observatory.ec.europa.eu/news/17-new-projects-eur119-million-action-restoring-and-protecting-europes-ocean-and-waters-2026-11-17_en",
+      "date": "2026-11-16T23:00:00+00:00"
+    },
+    {
+      "id": "https://commission.europa.eu/news-and-media/news/autumn-economic-forecast-continued-growth-amid-higher-inflation-2026-11-17_en",
+      "source": "欧盟委员会",
+      "title": "Autumn 2026 Economic Forecast: continued growth amid higher inflation",
+      "summary": "The Autumn 2026 Economic Forecast shows that the EU economy held up better than expected in the first three quarters of 2026. It is set to keep expanding, despite stronger and more persistent inflationary pressures and tighter financing conditions.",
+      "url": "https://commission.europa.eu/news-and-media/news/autumn-economic-forecast-continued-growth-amid-higher-inflation-2026-11-17_en",
+      "date": "2026-11-16T23:00:00+00:00"
+    },
+    {
+      "id": "https://single-market-economy.ec.europa.eu/news/commission-adopts-measures-restrict-lead-gunshot-protect-health-and-environment-2026-11-17_en",
+      "source": "欧盟委员会",
+      "title": "Commission adopts measures to restrict lead gunshot to protect health and the environment",
+      "summary": "On 16 November 2026, the European Commission adopted new rules to better protect human health and the environment by restricting lead gunshot under the EU’s chemicals legislation, REACH.",
+      "url": "https://single-market-economy.ec.europa.eu/news/commission-adopts-measures-restrict-lead-gunshot-protect-health-and-environment-2026-11-17_en",
+      "date": "2026-11-16T23:00:00+00:00"
+    },
+    {
+      "id": "https://enlargement.ec.europa.eu/news/executive-vice-president-sejourne-and-commissioners-varhelyi-kos-and-sikela-and-brunner-host-2026-11-17_en",
+      "source": "欧盟委员会",
+      "title": "Executive Vice-President Séjourné and Commissioners Várhelyi, Kos and Síkela, and Brunner host Implementation Dialogues on SMEs, feed, the Trans-Caspian Transport Corridor and critical infrastructure resilience",
+      "summary": "Today, Executive Vice-President for Prosperity and Industrial Strategy Stéphane Séjourné will chair an Implementation Dialogue with businesses and industry representatives on the challenges and opportunities for small and medium-sized enterprises (SMEs) in strengthening SME financing...",
+      "url": "https://enlargement.ec.europa.eu/news/executive-vice-president-sejourne-and-commissioners-varhelyi-kos-and-sikela-and-brunner-host-2026-11-17_en",
+      "date": "2026-11-16T23:00:00+00:00"
+    },
+    {
       "id": "https://north-africa-middle-east-gulf.ec.europa.eu/news/eu-advances-syrian-recovery-and-reconstruction-through-syria-partnership-coordination-forum-damascus-2026-11-17_en",
       "source": "欧盟委员会",
-      "title": "欧盟通过大马士革叙利亚伙伴协调论坛推动叙利亚恢复和重建",
-      "summary": "今天，叙利亚伙伴关系协调论坛（SPCF）首次在大马士革召开，旨在推动叙利亚恢复重建、展示投资机会并商定具体前进步骤。",
+      "title": "EU advances Syrian recovery and reconstruction through Syria Partnership Coordination Forum in Damascus",
+      "summary": "Today, the Syria Partnership Coordination Forum (SPCF) convened in Damascus for the first time to advance Syria's recovery and reconstruction, showcase investment opportunities and agree on concrete steps forward.",
       "url": "https://north-africa-middle-east-gulf.ec.europa.eu/news/eu-advances-syrian-recovery-and-reconstruction-through-syria-partnership-coordination-forum-damascus-2026-11-17_en",
       "date": "2026-11-16T23:00:00+00:00"
     },
     {
       "id": "https://energy.ec.europa.eu/news/commission-approves-amended-german-state-aid-schemes-energy-intensive-companies-2026-11-17_en",
       "source": "欧盟委员会",
-      "title": "委员会批准修订后的德国国家能源密集型企业援助计划",
-      "summary": "欧盟委员会已根据欧盟国家援助规则批准了德国的修订计划，以补偿能源密集型企业在欧盟排放交易体系（EU ETS）下的间接排放成本以及在 CISAF 和 METSAF 下的临时电价减免。",
+      "title": "Commission approves amended German State aid schemes for energy-intensive companies",
+      "summary": "The European Commission has approved, under EU State aid rules, Germany's amended schemes to compensate energy-intensive companies for indirect emission costs under the EU Emission Trading System (EU ETS) and for temporary electricity price relief under the CISAF and METSAF.",
       "url": "https://energy.ec.europa.eu/news/commission-approves-amended-german-state-aid-schemes-energy-intensive-companies-2026-11-17_en",
       "date": "2026-11-16T23:00:00+00:00"
     },
     {
-      "id": "https://energy.ec.europa.eu/news/focus-industrial-carbon-management-how-it-works-and-why-we-need-it-2026-11-17_en",
-      "source": "欧盟委员会",
-      "title": "焦点：工业碳管理——它是如何运作的以及我们为什么需要它",
-      "summary": "工业碳管理并不能替代清洁能源技术。相反，它提供了与其部署相补充的解决方案，并且是欧盟到 2050 年成为世界上第一个气候中和大陆所需要的。",
-      "url": "https://energy.ec.europa.eu/news/focus-industrial-carbon-management-how-it-works-and-why-we-need-it-2026-11-17_en",
-      "date": "2026-11-16T23:00:00+00:00"
-    },
-    {
-      "id": "https://energy.ec.europa.eu/news/commission-approves-eur95-billion-dutch-state-aid-support-offshore-wind-energy-2026-11-17_en",
-      "source": "欧盟委员会",
-      "title": "委员会批准荷兰国家援助95亿欧元以支持海上风能",
-      "summary": "欧盟委员会已根据欧盟国家援助规则批准了荷兰一项价值 95 亿欧元的计划，以支持北海两个海上风电场的可再生电力生产。",
-      "url": "https://energy.ec.europa.eu/news/commission-approves-eur95-billion-dutch-state-aid-support-offshore-wind-energy-2026-11-17_en",
-      "date": "2026-11-16T23:00:00+00:00"
-    },
-    {
-      "id": "https://oceans-and-fisheries.ec.europa.eu/news/neafc-endorses-stronger-fisheries-control-and-conservation-measures-overfishing-persists-despite-eu-2026-11-17_en",
-      "source": "欧盟委员会",
-      "title": "东北大西洋渔业委员会支持加强渔业控制和保护措施，但尽管欧盟努力，过度捕捞现象依然存在",
-      "summary": "欧盟欢迎今年第 45 届东北大西洋渔业委员会 (NEAFC) 年会的成果。在今年的谈判中，与志同道合的伙伴的积极合作在欧盟的重要问题上取得了具体成果。",
-      "url": "https://oceans-and-fisheries.ec.europa.eu/news/neafc-endorses-stronger-fisheries-control-and-conservation-measures-overfishing-persists-despite-eu-2026-11-17_en",
-      "date": "2026-11-16T23:00:00+00:00"
-    },
-    {
-      "id": "https://oceans-and-fisheries.ec.europa.eu/news/marine-weather-intelligence-bringing-ocean-racing-knowledge-commercial-shipping-2026-11-17_en",
-      "source": "欧盟委员会",
-      "title": "海洋天气情报：将海洋竞赛知识引入商业航运",
-      "summary": "如果在全球近海帆船比赛中引导游艇的工具可以帮助商船节省燃料并避免代价高昂的延误，结果会怎样呢？\n这就是 Marine Weather Intelligence (MWI) 背后的理念，该公司是一家法国公司，成立于 2023 年，并得到欧盟创新和投资平台 BlueInvest 的支持",
-      "url": "https://oceans-and-fisheries.ec.europa.eu/news/marine-weather-intelligence-bringing-ocean-racing-knowledge-commercial-shipping-2026-11-17_en",
-      "date": "2026-11-16T23:00:00+00:00"
-    },
-    {
-      "id": "https://commission.europa.eu/news-and-media/news/autumn-economic-forecast-continued-growth-amid-higher-inflation-2026-11-17_en",
-      "source": "欧盟委员会",
-      "title": "2026年秋季经济预测：通胀走高，持续增长",
-      "summary": "2026年秋季经济预测显示，欧盟经济在2026年前三季度的表现好于预期。尽管通胀压力更强劲、更持久，融资条件趋紧，但欧盟经济仍将继续扩张。",
-      "url": "https://commission.europa.eu/news-and-media/news/autumn-economic-forecast-continued-growth-amid-higher-inflation-2026-11-17_en",
-      "date": "2026-11-16T23:00:00+00:00"
+      "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUFpTX1l1WHRSR0Y0S1FZaWoyRzRNNS0ybnR3LTY0LWl1MFltbEktQm5qaGJtQmQ1MGZIeW9LZmxHUWxXekVfSkh3aWtlY200a1VZZEYtSVlVMVlyUWNIb05RcnhrODVxZ2tpcjg5cXVORnRIQ25uM2lWMHpsOVR2cDRuY3NFUzJ4SlHSAY8BQVVfeXFMUGl6dmpWYW9MMjZGT3YwYU9oVGlOMGJZUzZtYjliWVkteDlNa0plenFUdWJTbU41MnlvbXBtU1lfX2J0dlRsbHUxUWRoSmI3WEZrSTc2VUZRTDVuQlViRjg2TkQ2ZTdUaU9rZ04zOGFQVHoySjdxelBLQzVOTG80WjNSMV82VXFlNE4wb0NyeW8?oc=5",
+      "source": "Reuters-全球贸易",
+      "title": "Trump administration seeks to restrict China’s remote chip access after Nvidia scandal - The Hill",
+      "summary": "Trump administration seeks to restrict China’s remote chip access after Nvidia scandal&nbsp;&nbsp;The Hill",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUFpTX1l1WHRSR0Y0S1FZaWoyRzRNNS0ybnR3LTY0LWl1MFltbEktQm5qaGJtQmQ1MGZIeW9LZmxHUWxXekVfSkh3aWtlY200a1VZZEYtSVlVMVlyUWNIb05RcnhrODVxZ2tpcjg5cXVORnRIQ25uM2lWMHpsOVR2cDRuY3NFUzJ4SlHSAY8BQVVfeXFMUGl6dmpWYW9MMjZGT3YwYU9oVGlOMGJZUzZtYjliWVkteDlNa0plenFUdWJTbU41MnlvbXBtU1lfX2J0dlRsbHUxUWRoSmI3WEZrSTc2VUZRTDVuQlViRjg2TkQ2ZTdUaU9rZ04zOGFQVHoySjdxelBLQzVOTG80WjNSMV82VXFlNE4wb0NyeW8?oc=5",
+      "date": "2026-11-16T17:04:00+00:00"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYXR0eHlISk42c0xsTHZmRkdteHAyOWU4MzdwWFktZ3FmOWMwbW5PME1oQlc2Nl9aQ2p0RG5EMFBjc2ZvWGdmeW5sM09XR0ZlS1l5ZUNKQjhYLTVpTmY5NVlPWUZraGg2RXVBWlFTQjB6YTM0cW42aXgyQVBuN2dSZVhyTFZfQUhTSHMydUJVR2hwamFTaF8tbnZuTHR1RDBlQXRPYW10TlBrWmVXSUYxTGgxVVpJd3hq0gG4AUFVX3lxTE9ycnlXb29STElqa2RVdnZIREZLdXZ4NlBMWlBkMzVjNE1fd0h2S2EyT09Zeldkby15MTk1QlhfNkE0cTBjN1RPamhvaHdQalgzbEM5eF83eXhhWHZGSHRwTGoyWWI5N0VJLVJJWDQtRWtaY1YyNnozdUdLS0N5a3pTNVh3bmpqYW9taWNFeGd4X0FfVllSQ2Z6U1J2OVpxblltZUM4R3l3RmVOUmRXYTRjUUwzVi1EWVY?oc=5",
       "source": "Reuters-全球贸易",
-      "title": "美国收紧人工智能芯片出口限制以堵住中国海外数据中心漏洞 - 南华早报",
-      "summary": "美国收紧人工智能芯片出口限制，堵住中国海外数据中心漏洞 南华早报",
+      "title": "US tightens AI chip export curbs to close China’s overseas data centre loophole - South China Morning Post",
+      "summary": "US tightens AI chip export curbs to close China’s overseas data centre loophole&nbsp;&nbsp;South China Morning Post",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYXR0eHlISk42c0xsTHZmRkdteHAyOWU4MzdwWFktZ3FmOWMwbW5PME1oQlc2Nl9aQ2p0RG5EMFBjc2ZvWGdmeW5sM09XR0ZlS1l5ZUNKQjhYLTVpTmY5NVlPWUZraGg2RXVBWlFTQjB6YTM0cW42aXgyQVBuN2dSZVhyTFZfQUhTSHMydUJVR2hwamFTaF8tbnZuTHR1RDBlQXRPYW10TlBrWmVXSUYxTGgxVVpJd3hq0gG4AUFVX3lxTE9ycnlXb29STElqa2RVdnZIREZLdXZ4NlBMWlBkMzVjNE1fd0h2S2EyT09Zeldkby15MTk1QlhfNkE0cTBjN1RPamhvaHdQalgzbEM5eF83eXhhWHZGSHRwTGoyWWI5N0VJLVJJWDQtRWtaY1YyNnozdUdLS0N5a3pTNVh3bmpqYW9taWNFeGd4X0FfVllSQ2Z6U1J2OVpxblltZUM4R3l3RmVOUmRXYTRjUUwzVi1EWVY?oc=5",
       "date": "2026-11-16T15:46:42+00:00"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMk1pUmhmX2dnNlhFZjFvM1NYbmpacVJULVNxWlgzcWpKLVNjTk8yWjREOWg5RFNqNEd0RGRfQTRJd3BNblpXNndTZVFlNzk0UnVZYkxUcjdMU0ZDVm1hWXVxR1JNcm5fUUkzN0luc3BmMzg1cU4xOEc1QXpuaDNxdnNaYU0yVzRmcXlzbU9mc1lxQ01Yd1ZkdklSeXI0NTJTTTNuOExSRlVlcU9HVUpQWVJrRk5qQXkwNVlRem04NUMtcHVPOVpwYw?oc=5",
       "source": "Reuters-全球贸易",
-      "title": "美国收紧人工智能芯片出口管制，阻止中国公司远程访问计算 - TechCrunch",
-      "summary": "美国收紧人工智能芯片出口管制，阻止中国公司远程访问计算 TechCrunch",
+      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely - TechCrunch",
+      "summary": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely&nbsp;&nbsp;TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMk1pUmhmX2dnNlhFZjFvM1NYbmpacVJULVNxWlgzcWpKLVNjTk8yWjREOWg5RFNqNEd0RGRfQTRJd3BNblpXNndTZVFlNzk0UnVZYkxUcjdMU0ZDVm1hWXVxR1JNcm5fUUkzN0luc3BmMzg1cU4xOEc1QXpuaDNxdnNaYU0yVzRmcXlzbU9mc1lxQ01Yd1ZkdklSeXI0NTJTTTNuOExSRlVlcU9HVUpQWVJrRk5qQXkwNVlRem04NUMtcHVPOVpwYw?oc=5",
       "date": "2026-11-16T15:02:34+00:00"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOFRscFU2Tnd4dkpNWURqN2NDcEg1eHBNUW9VTTd5YkRBNlA2eVJkV0xsWHpqNExCek4xTUY0VlU5TjJYM1ZJaWE3YkVNZndhUE5CamYyZlh3WGhRUHhUVzhDRW1IUkVTXzBBQ1hXMTkzM0tiNF9DZGpZcUlTb0xQOFBsVEM1VDhnV0taSlpYYTNsQUpyMnlKQzNSenU3alBia0ZJR1QyQ2hSX3g5bG1yX3d3dTBublY1?oc=5",
-      "source": "Reuters-全球贸易",
-      "title": "特朗普前往亚洲，美国将限制中国获取人工智能芯片 - 路透中文网",
-      "summary": "特朗普前往亚洲，美国将限制中国获取人工智能芯片 路透",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOFRscFU2Tnd4dkpNWURqN2NDcEg1eHBNUW9VTTd5YkRBNlA2eVJkV0xsWHpqNExCek4xTUY0VlU5TjJYM1ZJaWE3YkVNZndhUE5CamYyZlh3WGhRUHhUVzhDRW1IUkVTXzBBQ1hXMTkzM0tiNF9DZGpZcUlTb0xQOFBsVEM1VDhnV0taSlpYYTNsQUpyMnlKQzNSenU3alBia0ZJR1QyQ2hSX3g5bG1yX3d3dTBublY1?oc=5",
-      "date": "2026-11-16T13:46:00+00:00"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYkItdnAyUG5fRi1tTWtCaUp2WndnVFRET3Z0eUdYdzNZSXVjUjNqbjVtak5HLVA5MUNaZEVGaldqanBYZnhlXzl5Z21Oak5YYkVQbTZlVVR5Y1doSE1zeEZsQXA4VUNDQnF3S1V0VFBlQ1pnaXMzalZQN0hJLWtiNHdnb1BQWF9ZMG5HVDU3cG4?oc=5",
@@ -211,84 +283,12 @@
       "date": "2026-11-16T05:19:10+00:00"
     },
     {
-      "id": "https://single-market-economy.ec.europa.eu/news/digital-product-passport-registry-technical-guidance-available-2026-11-16_en",
-      "source": "欧盟委员会",
-      "title": "委员会发布技术指南以支持数字产品护照注册的实施",
-      "summary": "现在可以使用一整套技术文档来帮助组织为欧盟数字产品护照 (DPP) 注册准备其系统。",
-      "url": "https://single-market-economy.ec.europa.eu/news/digital-product-passport-registry-technical-guidance-available-2026-11-16_en",
-      "date": "2026-11-15T23:00:00+00:00"
-    },
-    {
-      "id": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en",
-      "source": "欧盟委员会",
-      "title": "欧盟委员会对部分冷轧扁钢产品征收反倾销税",
-      "summary": "今天，欧盟委员会对从印度、日本、台湾、土耳其和越南进口到欧盟的某些冷轧扁钢产品征收反倾销税。",
-      "url": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en",
-      "date": "2026-11-15T23:00:00+00:00"
-    },
-    {
-      "id": "https://commission.europa.eu/news-and-media/news/joint-press-statement-michael-mcgrath-commissioner-democracy-justice-rule-law-and-consumer-2026-11-16_en",
-      "source": "欧盟委员会",
-      "title": "民主、司法、法治和消费者保护专员 Michael McGrath 和肯尼亚数据专员 Immaculate Kassait 发表联合新闻声明",
-      "summary": "欧盟和肯尼亚正在朝着具有里程碑意义的相互数据充分性安排迈进，为安全数据流、更强大的数字贸易、研究合作和投资机会铺平道路——这是欧盟与非洲之间的首个此类伙伴关系。",
-      "url": "https://commission.europa.eu/news-and-media/news/joint-press-statement-michael-mcgrath-commissioner-democracy-justice-rule-law-and-consumer-2026-11-16_en",
-      "date": "2026-11-15T23:00:00+00:00"
-    },
-    {
-      "id": "https://enlargement.ec.europa.eu/news/ministers-eu-black-sea-south-caucasus-and-central-asia-advance-cooperation-cross-regional-security-2026-11-16_en",
-      "source": "欧盟委员会",
-      "title": "欧盟、黑海、南高加索和中亚部长推动跨区域安全和互联互通合作",
-      "summary": "今天，外交与安全政策高级代表/欧盟委员会副主席卡贾·卡拉斯、扩大事务专员玛尔塔·科斯和国际伙伴关系专员约瑟夫·西克拉接待了来自欧盟、黑海地区、南欧的代表。",
-      "url": "https://enlargement.ec.europa.eu/news/ministers-eu-black-sea-south-caucasus-and-central-asia-advance-cooperation-cross-regional-security-2026-11-16_en",
-      "date": "2026-11-15T23:00:00+00:00"
-    },
-    {
-      "id": "https://eures.europa.eu/moving-abroad-work-what-women-need-know-they-go-2026-11-16_en",
-      "source": "欧盟委员会",
-      "title": "出国工作？女性出行前需要了解什么",
-      "summary": "女性就业率大幅上升，但性别差距依然存在 — — 而且每个欧盟国家的情况都不同。以下是您在收拾行李之前需要检查的有关工资、儿童保育和工作条件的信息。",
-      "url": "https://eures.europa.eu/moving-abroad-work-what-women-need-know-they-go-2026-11-16_en",
-      "date": "2026-11-15T23:00:00+00:00"
-    },
-    {
-      "id": "https://taxation-customs.ec.europa.eu/news/cbam-commission-adopts-rules-recognition-carbon-prices-paid-non-eu-countries-2026-11-16_en",
-      "source": "欧盟委员会",
-      "title": "CBAM：委员会通过承认非欧盟国家支付的碳价格的规则",
-      "summary": "今天发布的实施条例明确了规则",
-      "url": "https://taxation-customs.ec.europa.eu/news/cbam-commission-adopts-rules-recognition-carbon-prices-paid-non-eu-countries-2026-11-16_en",
-      "date": "2026-11-15T23:00:00+00:00"
-    },
-    {
-      "id": "https://competition-policy.ec.europa.eu/about/news/commission-unconditionally-approves-unicredits-acquisition-commerzbank-2026-11-16_en",
-      "source": "欧盟委员会",
-      "title": "欧盟委员会无条件批准裕信银行收购德国商业银行",
-      "summary": "欧盟委员会已根据欧盟合并条例无条件批准裕信银行收购德国商业银行的提议。委员会的结论是，该交易不会引起欧洲经济区（“EEA”）的竞争担忧。",
-      "url": "https://competition-policy.ec.europa.eu/about/news/commission-unconditionally-approves-unicredits-acquisition-commerzbank-2026-11-16_en",
-      "date": "2026-11-15T23:00:00+00:00"
-    },
-    {
-      "id": "https://energy.ec.europa.eu/news/electricity-coordination-group-considers-eu-electricity-market-prepared-winter-2026-11-16_en",
-      "source": "欧盟委员会",
-      "title": "电力协调小组认为欧盟电力市场已为冬季做好准备",
-      "summary": "根据欧盟委员会、各国专家和主要利益相关者在 11 月 12 日电力协调小组 (ECG) 会议上的讨论，欧盟电力市场已为冬季做好适当准备，但有必要继续密切监控市场。",
-      "url": "https://energy.ec.europa.eu/news/electricity-coordination-group-considers-eu-electricity-market-prepared-winter-2026-11-16_en",
-      "date": "2026-11-15T23:00:00+00:00"
-    },
-    {
-      "id": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/ai-requires-rigorous-safeguards-and-rules-keep-pace-technological-advances-experts-tell-european-2026-11-16_en",
-      "source": "欧盟委员会",
-      "title": "专家告诉欧盟委员会，人工智能需要严格的保障措施和规则来跟上技术进步的步伐",
-      "summary": "委员会道德和科学顾问的新声明承认人工智能的前景，但警告不要削弱现有的保障措施。",
-      "url": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/ai-requires-rigorous-safeguards-and-rules-keep-pace-technological-advances-experts-tell-european-2026-11-16_en",
-      "date": "2026-11-15T23:00:00+00:00"
-    },
-    {
-      "id": "https://translation.ec.europa.eu/news-and-events/news/translating-europe-forum-2026-language-professionals-matter-2026-11-16_en",
-      "source": "欧盟委员会",
-      "title": "2026 年欧洲翻译论坛：语言专业人士很重要！",
-      "summary": "了解 #2026TEF 的主要要点和亮点。",
-      "url": "https://translation.ec.europa.eu/news-and-events/news/translating-europe-forum-2026-language-professionals-matter-2026-11-16_en",
-      "date": "2026-11-15T23:00:00+00:00"
+      "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcjdnek9mQmRSSGo0bmFxaVRBcmVzbEdEbkwxV3FWNFdGa1A1T1QyN2ZZZ2d1aE9jVm0xTjA4NlowU2xsSVFzUHZFMmZ2WGNRWXdzVHh2dmh1T3Z3a0FKamNMYXRnaDRJUzFlUU5YZFhJbEJmREViR3ZEdDlVTk9TUmdmWGJqQ2xicE9tekdpajIyLVgtb3B6TGFTdE9fQVZxWGdSY3pDQWFzZW1hRy16ME85b0cxT3pCVHdZcFNxUFB6dw?oc=5",
+      "source": "Reuters-全球贸易",
+      "title": "Commerce Department under pressure for delaying export controls on Nvidia chips - NPR",
+      "summary": "Commerce Department under pressure for delaying export controls on Nvidia chips&nbsp;&nbsp;NPR",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcjdnek9mQmRSSGo0bmFxaVRBcmVzbEdEbkwxV3FWNFdGa1A1T1QyN2ZZZ2d1aE9jVm0xTjA4NlowU2xsSVFzUHZFMmZ2WGNRWXdzVHh2dmh1T3Z3a0FKamNMYXRnaDRJUzFlUU5YZFhJbEJmREViR3ZEdDlVTk9TUmdmWGJqQ2xicE9tekdpajIyLVgtb3B6TGFTdE9fQVZxWGdSY3pDQWFzZW1hRy16ME85b0cxT3pCVHdZcFNxUFB6dw?oc=5",
+      "date": "2026-11-14T22:21:07+00:00"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM1ZhWWRRd2s0b0hudVhjS19JSjRXaTNDbGE0S2JyaTU3M3FSOUE0dk5MTXZXRGp6ODVCdHFiUDNxbXMxM1JudGQ2cEM4OWFtSzZxSXNpUlFTY1Bxb3N6OFZBdVVvVFY5SVV0RzlCRmVsb2N1clpqQ3ZZRVhYQUY1WlRHbWlRS1hsRVhv?oc=5",
@@ -301,58 +301,34 @@
     {
       "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVUdiSTZDb0c2U0lWWEpiRV9ZMnpESmlpZDdBcXdxbmNsUVVFOHdxZHR5LTd4THI1RGpybjdsRTJhUlNjR1hkRU9rU3JyUnNwX1RxZ0pVMmFMejFZRHY2Tm1NTk1mN0NoMzdudFZLVEI4MlVPNjlDQ3ZSNFVzSUhHWmRWbVNMQ09DbHBtWHdmbV8yRDF3OUJ0aFNfYlJ3UzBocFhv?oc=5",
       "source": "Reuters-全球贸易",
-      "title": "中国延长暂停稀土出口管制 - Thompson Hine",
-      "summary": "中国延长暂停稀土出口管制汤普森·海因 (Thompson Hine)",
+      "title": "China Extends Suspension of Rare Earth Export Controls - Thompson Hine",
+      "summary": "China Extends Suspension of Rare Earth Export Controls&nbsp;&nbsp;Thompson Hine",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVUdiSTZDb0c2U0lWWEpiRV9ZMnpESmlpZDdBcXdxbmNsUVVFOHdxZHR5LTd4THI1RGpybjdsRTJhUlNjR1hkRU9rU3JyUnNwX1RxZ0pVMmFMejFZRHY2Tm1NTk1mN0NoMzdudFZLVEI4MlVPNjlDQ3ZSNFVzSUhHWmRWbVNMQ09DbHBtWHdmbV8yRDF3OUJ0aFNfYlJ3UzBocFhv?oc=5",
       "date": "2026-11-13T15:59:26+00:00"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVWFnOVptNmRjNHNNRnJuNWg2RXFUOGlockk1THR3RnQwNlhfbTZiNnBWWXJERG1ZSURrcm9pcUd2TzlOdmNTZHM3RXRkUElLdkU1THJpX3hSR2dBVE1FUjZfUTdhLWJpTVRSTnRUWDFLdW5hNXMzMkExMXRrVGhucGp3WWhSM3Fk?oc=5",
       "source": "Reuters-全球贸易",
-      "title": "英伟达黄丑闻后，中国警告美国不要对芯片实施新的出口管制 - 哥伦比亚广播公司新闻",
-      "summary": "在英伟达黄丑闻之后，中国警告美国不要对芯片实施新的出口管制 CBS 新闻",
+      "title": "China warns against new U.S. export controls on chips in wake of Nvidia's Huang scandal - CBS News",
+      "summary": "China warns against new U.S. export controls on chips in wake of Nvidia's Huang scandal&nbsp;&nbsp;CBS News",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVWFnOVptNmRjNHNNRnJuNWg2RXFUOGlockk1THR3RnQwNlhfbTZiNnBWWXJERG1ZSURrcm9pcUd2TzlOdmNTZHM3RXRkUElLdkU1THJpX3hSR2dBVE1FUjZfUTdhLWJpTVRSTnRUWDFLdW5hNXMzMkExMXRrVGhucGp3WWhSM3Fk?oc=5",
       "date": "2026-11-13T15:19:00+00:00"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObmIxT2FWVk9hRUdTbm80NEotRVE1VEkzSklWOTVoODlaVU1Vb3dMQWpwbUw0QllvZGNGb016YjBfRXJHRlgyLWFmd2VSN2k0MFJHa1dvVzFUNkVoQ0RNVlNKQ0RxTjJ6SDFYOHMyZVEzUWNDdkk1bDg4RDA1N3haNTU1R3ctZHdaOS1COVNtZG5rN3dETVR0Y1Uxcm9ZTlJRVnphYmU0YWpVTFl5enBLdkl2QndwRVowNUJDS1VxbFRMVmRxeWpsV3B6MWhvaEJvdHBMUlZ0blFXNjRhTXNPdA?oc=5",
-      "source": "Reuters-全球贸易",
-      "title": "分析师：如果美国扩大对英伟达的芯片限制，中国可能会限制稀土销售",
-      "summary": "南华早报分析师称，如果美国扩大对英伟达的芯片限制，中国可能会限制稀土销售",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObmIxT2FWVk9hRUdTbm80NEotRVE1VEkzSklWOTVoODlaVU1Vb3dMQWpwbUw0QllvZGNGb016YjBfRXJHRlgyLWFmd2VSN2k0MFJHa1dvVzFUNkVoQ0RNVlNKQ0RxTjJ6SDFYOHMyZVEzUWNDdkk1bDg4RDA1N3haNTU1R3ctZHdaOS1COVNtZG5rN3dETVR0Y1Uxcm9ZTlJRVnphYmU0YWpVTFl5enBLdkl2QndwRVowNUJDS1VxbFRMVmRxeWpsV3B6MWhvaEJvdHBMUlZ0blFXNjRhTXNPdA?oc=5",
-      "date": "2026-11-13T13:00:08+00:00"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JbUlxbVpxUEcxY3IxUmdrWW1ITExKa2JVcEtuZTZZSnA3U0ZrNEdxQmRMM0lSby1xbDBJMFVGU2djX3pLU2NFRzIwZmJjbXlvY3ZmS1ZJaWlHdHBDY0VTSHVYV0NSV0ZuRmQ0d2s4Zk5MTjVDR1E?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qc3dqNzlLMUtqcHZlTkpvOS1EZjgtcHMwdVgxSVd3QTVPQmpZUjZtcTF6cnpYQTNkRVRiWjNSQi03U3V4NkN4Y01jLS1STjB1dngyRTM5dUo2bWh1VTJJY1UxSkdMcTlfNUo3d3p0c1Z0cXh5d3hXd2ppbFE?oc=5",
       "source": "Google News-中国商务部",
-      "title": "商务部：中美正就降税、贸易、投资等问题保持密切沟通 - 中国贸易救济信息网",
-      "summary": "商务部：中美正就降税、贸易、投资等问题保持密切沟通&nbsp;&nbsp;中国贸易救济信息网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JbUlxbVpxUEcxY3IxUmdrWW1ITExKa2JVcEtuZTZZSnA3U0ZrNEdxQmRMM0lSby1xbDBJMFVGU2djX3pLU2NFRzIwZmJjbXlvY3ZmS1ZJaWlHdHBDY0VTSHVYV0NSV0ZuRmQ0d2s4Zk5MTjVDR1E?oc=5",
-      "date": "2026-11-13T01:51:40+00:00"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wR1l6bXJFZElJdzlscU1TZXYxOWNiVEVDbFl1UzdIa2NQYy0yNlpQWXowdjFxZXVvYW4taVhuUUF1cGU2dnVxQkVadlRvWlRZZjRRVUM4cjVLMDdCSGJCczluYTEwT1FWaXhqZFdiYnpFdFhQaHlrNzE2ODI?oc=5",
-      "source": "Google News-中国商务部",
-      "title": "商务部召开例行新闻发布会（2026年11月12日） - 中华人民共和国商务部",
-      "summary": "商务部召开例行新闻发布会（2026年11月12日）&nbsp;&nbsp;中华人民共和国商务部",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wR1l6bXJFZElJdzlscU1TZXYxOWNiVEVDbFl1UzdIa2NQYy0yNlpQWXowdjFxZXVvYW4taVhuUUF1cGU2dnVxQkVadlRvWlRZZjRRVUM4cjVLMDdCSGJCczluYTEwT1FWaXhqZFdiYnpFdFhQaHlrNzE2ODI?oc=5",
-      "date": "2026-11-12T20:01:34+00:00"
+      "title": "欧盟对涉华丙烯酸酯作出反倾销初裁 - 中国贸易救济信息网",
+      "summary": "欧盟对涉华丙烯酸酯作出反倾销初裁&nbsp;&nbsp;中国贸易救济信息网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qc3dqNzlLMUtqcHZlTkpvOS1EZjgtcHMwdVgxSVd3QTVPQmpZUjZtcTF6cnpYQTNkRVRiWjNSQi03U3V4NkN4Y01jLS1STjB1dngyRTM5dUo2bWh1VTJJY1UxSkdMcTlfNUo3d3p0c1Z0cXh5d3hXd2ppbFE?oc=5",
+      "date": "2026-11-13T06:50:12+00:00"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNm1WbHVHSkZsX0FCWmxVVFFETnE2LUJaR1ZMLXNJcTlpRzhURy1WSlRBRDIzWUN4c0hkMndMcXJGUzNsdno1Tm9ObkM2QlE1SlBmbmJWZDZPWGNvai1QbGt3QXZtR0RCZEhoLUlxZjZYbFZkMHFFcV9nYjJUejZUTHItMGZLUGpxQ1FIUnVZMjFrOVV0RGc?oc=5",
       "source": "Reuters-全球贸易",
-      "title": "英伟达的影响可能会阻碍美中贸易谈判 - Semafor",
-      "summary": "Nvidia 的影响可能会阻碍中美贸易谈判 Semafor",
+      "title": "Nvidia fallout could hamper US-China trade talks - Semafor",
+      "summary": "Nvidia fallout could hamper US-China trade talks&nbsp;&nbsp;Semafor",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNm1WbHVHSkZsX0FCWmxVVFFETnE2LUJaR1ZMLXNJcTlpRzhURy1WSlRBRDIzWUN4c0hkMndMcXJGUzNsdno1Tm9ObkM2QlE1SlBmbmJWZDZPWGNvai1QbGt3QXZtR0RCZEhoLUlxZjZYbFZkMHFFcV9nYjJUejZUTHItMGZLUGpxQ1FIUnVZMjFrOVV0RGc?oc=5",
       "date": "2026-11-12T09:58:00+00:00"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbEZQd1VKRnhGOXdpSDNHeGtxVzBDdEN3a0VnV3hyZG9YZXhscndPSk92N291WE5CTkYwU190dWNSVHFYUnFtWDUyaGtXLTNxWDZzT0oweU9wdTBFS0x1RzJtR0hvbks1TGFCQ0J5QnN3Q01vd0V6bVdtaWZxMGdTY1VoUU9aQm1uRFVVOC1qM0fSAZYBQVVfeXFMUEFLaXQwYzN4NDZ6dzJ0Y3E4XzR1Q3VmSEh4S2pZbVo1V01hZnlrN3YySEtyUjB6VTNPR2ZKNkZnT1lRcHo3bHdWaERzM25JWDFCR3VTTnd1aGZjZU4xbVFjcXpyNVlUSng1MS1jM3VZMWdjaHJWUWVZQTk0Qk9McUxmRnNtQ01obDM1VENMNWcydFdYVFB3?oc=5",
-      "source": "Reuters-全球贸易",
-      "title": "黄仁勋与涉嫌间谍的恋情再次推动特朗普与习近平峰会前加强对中国芯片的限制 - CNBC",
-      "summary": "黄仁勋与涉嫌间谍的恋情再次推动特朗普与习近平峰会之前加强对中国芯片的限制 CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbEZQd1VKRnhGOXdpSDNHeGtxVzBDdEN3a0VnV3hyZG9YZXhscndPSk92N291WE5CTkYwU190dWNSVHFYUnFtWDUyaGtXLTNxWDZzT0oweU9wdTBFS0x1RzJtR0hvbks1TGFCQ0J5QnN3Q01vd0V6bVdtaWZxMGdTY1VoUU9aQm1uRFVVOC1qM0fSAZYBQVVfeXFMUEFLaXQwYzN4NDZ6dzJ0Y3E4XzR1Q3VmSEh4S2pZbVo1V01hZnlrN3YySEtyUjB6VTNPR2ZKNkZnT1lRcHo3bHdWaERzM25JWDFCR3VTTnd1aGZjZU4xbVFjcXpyNVlUSng1MS1jM3VZMWdjaHJWUWVZQTk0Qk9McUxmRnNtQ01obDM1VENMNWcydFdYVFB3?oc=5",
-      "date": "2026-11-12T07:16:18+00:00"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vQmdQZVB0V3JxVm0wa3NtNVhHajFqMldLY002YUhoRWFsRXVKaks3TW9FRDF2dTZRRVhsUF9LVjd2Q014SVFzZGFSd0c2aVd4VHJyeUN4VDhYM0d2VXZJVURLVUZickRGS3ctNy1kY1luUQ?oc=5",
@@ -363,59 +339,43 @@
       "date": "2026-11-12T02:01:41+00:00"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XdFJfZHQ4UDVTWXc1c194NWRVdUNCb1lmekhkU0JraXVQTjFvSTVGWm9UWkl2WDVERkhLa0gtelFTeXFYY0hBdERYMVVHZi1udEU3cEtlVHNOYnlPY2JqNFBCOWlQU28tQ0tCNHFUNTZjeExEZzdwS2JFZw?oc=5",
-      "source": "Google News-中国商务部",
-      "title": "美国ITC发布对用于电池电芯和电池的负极材料的337部分终裁 - 中国贸易救济信息网",
-      "summary": "美国ITC发布对用于电池电芯和电池的负极材料的337部分终裁&nbsp;&nbsp;中国贸易救济信息网",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XdFJfZHQ4UDVTWXc1c194NWRVdUNCb1lmekhkU0JraXVQTjFvSTVGWm9UWkl2WDVERkhLa0gtelFTeXFYY0hBdERYMVVHZi1udEU3cEtlVHNOYnlPY2JqNFBCOWlQU28tQ0tCNHFUNTZjeExEZzdwS2JFZw?oc=5",
-      "date": "2026-11-12T01:50:20+00:00"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdXlPV1lpWTVoR1JBSFBMMHJiMl9ERlpDNk9lakxSbUk5RVF5T2thVnRra3hFX0o1R1VoSDJqWnZ3YVIxTzNEcE9TWTR6clBLSWZMWkpwV1FUbzFiZWJSOFJwVlJxdGxKcjFBR3MyeFZlMHItV3h5TVM0OE4waFBkYmVfZ3ZmNlNjX3hJTmFBaw?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGhVbDRpcGRXdEt5UndseFpucklpSmFNdk5ZOVk0YjZRcXRaNUdwRWVSUk40Wml2RnVMNElUcFpzUTBlT0lCbzJYMzdlTXNQeVIxSS0tWDFqQkcwWFVDaTFRNlRfWTB5WGVmTFN5OFJYRHRQeWI5T3c0T1dWMUl5cERXUy1FM3lnY0pJeGVsSUZnUQ?oc=5",
       "source": "Google News-中国商务部",
       "title": "海关总署公告2026年第58号公布继续暂停实施商务部、海关总署公告2025年第55号、56号、57号、58号及商务部公告2025年第61号、62号的决定 - 中华人民共和国商务部",
       "summary": "海关总署公告2026年第58号公布继续暂停实施商务部、海关总署公告2025年第55号、56号、57号、58号及商务部公告2025年第61号、62号的决定&nbsp;&nbsp;中华人民共和国商务部",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdXlPV1lpWTVoR1JBSFBMMHJiMl9ERlpDNk9lakxSbUk5RVF5T2thVnRra3hFX0o1R1VoSDJqWnZ3YVIxTzNEcE9TWTR6clBLSWZMWkpwV1FUbzFiZWJSOFJwVlJxdGxKcjFBR3MyeFZlMHItV3h5TVM0OE4waFBkYmVfZ3ZmNlNjX3hJTmFBaw?oc=5",
-      "date": "2026-11-09T08:00:00+00:00"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQemhFYmliZDRwVXdrODZjS2pKUDdLcjFIOXB0RnY5TTJPUDFBcG9XYnJJQnJQeEtIWlVyTHprMWJGdzVLdEJoemdJRGs0MmxkUmUzVGxVUG1yNFVzOWpUQThfNG9nLU5OR1JZa3k5Z2ZEU0FpM0Vua3VFTS13TGJ3bG9YQlpCYXl5NUw4?oc=5",
-      "source": "Google News-中国商务部",
-      "title": "商务部新闻发言人就调整出口管制管控名单措施答记者问 - 中华人民共和国商务部",
-      "summary": "商务部新闻发言人就调整出口管制管控名单措施答记者问&nbsp;&nbsp;中华人民共和国商务部",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQemhFYmliZDRwVXdrODZjS2pKUDdLcjFIOXB0RnY5TTJPUDFBcG9XYnJJQnJQeEtIWlVyTHprMWJGdzVLdEJoemdJRGs0MmxkUmUzVGxVUG1yNFVzOWpUQThfNG9nLU5OR1JZa3k5Z2ZEU0FpM0Vua3VFTS13TGJ3bG9YQlpCYXl5NUw4?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGhVbDRpcGRXdEt5UndseFpucklpSmFNdk5ZOVk0YjZRcXRaNUdwRWVSUk40Wml2RnVMNElUcFpzUTBlT0lCbzJYMzdlTXNQeVIxSS0tWDFqQkcwWFVDaTFRNlRfWTB5WGVmTFN5OFJYRHRQeWI5T3c0T1dWMUl5cERXUy1FM3lnY0pJeGVsSUZnUQ?oc=5",
       "date": "2026-11-09T08:00:00+00:00"
     },
     {
       "id": "https://www.federalregister.gov/documents/2026/11/09/2026-22793/extension-of-the-suspension-of-expansion-of-end-user-controls-for-affiliates-of-certain-listed",
       "source": "美国BIS (Federal Register)",
-      "title": "延长对某些上市实体附属公司的最终用户控制的暂停扩展",
-      "summary": "工业和安全局 (BIS) 正在延长暂行最终规则 (IFR) 的暂停期限，即“扩大最终用户控制以覆盖某些上市实体的附属公司”。暂停原定于 2026 年 11 月 9 日结束。最终规则将暂停延长至 2027 年 1 月 10 日。",
+      "title": "Extension of the Suspension of Expansion of End-User Controls for Affiliates of Certain Listed Entities",
+      "summary": "The Bureau of Industry and Security (BIS) is extending the suspension of the interim final rule (IFR), &quot;Expansion of End-User Controls to Cover Affiliates of Certain Listed Entities.&quot; The suspension was set to end November 9, 2026. This final rule extends the suspension through January 10, 2027.",
       "url": "https://www.federalregister.gov/documents/2026/11/09/2026-22793/extension-of-the-suspension-of-expansion-of-end-user-controls-for-affiliates-of-certain-listed",
       "date": "2026-11-09T05:00:00+00:00"
     },
     {
       "id": "https://www.federalregister.gov/documents/2026/11/06/2026-22726/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
       "source": "美国BIS (Federal Register)",
-      "title": "机构信息收集活动；提交管理和预算办公室 (OMB) 审批；评论请求；申请流程 豁免进口资格标准 限制多晶硅及多晶硅衍生物库存的措施",
-      "summary": "商务部根据 1995 年《文书减少法案》(PRA)，邀请公众和其他联邦机构对拟议的和持续的信息收集发表评论，这有助于我们评估信息收集要求的影响并最大限度地减少公众的报告负担。本通知的目的是允许公众在 60 天内对 OMB 批准的临时紧急收集提出意见",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Application Process To Waive the Import Qualification Criteria Measures To Restrict Stockpiling of Polysilicon and Polysilicon Derivatives",
+      "summary": "The Department of Commerce, in accordance with the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to comment on proposed, and continuing information collections, which helps us assess the impact of our information collection requirements and minimize the public's reporting burden. The purpose of this notice is to allow for 60 days of public comment on the OMB approved emergency collection for the Temporary Final Rule &quot;Measures To Restrict Stockp",
       "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22726/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
       "date": "2026-11-06T05:00:00+00:00"
     },
     {
       "id": "https://www.federalregister.gov/documents/2026/11/06/2026-22725/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
       "source": "美国BIS (Federal Register)",
-      "title": "机构信息收集活动；提交管理和预算办公室 (OMB) 审批；评论请求；第 232 条 对特种药品及相关成分进口的国家安全调整",
-      "summary": "商务部根据 1995 年《文书减少法案》(PRA)，邀请公众和其他联邦机构对拟议的和持续的信息收集发表评论，这有助于我们评估信息收集要求的影响并最大限度地减少公众的报告负担。本通知的目的是允许公众在 60 天内对 OMB 批准的临时紧急收集提出意见",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Section 232 National Security Adjustments to Imports of Specialty Pharmaceuticals and Associated Ingredients",
+      "summary": "The Department of Commerce, in accordance with the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to comment on proposed, and continuing information collections, which helps us assess the impact of our information collection requirements and minimize the public's reporting burden. The purpose of this notice is to allow for 60 days of public comment on the OMB approved emergency collection for the Temporary Final Rule &quot;Section 232 National Securi",
       "url": "https://www.federalregister.gov/documents/2026/11/06/2026-22725/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
       "date": "2026-11-06T05:00:00+00:00"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQzdPQ3VheHFTSmhSamJhcDFBLXVycEl3X3hkdE1CRENQT3hUQmt5czZCY3hjM1QtV2N6UHV3MVp0dU9JTXphU2d4RTJLWHZWZE53TWZwVXY2M3pGT2N3aUlBX0wtQXYzYVkyRUZUNnhzd1R6MWRzRUEtTFdkd2xoR3h2dkV1RzJuTUlhX2hZUk5Kd1U?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSHpzQUZCMDhMNFlqRXE2TFdjM0VOM2x6ZXlheVg4TENsRFVfTUtfMXVkd1YzYlgzdmg1UzFYbllaTUJsXzJxTE94TWNXTWVDV2o2VUxwSWI1dTUyQ1AzTkdkMGhIS01BWUliNXplZUJ0U3lHVzZXOWg5MEhUcWdfQ0RKZFVmNEY4UnBYcDNRMA?oc=5",
       "source": "Google News-中国商务部",
       "title": "商务部国际司负责人解读中国—瑞士自由贸易协定升级议定书 - 中华人民共和国商务部",
       "summary": "商务部国际司负责人解读中国—瑞士自由贸易协定升级议定书&nbsp;&nbsp;中华人民共和国商务部",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQzdPQ3VheHFTSmhSamJhcDFBLXVycEl3X3hkdE1CRENQT3hUQmt5czZCY3hjM1QtV2N6UHV3MVp0dU9JTXphU2d4RTJLWHZWZE53TWZwVXY2M3pGT2N3aUlBX0wtQXYzYVkyRUZUNnhzd1R6MWRzRUEtTFdkd2xoR3h2dkV1RzJuTUlhX2hZUk5Kd1U?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSHpzQUZCMDhMNFlqRXE2TFdjM0VOM2x6ZXlheVg4TENsRFVfTUtfMXVkd1YzYlgzdmg1UzFYbllaTUJsXzJxTE94TWNXTWVDV2o2VUxwSWI1dTUyQ1AzTkdkMGhIS01BWUliNXplZUJ0U3lHVzZXOWg5MEhUcWdfQ0RKZFVmNEY4UnBYcDNRMA?oc=5",
       "date": "2026-10-30T07:00:00+00:00"
     },
     {
@@ -429,7 +389,7 @@
     {
       "id": "https://www.federalregister.gov/documents/2026/10/27/2026-21840/order-renewing-order-temporarily-denying-export-privileges",
       "source": "美国BIS (Federal Register)",
-      "title": "临时拒绝出口特权的命令更新命令",
+      "title": "Order Renewing Order Temporarily Denying Export Privileges",
       "summary": "",
       "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21840/order-renewing-order-temporarily-denying-export-privileges",
       "date": "2026-10-27T04:00:00+00:00"
@@ -441,6 +401,22 @@
       "summary": "两用物项出口管制清单数据库 中华人民共和国两用物项出口管制清单&nbsp;&nbsp;中国出口管制信息网",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FcnQ2ZFUybTJnbTRWYmpfY1RNRmU1Sm5vTG45RlJHVEFmN1plc0FBVXFUVnVnZlFsdzZndVpEaWNVbFV4RUJIamNaOC1vSTJxU0l1SkJDeWd6NVJsZERYNg?oc=5",
       "date": "2026-04-25T21:07:22+00:00"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWHdqajJ3c3lTNEVWYVh6RnNMZ0w5QnhMeWJ6R2RhcjVTNzBuZ0ppa1RmakR5aVBkWjk4LXg5d1NkNE8tRnZXYVpaYnNNb2ZMM2lSU3Y2azFTR3l4RWx3OFplNFhTelVFdmo0alhYVWdVczcyWENIVVEtU09Hd193R1hWVzI1TlpqalBaMUVpNmg0dw?oc=5",
+      "source": "Google News-中国商务部",
+      "title": "《中华人民共和国出口管制法》全文 - 中华人民共和国商务部",
+      "summary": "《中华人民共和国出口管制法》全文&nbsp;&nbsp;中华人民共和国商务部",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWHdqajJ3c3lTNEVWYVh6RnNMZ0w5QnhMeWJ6R2RhcjVTNzBuZ0ppa1RmakR5aVBkWjk4LXg5d1NkNE8tRnZXYVpaYnNNb2ZMM2lSU3Y2azFTR3l4RWx3OFplNFhTelVFdmo0alhYVWdVczcyWENIVVEtU09Hd193R1hWVzI1TlpqalBaMUVpNmg0dw?oc=5",
+      "date": "2025-11-30T09:42:04+00:00"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc2NZREFtOUZOWnN4WkM0Ujc4RkNHbWdFSnpuZ0dBSlhBVUlnbEZrQjdpY1BjRjZWLVFPT0RaSDVPelVodTBEdzd3QjFCeFYxZUMwamlqN3lDQnA4YThzOXVjVTBaaWQ2T3hMbG90amNzVnJZeW81ZkZIcEJ3TEFPVkNjRVd3UTJQQWdhNkM3WQ?oc=5",
+      "source": "Google News-中国商务部",
+      "title": "商务部关于拓展绿色贸易的实施意见 - 商务部",
+      "summary": "商务部关于拓展绿色贸易的实施意见&nbsp;&nbsp;商务部",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc2NZREFtOUZOWnN4WkM0Ujc4RkNHbWdFSnpuZ0dBSlhBVUlnbEZrQjdpY1BjRjZWLVFPT0RaSDVPelVodTBEdzd3QjFCeFYxZUMwamlqN3lDQnA4YThzOXVjVTBaaWQ2T3hMbG90amNzVnJZeW81ZkZIcEJ3TEFPVkNjRVd3UTJQQWdhNkM3WQ?oc=5",
+      "date": "2025-10-30T07:00:00+00:00"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYWpjbzZTWk15Sm5rWTNMLVkxeVpkT1dOdW15NTlVd0QzdzRlUUhqc01HbU8yUl8xLW1GRU4xQUh3VmVZM29PSUU5ZjFBQTBJQUp6OTRDa19kTFAyaFI0aDBVeDZWQ2o3NDBJSEN1Rk5JRVpxQ0lQM2daeWRmSW56N3NWZHRGcE5pbGRxUGdpaw?oc=5",
