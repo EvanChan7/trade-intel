@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-11-25T09:38:21.515903+00:00",
-  "count": 44,
+  "updated_at": "2026-11-26T09:13:04.754648+00:00",
+  "count": 46,
   "events": [
+    {
+      "id": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jdjVfYnlJQVJWNlhLdWxKTjdIRDVUVFB5MkEyM3FST29PRWJHTlBjZTl2cklnRUp5dHg4ZEJrRW0xSzFLUFA5VlduenkyaDVlTnZvMHhTeUxxNmdSREZmX1B6YWdzcm9nelZpMk9Pa0o1VWs?oc=5",
+      "source": "Google News-中国商务部",
+      "title": "商务部等8部门关于印发《服务贸易发展“十五五”规划》的通知（商服贸发〔2026〕212号） - 商务部",
+      "summary": "商务部等8部门关于印发《服务贸易发展“十五五”规划》的通知（商服贸发〔2026〕212号）&nbsp;&nbsp;商务部",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jdjVfYnlJQVJWNlhLdWxKTjdIRDVUVFB5MkEyM3FST29PRWJHTlBjZTl2cklnRUp5dHg4ZEJrRW0xSzFLUFA5VlduenkyaDVlTnZvMHhTeUxxNmdSREZmX1B6YWdzcm9nelZpMk9Pa0o1VWs?oc=5",
+      "date": "2026-11-26T07:48:23+00:00"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Id0JadTNUNWUtWFgxQUN1cTJDZUtfY05USVp1aUtaOThxcV8zLXRIRlRhU0Q1dnpzUXc4cFVOelN3emRxZXd0VG1KYW5PMWRYdFlvZEJmeTZIbE5CMzYwWFdtT1V1dW5GUXdnNEE5QnNKNGhsWV8yRDg3eURnZw?oc=5",
+      "source": "Google News-中国商务部",
+      "title": "南非总统：南非正采取多方面举措应对美贸易限制 - 商务部",
+      "summary": "南非总统：南非正采取多方面举措应对美贸易限制&nbsp;&nbsp;商务部",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Id0JadTNUNWUtWFgxQUN1cTJDZUtfY05USVp1aUtaOThxcV8zLXRIRlRhU0Q1dnpzUXc4cFVOelN3emRxZXd0VG1KYW5PMWRYdFlvZEJmeTZIbE5CMzYwWFdtT1V1dW5GUXdnNEE5QnNKNGhsWV8yRDg3eURnZw?oc=5",
+      "date": "2026-11-26T01:49:06+00:00"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTDFkZTRnVDJWQWpLY2N6LTgxd05QUUtlaHVGM2tmRnhvVWRiSVExb19pWVpqeUM4ZkFKNkhya21JbWZ5c2xQTEp6WEh0RVh4UnNBQjFBSEFYNHZMMUFqTml1a19ZNURSVE4tdTFhNGdPRVkwTThoelJ5S2FzZ2FsY3JPbVNsUVV1a2w5dQ?oc=5",
+      "source": "Google News-中国商务部",
+      "title": "商务部等8部门关于印发《服务贸易发展“十五五”规划》的通知 - 商务部",
+      "summary": "商务部等8部门关于印发《服务贸易发展“十五五”规划》的通知&nbsp;&nbsp;商务部",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTDFkZTRnVDJWQWpLY2N6LTgxd05QUUtlaHVGM2tmRnhvVWRiSVExb19pWVpqeUM4ZkFKNkhya21JbWZ5c2xQTEp6WEh0RVh4UnNBQjFBSEFYNHZMMUFqTml1a19ZNURSVE4tdTFhNGdPRVkwTThoelJ5S2FzZ2FsY3JPbVNsUVV1a2w5dQ?oc=5",
+      "date": "2026-11-26T01:12:00+00:00"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRVY1NjlncFBpOU5YaElBZ1hwSThSVWZyRTFJeHN1eW1KWVQ3MmNWUDc1eURzbUczWWNlVG80TDZGcGN2ZWU2bnh0TmlDWmJOSHVqNzZ5Q0JnRnQ4TGIwYWRNUDgxU0xMTGlCQUUtYU40cFZkMnJHWjBpN2llMGJuX18wRXZySzM2QjNOV2l5NFpuTEdhWEhBZ2ZHWkJQWDR3cUg4aWRsTjlraDA?oc=5",
+      "source": "Reuters-全球贸易",
+      "title": "Chips and Rare Earths Keep the US-China Truce Fragile - Bloomberg.com",
+      "summary": "Chips and Rare Earths Keep the US-China Truce Fragile&nbsp;&nbsp;Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRVY1NjlncFBpOU5YaElBZ1hwSThSVWZyRTFJeHN1eW1KWVQ3MmNWUDc1eURzbUczWWNlVG80TDZGcGN2ZWU2bnh0TmlDWmJOSHVqNzZ5Q0JnRnQ4TGIwYWRNUDgxU0xMTGlCQUUtYU40cFZkMnJHWjBpN2llMGJuX18wRXZySzM2QjNOV2l5NFpuTEdhWEhBZ2ZHWkJQWDR3cUg4aWRsTjlraDA?oc=5",
+      "date": "2026-11-25T19:01:22+00:00"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV1JCMXpWVlV0Z0xWX19GZmRPQUpBV0xXNGJNWVRqeU5nZnJzaFMtNXJvM2dLUndiU0g0V0dzMUVvLU13bUdtdllqcmpsdzE0NGpleXJCbkl6NDVzWTRvMENZYXBGRGhnY0IxLUh6SzRLQnlqZUJLX0ZtYUJmOWlTOVBnLXpNWEhwTElIMm9BQkYzb3pFUG0wYk02U0VWQjJocW1MbVdWWQ?oc=5",
+      "source": "Reuters-全球贸易",
+      "title": "Schumer accuses Nvidia CEO of violating U.S. export control law - Denver Gazette",
+      "summary": "Schumer accuses Nvidia CEO of violating U.S. export control law&nbsp;&nbsp;Denver Gazette",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV1JCMXpWVlV0Z0xWX19GZmRPQUpBV0xXNGJNWVRqeU5nZnJzaFMtNXJvM2dLUndiU0g0V0dzMUVvLU13bUdtdllqcmpsdzE0NGpleXJCbkl6NDVzWTRvMENZYXBGRGhnY0IxLUh6SzRLQnlqZUJLX0ZtYUJmOWlTOVBnLXpNWEhwTElIMm9BQkYzb3pFUG0wYk02U0VWQjJocW1MbVdWWQ?oc=5",
+      "date": "2026-11-25T14:07:39+00:00"
+    },
     {
       "id": "https://www.federalregister.gov/documents/2026/11/25/2026-23999/additions-to-the-entity-list",
       "source": "美国BIS (Federal Register)",
@@ -11,12 +51,124 @@
       "date": "2026-11-25T05:00:00+00:00"
     },
     {
+      "id": "https://north-africa-middle-east-gulf.ec.europa.eu/news/eu-launches-eur10-million-programme-strengthen-climate-resilience-and-protect-yemens-cultural-2026-11-25_en",
+      "source": "欧盟委员会",
+      "title": "EU launches €10 million programme to strengthen climate resilience and protect Yemen's cultural heritage",
+      "summary": "Today, at the ‘Cultural Resilience and Development in Yemen' event in Brussels, the European Union announced a €10 million programme to help communities prepare for climate risks, protect cultural heritage and create livelihood opportunities.",
+      "url": "https://north-africa-middle-east-gulf.ec.europa.eu/news/eu-launches-eur10-million-programme-strengthen-climate-resilience-and-protect-yemens-cultural-2026-11-25_en",
+      "date": "2026-11-24T23:00:00+00:00"
+    },
+    {
+      "id": "https://agriculture.ec.europa.eu/media/news/rural-development-programmes-2014-2022-delivered-tangible-results-across-rural-europe-2026-11-25_en",
+      "source": "欧盟委员会",
+      "title": "Rural Development Programmes 2014–2022 delivered tangible results across rural Europe",
+      "summary": "The 2014–2022 Rural Development Programmes played a key role in supporting farmers, foresters, rural businesses and local communities across the 27 EU Member States.",
+      "url": "https://agriculture.ec.europa.eu/media/news/rural-development-programmes-2014-2022-delivered-tangible-results-across-rural-europe-2026-11-25_en",
+      "date": "2026-11-24T23:00:00+00:00"
+    },
+    {
+      "id": "https://environment.ec.europa.eu/news/eu-extends-digital-transition-waste-shipment-documents-2026-11-25_en",
+      "source": "欧盟委员会",
+      "title": "EU extends transition period for digital exchange of green-listed waste shipment documents",
+      "summary": "Businesses and authorities now have an extra eight months — until 1 September 2027 — to prepare for mandatory green-listed waste reporting.",
+      "url": "https://environment.ec.europa.eu/news/eu-extends-digital-transition-waste-shipment-documents-2026-11-25_en",
+      "date": "2026-11-24T23:00:00+00:00"
+    },
+    {
+      "id": "https://commission.europa.eu/news-and-media/news/europes-quantum-leap-strengthening-industrial-capacity-and-security-new-quantum-technologies-2026-11-25_en",
+      "source": "欧盟委员会",
+      "title": "Europe’s quantum leap: strengthening industrial capacity and security with new quantum technologies",
+      "summary": "The quantum act will bring together EU and national programmes to move quantum technologies from laboratories to products and services",
+      "url": "https://commission.europa.eu/news-and-media/news/europes-quantum-leap-strengthening-industrial-capacity-and-security-new-quantum-technologies-2026-11-25_en",
+      "date": "2026-11-24T23:00:00+00:00"
+    },
+    {
+      "id": "https://housing.ec.europa.eu/whats-new/news/czechia-support-european-commission-launch-national-hub-financing-affordable-housing-2026-11-25_en",
+      "source": "欧盟委员会",
+      "title": "Czechia, with the support of the European Commission, launch a national hub for financing affordable housing",
+      "summary": "Czechia officially presented its national hub for financing affordable housing (FinHub), which will be led by the State Fund for Investment Promotion (SFPI).",
+      "url": "https://housing.ec.europa.eu/whats-new/news/czechia-support-european-commission-launch-national-hub-financing-affordable-housing-2026-11-25_en",
+      "date": "2026-11-24T23:00:00+00:00"
+    },
+    {
+      "id": "https://competition-policy.ec.europa.eu/about/news/commission-prolongs-state-aid-framework-support-sectors-affected-middle-east-crisis-until-june-2027-2026-11-25_en",
+      "source": "欧盟委员会",
+      "title": "Commission prolongs State aid framework to support sectors affected by Middle East crisis until June 2027",
+      "summary": "The European Commission has prolonged the Middle East Crisis Temporary State aid Framework (METSAF) by six months until 30 June 2027.",
+      "url": "https://competition-policy.ec.europa.eu/about/news/commission-prolongs-state-aid-framework-support-sectors-affected-middle-east-crisis-until-june-2027-2026-11-25_en",
+      "date": "2026-11-24T23:00:00+00:00"
+    },
+    {
       "id": "https://defence-industry-space.ec.europa.eu/sustainable-finance-space-sector-what-we-learned-2026-11-25_en",
       "source": "欧盟委员会",
       "title": "Sustainable Finance for the Space Sector: What We Learned",
       "summary": "On 22 October 2026, the European Commission’s Directorate-General for Defence Industry and Space (DG DEFIS) held a landmark workshop in Brussels, opening a structured dialogue between the space ecosystem and the sustainable finance community for the first time. More than 350 registered participants",
       "url": "https://defence-industry-space.ec.europa.eu/sustainable-finance-space-sector-what-we-learned-2026-11-25_en",
       "date": "2026-11-24T23:00:00+00:00"
+    },
+    {
+      "id": "https://oceans-and-fisheries.ec.europa.eu/news/commission-approves-eur105-million-greek-state-aid-fishery-and-aquaculture-companies-facing-2026-11-25_en",
+      "source": "欧盟委员会",
+      "title": "Commission approves €10.5 million Greek State aid to fishery and aquaculture companies facing increased fuel prices",
+      "summary": "The European Commission has approved a €10.5 million Greek State aid scheme to support shipowners in the fishery and aquaculture industries facing increased fuel prices due to the Middle East crisis.",
+      "url": "https://oceans-and-fisheries.ec.europa.eu/news/commission-approves-eur105-million-greek-state-aid-fishery-and-aquaculture-companies-facing-2026-11-25_en",
+      "date": "2026-11-24T23:00:00+00:00"
+    },
+    {
+      "id": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/african-union-and-european-union-publish-their-renewed-roadmap-research-and-innovation-food-and-2026-11-25_en",
+      "source": "欧盟委员会",
+      "title": "African Union and European Union publish their renewed Roadmap for research and innovation on food and nutrition security and sustainable agriculture",
+      "summary": "New roadmap will further strengthen the African Union and European Union R&amp;I partnership on Food and Nutrition Security and Sustainable Agriculture.",
+      "url": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/african-union-and-european-union-publish-their-renewed-roadmap-research-and-innovation-food-and-2026-11-25_en",
+      "date": "2026-11-24T23:00:00+00:00"
+    },
+    {
+      "id": "https://employment-social-affairs.ec.europa.eu/news/making-energy-efficient-homes-affordable-vulnerable-people-lithuania-2026-11-25_en",
+      "source": "欧盟委员会",
+      "title": "Making energy-efficient homes affordable for vulnerable people in Lithuania",
+      "summary": "In its latest episode, Euronews' Make it Work explores how Lithuania's Social Climate Plan, supported by the EU's Social Climate Fund, will finance renovations of apartment blocks to reduce energy bills and emissions.&nbsp;",
+      "url": "https://employment-social-affairs.ec.europa.eu/news/making-energy-efficient-homes-affordable-vulnerable-people-lithuania-2026-11-25_en",
+      "date": "2026-11-24T23:00:00+00:00"
+    },
+    {
+      "id": "https://home-affairs.ec.europa.eu/news/europol-connects-police-across-borders-tackle-drug-trafficking-2026-11-25_en",
+      "source": "欧盟委员会",
+      "title": "Europol connects police across borders to tackle drug trafficking",
+      "summary": "In 2026, Europol supported several international operations to disrupt large-scale drug production and distribution, resulting in arrests and seizure of criminal assets.",
+      "url": "https://home-affairs.ec.europa.eu/news/europol-connects-police-across-borders-tackle-drug-trafficking-2026-11-25_en",
+      "date": "2026-11-24T23:00:00+00:00"
+    },
+    {
+      "id": "https://competition-policy.ec.europa.eu/about/news/commission-fines-firmenich-givaudan-and-iff-eur4719-million-participating-international-fragrance-2026-11-25_en",
+      "source": "欧盟委员会",
+      "title": "Commission fines Firmenich, Givaudan and IFF €471.9 million for participating in an international fragrance cartel",
+      "summary": "The Commission has fined Firmenich, Givaudan and International Flavors &amp; Fragrances (IFF), the three largest worldwide fragrance producers, a total of €471.9 million for participating in an international cartel in the fragrance sector, in breach of EU competition rules.",
+      "url": "https://competition-policy.ec.europa.eu/about/news/commission-fines-firmenich-givaudan-and-iff-eur4719-million-participating-international-fragrance-2026-11-25_en",
+      "date": "2026-11-24T23:00:00+00:00"
+    },
+    {
+      "id": "https://enlargement.ec.europa.eu/news/statement-president-von-der-leyen-president-costa-following-eu-western-balkans-summit-2026-11-25_en",
+      "source": "欧盟委员会",
+      "title": "Statement by President von der Leyen with President Costa following the EU-Western Balkans Summit",
+      "summary": "I am convinced that enlargement is a strategic imperative for Europe.",
+      "url": "https://enlargement.ec.europa.eu/news/statement-president-von-der-leyen-president-costa-following-eu-western-balkans-summit-2026-11-25_en",
+      "date": "2026-11-24T23:00:00+00:00"
+    },
+    {
+      "id": "https://enlargement.ec.europa.eu/news/turning-momentum-lasting-progress-president-von-der-leyen-eu-western-balkans-summit-2026-11-25_en",
+      "source": "欧盟委员会",
+      "title": "Turning momentum into lasting progress: President von der Leyen at the EU-Western Balkans Summit",
+      "summary": "Today, President of the European Commission Ursula von der Leyen and President of the European Council António Costa will co-host the EU-Western Balkans Summit in Brussels, with the participation of the leaders from the region.",
+      "url": "https://enlargement.ec.europa.eu/news/turning-momentum-lasting-progress-president-von-der-leyen-eu-western-balkans-summit-2026-11-25_en",
+      "date": "2026-11-24T23:00:00+00:00"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQU9GTUV4cGRLNS1fV0VxVFUwODZpTjZpT0xLaTZvWHhYTXVWSzBmQ1hFbm1DbmQwdWFUSVY0R21sSkpWaWtSVC1WdVJabE1XYk9HeFhnR1JfWnBrU3pCVEdVd3VXRUhTaWlGZjR2d1JlLXhuWE1ldzRNcXl2akViRDFseVFIT3k1c3MzeTZRWkU?oc=5",
+      "source": "Reuters-全球贸易",
+      "title": "Washington’s chip export controls weaken America’s AI edge - Asia Times",
+      "summary": "Washington’s chip export controls weaken America’s AI edge&nbsp;&nbsp;Asia Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQU9GTUV4cGRLNS1fV0VxVFUwODZpTjZpT0xLaTZvWHhYTXVWSzBmQ1hFbm1DbmQwdWFUSVY0R21sSkpWaWtSVC1WdVJabE1XYk9HeFhnR1JfWnBrU3pCVEdVd3VXRUhTaWlGZjR2d1JlLXhuWE1ldzRNcXl2akViRDFseVFIT3k1c3MzeTZRWkU?oc=5",
+      "date": "2026-11-24T20:00:59+00:00"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWkIyNDFsT2dsN05tM0U4NFZjRU9IZG1Bemx1b2hqOXFneHV3bDBnY0gzc3drRkxjY0JqWVdPTW8xR29QUy1wczZRM0FaemMzMEk3X2I5Wlp5elVhS0dTb2tIMFJ3VlZ3a0dNelRZYWFpeVA0THA3UDkwMGVtd1BZMENTbEZ6alRuR3pnNnI0TGdMWjZ3VVBmb2lDZHd4ckJwVzJRTk1veERGQQ?oc=5",
@@ -51,6 +203,14 @@
       "date": "2026-11-24T10:40:45+00:00"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50OGVMWlhNcnBGT0ljeDVHSG5KUEV3WGNsekxPTkd6cUxzZG0zUE15MFdfeW5NVHJ0OFNyb0M1NmxXOEZmdDhNUk91WXRBd1J6T01NQ2NGZWlJVGtzY3VUS2p3?oc=5",
+      "source": "Reuters-全球贸易",
+      "title": "China extends suspension of dual-use item export control on strategic metals for semiconductors to the US - Global Times",
+      "summary": "China extends suspension of dual-use item export control on strategic metals for semiconductors to the US&nbsp;&nbsp;Global Times",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50OGVMWlhNcnBGT0ljeDVHSG5KUEV3WGNsekxPTkd6cUxzZG0zUE15MFdfeW5NVHJ0OFNyb0M1NmxXOEZmdDhNUk91WXRBd1J6T01NQ2NGZWlJVGtzY3VUS2p3?oc=5",
+      "date": "2026-11-24T10:30:00+00:00"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVXh2WUNSYmVSZkJLcmJoenphclhBTmJiMGZfOHBXQmhkRXE4UklsLXNoS254QU96QWdDTHFBSkZCQUc2M1JRWF96N3p3a29ka2E5SzlpcDFEb0lLM3ZwVF9PTzJLcm9SOXRaQUhFTzZCR2xNQU9pNDNKSjBVVHoySHoxOG0?oc=5",
       "source": "Reuters-全球贸易",
       "title": "China extends pause in controls on critical mineral exports to US - Financial Times",
@@ -61,8 +221,8 @@
     {
       "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1R5Tm5OLXZqMWFfZXF0aS1QbHdrRThCalFxektGNWk3RHcwd3dWdE53MHlFM1ppeWxJMWxoTzhVY3FHZG1nSVpjRTZIQTEtck1zS095Y3dNVXdCNUNrcE9NSW03RkJiSnM3OVVKVVlKUU9OMkxEelpxXzZCY19URDZ0UUwtUQ?oc=5",
       "source": "Reuters-全球贸易",
-      "title": "Schumer accuses Huang of violating US export control laws amid shipments of chips to China - The Guardian",
-      "summary": "Schumer accuses Huang of violating US export control laws amid shipments of chips to China&nbsp;&nbsp;The Guardian",
+      "title": "Schumer accuses Huang of violating US export control laws amid shipments of chips to China | Jensen Huang - The Guardian",
+      "summary": "Schumer accuses Huang of violating US export control laws amid shipments of chips to China | Jensen Huang&nbsp;&nbsp;The Guardian",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV1R5Tm5OLXZqMWFfZXF0aS1QbHdrRThCalFxektGNWk3RHcwd3dWdE53MHlFM1ppeWxJMWxoTzhVY3FHZG1nSVpjRTZIQTEtck1zS095Y3dNVXdCNUNrcE9NSW03RkJiSnM3OVVKVVlKUU9OMkxEelpxXzZCY19URDZ0UUwtUQ?oc=5",
       "date": "2026-11-24T10:00:00+00:00"
     },
@@ -83,38 +243,6 @@
       "date": "2026-11-23T23:00:00+00:00"
     },
     {
-      "id": "https://employment-social-affairs.ec.europa.eu/news/commission-publishes-proposal-joint-employment-report-2027-and-pushes-recommendation-human-capital-2026-11-24_en",
-      "source": "欧盟委员会",
-      "title": "Commission publishes proposal for Joint  Employment  Report 2027 and pushes Recommendation on Human Capital",
-      "summary": "The proposed Joint Employment Report says the labour market stays robust, but manufacturing jobs drop due to recent energy shocks. A Capital Recommendation urges the EU to close skills gaps in clean‑energy, defence, space and AI‑related STEM fields.",
-      "url": "https://employment-social-affairs.ec.europa.eu/news/commission-publishes-proposal-joint-employment-report-2027-and-pushes-recommendation-human-capital-2026-11-24_en",
-      "date": "2026-11-23T23:00:00+00:00"
-    },
-    {
-      "id": "https://climate.ec.europa.eu/news-other-reads/news/representatives-european-regions-and-local-communities-gather-dublin-accelerate-adaptation-climate-2026-11-24-0_en",
-      "source": "欧盟委员会",
-      "title": "Representatives of European regions and local communities gather in Dublin to accelerate adaptation to climate change",
-      "summary": "Fifth EU Mission Forum on Adaptation to Climate Change to highlight importance of proactively preparing for climate risks, protecting people, and keeping Europe’s economy productive and competitive.",
-      "url": "https://climate.ec.europa.eu/news-other-reads/news/representatives-european-regions-and-local-communities-gather-dublin-accelerate-adaptation-climate-2026-11-24-0_en",
-      "date": "2026-11-23T23:00:00+00:00"
-    },
-    {
-      "id": "https://environment.ec.europa.eu/news/how-science-shaping-guimaraes-green-transition-2026-11-24_en",
-      "source": "欧盟委员会",
-      "title": "How science is shaping Guimarães’ green transition",
-      "summary": "From climate research and urban planning to environmental education, Laboratório da Paisagem plays a key role in Guimarães’ journey as European Green Capital 2026. Explore how its work supports local sustainability and inspires collaboration beyond the city.",
-      "url": "https://environment.ec.europa.eu/news/how-science-shaping-guimaraes-green-transition-2026-11-24_en",
-      "date": "2026-11-23T23:00:00+00:00"
-    },
-    {
-      "id": "https://agriculture.ec.europa.eu/media/news/eu-agri-food-trade-surplus-remains-robust-imports-decline-slightly-2026-11-24_en",
-      "source": "欧盟委员会",
-      "title": "EU agri-food trade surplus remains robust as imports decline slightly",
-      "summary": "EU agri-food surplus rises by €4bn as exports grow and imports decline slightly.",
-      "url": "https://agriculture.ec.europa.eu/media/news/eu-agri-food-trade-surplus-remains-robust-imports-decline-slightly-2026-11-24_en",
-      "date": "2026-11-23T23:00:00+00:00"
-    },
-    {
       "id": "https://taxation-customs.ec.europa.eu/news/publication-mind-gap-communication-2026-11-24_en",
       "source": "欧盟委员会",
       "title": "Publication of the Mind the Gap Communication",
@@ -131,12 +259,12 @@
       "date": "2026-11-23T23:00:00+00:00"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlU0E0SzZocmlwbmxWMWhQVHg2MWNBSHJBSzYtV09VWE5zZ2FIZGlBdXcwWExPWWFVSWVqU3l1aklFZ2p2bmxZNmY1OW5tanR5QXU4djlpRTB3b25zaGlLbEpmUE9JY1dQTlVUR3VRc3hRenFlUTlSNERhbGtBUEE?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOclVLUGsycklUdndEUDJFeXZVSklYUnQwbjMyTlhaMXMzZzVKWExlZTVkZnpYN3hvZ1R3NFRuVkZyTXMyQkJmZVVaVjdTV1ZvUHZzN1d6dERCSUdBY1U3QnpiZU1NOWNXLUt6cWxJM0w0cmtKWGxDMUNqVjhILWhQc0M2MzJsRUZFaXJidWN6cEk1akwweWxEM1JWYjJuZjR5ZFBrYXdkRGZ6Yk1nSHlWbTd1ZEtMN0JVU0xaQWl4SnE1UQ?oc=5",
       "source": "Reuters-全球贸易",
-      "title": "January 2027 U.S.-China trade deadlines: 4 risks to model - Thomson Reuters tax",
-      "summary": "January 2027 U.S.-China trade deadlines: 4 risks to model&nbsp;&nbsp;Thomson Reuters tax",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlU0E0SzZocmlwbmxWMWhQVHg2MWNBSHJBSzYtV09VWE5zZ2FIZGlBdXcwWExPWWFVSWVqU3l1aklFZ2p2bmxZNmY1OW5tanR5QXU4djlpRTB3b25zaGlLbEpmUE9JY1dQTlVUR3VRc3hRenFlUTlSNERhbGtBUEE?oc=5",
-      "date": "2026-11-23T18:29:17+00:00"
+      "title": "Tariff-ied! – Temporary Importation Under Bond: What Importers Need to Know - Foley & Lardner LLP",
+      "summary": "Tariff-ied! – Temporary Importation Under Bond: What Importers Need to Know&nbsp;&nbsp;Foley & Lardner LLP",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOclVLUGsycklUdndEUDJFeXZVSklYUnQwbjMyTlhaMXMzZzVKWExlZTVkZnpYN3hvZ1R3NFRuVkZyTXMyQkJmZVVaVjdTV1ZvUHZzN1d6dERCSUdBY1U3QnpiZU1NOWNXLUt6cWxJM0w0cmtKWGxDMUNqVjhILWhQc0M2MzJsRUZFaXJidWN6cEk1akwweWxEM1JWYjJuZjR5ZFBrYXdkRGZ6Yk1nSHlWbTd1ZEtMN0JVU0xaQWl4SnE1UQ?oc=5",
+      "date": "2026-11-23T21:01:54+00:00"
     },
     {
       "id": "https://www.federalregister.gov/documents/2026/11/23/2026-23758/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
@@ -147,62 +275,6 @@
       "date": "2026-11-23T05:00:00+00:00"
     },
     {
-      "id": "https://defence-industry-space.ec.europa.eu/edf-funded-euroguard-vessel-launched-estonia-2026-11-23_en",
-      "source": "欧盟委员会",
-      "title": "EDF-funded EUROGUARD vessel launched in Estonia",
-      "summary": "With 65 million euros allocated through the European Defence Fund (EDF), the EUROGUARD project aims to strengthen Europe's maritime defence capabilities.",
-      "url": "https://defence-industry-space.ec.europa.eu/edf-funded-euroguard-vessel-launched-estonia-2026-11-23_en",
-      "date": "2026-11-22T23:00:00+00:00"
-    },
-    {
-      "id": "https://commission.europa.eu/news-and-media/news/results-23-11-2026-auction-eu-bonds-2026-11-23_en",
-      "source": "欧盟委员会",
-      "title": "Results of 23-11-2026 auction (EU-Bonds)",
-      "summary": "Auction results EU-Bonds",
-      "url": "https://commission.europa.eu/news-and-media/news/results-23-11-2026-auction-eu-bonds-2026-11-23_en",
-      "date": "2026-11-22T23:00:00+00:00"
-    },
-    {
-      "id": "https://competition-policy.ec.europa.eu/about/news/commission-approves-eur1-billion-slovenian-state-aid-support-closure-premogovnik-velenje-coal-mine-2026-11-23_en",
-      "source": "欧盟委员会",
-      "title": "Commission approves €1 billion Slovenian State aid to support closure of Premogovnik Velenje coal mine",
-      "summary": "The European Commission has approved, under EU State aid rules, a €1 billion Slovenian measure to cover exceptional costs related to the closure of the Premogovnik Velenje coal mine. The aid will help Slovenia phase out coal by 2033 in line with its binding commitment under national law.",
-      "url": "https://competition-policy.ec.europa.eu/about/news/commission-approves-eur1-billion-slovenian-state-aid-support-closure-premogovnik-velenje-coal-mine-2026-11-23_en",
-      "date": "2026-11-22T23:00:00+00:00"
-    },
-    {
-      "id": "https://competition-policy.ec.europa.eu/about/news/commission-opens-formal-investigation-possible-anticompetitive-conduct-coca-cola-europacific-2026-11-23_en",
-      "source": "欧盟委员会",
-      "title": "Commission opens formal investigation into possible anticompetitive conduct by Coca-Cola Europacific Partners in the non-alcoholic drinks sector",
-      "summary": "The European Commission has opened a formal antitrust investigation to assess whether Coca-Cola Europacific Partners (‘CCEP') has breached EU competition rules",
-      "url": "https://competition-policy.ec.europa.eu/about/news/commission-opens-formal-investigation-possible-anticompetitive-conduct-coca-cola-europacific-2026-11-23_en",
-      "date": "2026-11-22T23:00:00+00:00"
-    },
-    {
-      "id": "https://oceans-and-fisheries.ec.europa.eu/news/eu-secures-landmark-iccat-agreement-end-shark-finning-atlantic-and-mediterranean-2026-11-23_en",
-      "source": "欧盟委员会",
-      "title": "EU secures landmark ICCAT agreement to end shark finning in the Atlantic and Mediterranean",
-      "summary": "At the 2026 Annual Meeting of the International Commission for the Conservation of Atlantic Tunas (ICCAT) in Vilamoura, Portugal, ICCAT members, which include the European Union, reached a breakthrough agreement to strengthen action against shark finning in the Atlantic and Mediterranean.",
-      "url": "https://oceans-and-fisheries.ec.europa.eu/news/eu-secures-landmark-iccat-agreement-end-shark-finning-atlantic-and-mediterranean-2026-11-23_en",
-      "date": "2026-11-22T23:00:00+00:00"
-    },
-    {
-      "id": "https://transport.ec.europa.eu/news-events/news/winners-announced-2026-excellence-road-safety-awards-2026-11-23_en",
-      "source": "欧盟委员会",
-      "title": "Winners announced for the 2026 Excellence in Road Safety Awards",
-      "summary": "Today, the Commission revealed the winners of its 2026 Excellence in Road Safety Awards, which celebrate outstanding and innovative efforts to improve road safety throughout Europe.",
-      "url": "https://transport.ec.europa.eu/news-events/news/winners-announced-2026-excellence-road-safety-awards-2026-11-23_en",
-      "date": "2026-11-22T23:00:00+00:00"
-    },
-    {
-      "id": "https://oceans-and-fisheries.ec.europa.eu/news/eu-and-mauritania-reached-political-agreement-new-fisheries-protocol-2026-11-23_en",
-      "source": "欧盟委员会",
-      "title": "EU and Mauritania reached political agreement on a new fisheries Protocol",
-      "summary": "The European Union and Mauritania have reached a political agreement on a new Protocol to their Sustainable Fisheries Partnership Agreement (SFPA). This will allow their important fisheries partnership to continue and will provide a framework for sustainable fishing activities and cooperation in the",
-      "url": "https://oceans-and-fisheries.ec.europa.eu/news/eu-and-mauritania-reached-political-agreement-new-fisheries-protocol-2026-11-23_en",
-      "date": "2026-11-22T23:00:00+00:00"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRXU4blFEQWpXRWZmLVV1aFNJODloMGNJR0lyNHpxMGU0VUVUMGJ4bWF6S0gtcXdCYmZuYnNTVE9jR2lvUWlta1NzbnpLSXRoNldndUhaalg3MlMyalMzSWs1Q3Etc1Q0a0hjMHpEZG4xM0lnMmoxaXRCSVRRelZxSUlxdWFJb01tSE9CSkJ1d0dWMmRYXy1WWjlKQXMyLWQwR19sNGVnbncyTFF1TE5UQVJxSm03R3JreGFFdmktXzdOMXo0VmVpX01yOUc0cExvQnlDZzZhMHJDZE44M0RGZDBVX1BSa2s?oc=5",
       "source": "Reuters-全球贸易",
       "title": "Alleged China Access to Export Controlled Chips Fuels Securities Suit Against Alibaba - The D&O Diary",
@@ -211,76 +283,44 @@
       "date": "2026-11-22T16:08:35+00:00"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdGhFLVdNQVNlbl9tSXFrRmI4LS1VQmhxamhUS0F0WjhFMmoydGtBbG5Lc1AzbklUekQ0NDdvWDM0Q2Nfd2dOUTZEdE9MVnZCUVJtc1p3M0R4M2VjVS1zNUdXWWF1R2ZnNmpQU2lJSXNQQlM5WUk3cF92bDB3c3F5N3d6ZEEySktWeVRmSkE4SXR3R3JUaXhObmhjdmgzSEgxNTV6d3N0M2k5UU9uSDBsRXZiNzIxRWJsQmfSAb8BQVVfeXFMUElMcEVVRXcweUZhTloxWGJFdlN0UWx2ZDBBSm5DRzhiejNJZlgtWWV2eUpiQ0diajZlZ3BrbmZEMTJRZnU2eVBJWkwxdGNzTkprSElzTk05VXhKREVDcnYwN0t4aXl2V2VFbHZ4SWNuWEVvUXA5bEE1dm94UWU3aTBQT0phSEEydHdEMWYzSkNvbWtlbHVlajJRblRfUUc3eFBXTFZmd2VYQWh2RjMwZzM3N2ZYQ0l3OWhqS29mQm8?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVXZHdlYtQnFTY3k3TmNsR0JUZUxubmk5X2tkaFVxUTAwZkVIQTdwVWJudFdkcGQyRHlPTjRXUGNpelJ6eWs4ZmdVR0VwYlJSUFpuakZoVjlHRUNRN2ZJZElGUEg3YjZobVJvcFlJUXFBZ3QtOWk5OFZ4Qzd4YjZRZzZ3cUQ4SlYzaHU3THI0eF95TGVLYmJXSmdrME81dVFnVEpaSWZscThXVm9CNDNIYmxmZmZlZTTSAbwBQVVfeXFMTnBNanFqR2o1aFlhRVZHZDhObk5HbGNTQ3docVRMeTd5ZEczcHYzSVM0bDdFS2VuRC0yTUtZaFdQWlQxb2xfMTh1YllfV2VKeWpWdDBYcF9BSVVyTkR1X1JtU3ExY3JTdzFJMkF4MmNnWEsxRW00ZEdmdzQtMm41d0hHcU9WdUZ3WVNFQTFHbGxkS2F3TW9sNXBFcnVOci1QRmdVMHE0NWVOS0JmWmxEM05SSEM2aWtXUnB6cjc?oc=5",
       "source": "Reuters-全球贸易",
-      "title": "Bessent says no further restrictions are needed for Nvidia chip exports to China - PBS",
-      "summary": "Bessent says no further restrictions are needed for Nvidia chip exports to China&nbsp;&nbsp;PBS",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdGhFLVdNQVNlbl9tSXFrRmI4LS1VQmhxamhUS0F0WjhFMmoydGtBbG5Lc1AzbklUekQ0NDdvWDM0Q2Nfd2dOUTZEdE9MVnZCUVJtc1p3M0R4M2VjVS1zNUdXWWF1R2ZnNmpQU2lJSXNQQlM5WUk3cF92bDB3c3F5N3d6ZEEySktWeVRmSkE4SXR3R3JUaXhObmhjdmgzSEgxNTV6d3N0M2k5UU9uSDBsRXZiNzIxRWJsQmfSAb8BQVVfeXFMUElMcEVVRXcweUZhTloxWGJFdlN0UWx2ZDBBSm5DRzhiejNJZlgtWWV2eUpiQ0diajZlZ3BrbmZEMTJRZnU2eVBJWkwxdGNzTkprSElzTk05VXhKREVDcnYwN0t4aXl2V2VFbHZ4SWNuWEVvUXA5bEE1dm94UWU3aTBQT0phSEEydHdEMWYzSkNvbWtlbHVlajJRblRfUUc3eFBXTFZmd2VYQWh2RjMwZzM3N2ZYQ0l3OWhqS29mQm8?oc=5",
-      "date": "2026-11-21T16:28:20+00:00"
+      "title": "US lawmakers push for tougher AI chip rules amid China export crackdown - Al Jazeera",
+      "summary": "US lawmakers push for tougher AI chip rules amid China export crackdown&nbsp;&nbsp;Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVXZHdlYtQnFTY3k3TmNsR0JUZUxubmk5X2tkaFVxUTAwZkVIQTdwVWJudFdkcGQyRHlPTjRXUGNpelJ6eWs4ZmdVR0VwYlJSUFpuakZoVjlHRUNRN2ZJZElGUEg3YjZobVJvcFlJUXFBZ3QtOWk5OFZ4Qzd4YjZRZzZ3cUQ4SlYzaHU3THI0eF95TGVLYmJXSmdrME81dVFnVEpaSWZscThXVm9CNDNIYmxmZmZlZTTSAbwBQVVfeXFMTnBNanFqR2o1aFlhRVZHZDhObk5HbGNTQ3docVRMeTd5ZEczcHYzSVM0bDdFS2VuRC0yTUtZaFdQWlQxb2xfMTh1YllfV2VKeWpWdDBYcF9BSVVyTkR1X1JtU3ExY3JTdzFJMkF4MmNnWEsxRW00ZEdmdzQtMm41d0hHcU9WdUZ3WVNFQTFHbGxkS2F3TW9sNXBFcnVOci1QRmdVMHE0NWVOS0JmWmxEM05SSEM2aWtXUnB6cjc?oc=5",
+      "date": "2026-11-20T22:31:12+00:00"
     },
     {
-      "id": "https://commission.europa.eu/topics/trade/eu-indonesia-trade-agreement_en",
-      "source": "欧盟委员会",
-      "title": "EU and Indonesia sign trade and investment agreements",
-      "summary": "The EU and Indonesia have signed a Comprehensive Economic Partnership Agreement (CEPA) and an Investment Protection Agreement. The agreements will strengthen economic ties and encourage investment flows between the two economies.",
-      "url": "https://commission.europa.eu/topics/trade/eu-indonesia-trade-agreement_en",
-      "date": "2026-11-20T23:00:00+00:00"
+      "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUGdYSHZmcmEtdVU3ejZ4bm1DUUQzanFaZVZwd2RhMVlzUU8yMEpndTI0b1hkeHdrMFp4bV9NMzN1UTk3RG14clRKaVVtV2sySVNVeXhPendmVUF4N1ZBOXVjNzBEVE5RYkJDOUNMeTJEb0NkaW1Ma0lnUHdfZ21HX253?oc=5",
+      "source": "Reuters-全球贸易",
+      "title": "U.S. Government Establishes Export Controls to Address China AI “Remote Access” Concerns - JD Supra",
+      "summary": "U.S. Government Establishes Export Controls to Address China AI “Remote Access” Concerns&nbsp;&nbsp;JD Supra",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUGdYSHZmcmEtdVU3ejZ4bm1DUUQzanFaZVZwd2RhMVlzUU8yMEpndTI0b1hkeHdrMFp4bV9NMzN1UTk3RG14clRKaVVtV2sySVNVeXhPendmVUF4N1ZBOXVjNzBEVE5RYkJDOUNMeTJEb0NkaW1Ma0lnUHdfZ21HX253?oc=5",
+      "date": "2026-11-20T18:56:31+00:00"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6b2x0bWJPcjJLOWZudDhoSHlaZ0pBV1IwOEVkY29wYWxpNFhXQ1Q4blJHbWZzLTJ0MEpxRjI1eGdDTW40WTVyMTZLTEF4cElORlU4NnIta2o2cXVXRWRQMnMzem5hQ2ZnRzVjWnFKSWNndnpTaTFfbQ?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5Y2p6V1lHcGxiRXpkakdTNUhKMDdOYVJPT2xIR0tzYkQzNUR0SEsyOEUyOGZTdWxBQlkwM1lWMjhKTktDOEc2RGE0Q0lKcWRjYzRUbVBkZ3ZfVEFKWXVETUd5SzNSOFVLVzlEREp5c0dnaXlkRmMzRTJ3RQ?oc=5",
       "source": "Google News-中国商务部",
       "title": "贸易救济 - 中国贸易救济信息网",
       "summary": "贸易救济&nbsp;&nbsp;中国贸易救济信息网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6b2x0bWJPcjJLOWZudDhoSHlaZ0pBV1IwOEVkY29wYWxpNFhXQ1Q4blJHbWZzLTJ0MEpxRjI1eGdDTW40WTVyMTZLTEF4cElORlU4NnIta2o2cXVXRWRQMnMzem5hQ2ZnRzVjWnFKSWNndnpTaTFfbQ?oc=5",
-      "date": "2026-11-20T08:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5Y2p6V1lHcGxiRXpkakdTNUhKMDdOYVJPT2xIR0tzYkQzNUR0SEsyOEUyOGZTdWxBQlkwM1lWMjhKTktDOEc2RGE0Q0lKcWRjYzRUbVBkZ3ZfVEFKWXVETUd5SzNSOFVLVzlEREp5c0dnaXlkRmMzRTJ3RQ?oc=5",
+      "date": "2026-11-20T03:32:14+00:00"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdnk2bEFlaUVZN3JSTzlfalRjZTdIY0NrbUx2X0VTQU5HQ2stenVlWnI0LWo3dDdPNm5Nb1lOZi14aVNjOVQ5NFJ4ZGZRR3hSX3dHRHMyOWE4ZmpURjlQU1JqSzRPUHBUMUY1eHQ0eHZRc2xGSm8yYlRORkQ3dGo1QUdBaF9CZnJuMkhyMDA3dEd1Yk1UUnJ1OG1pSDZuQWM3SGo4c04tcmtlUUNMQmV0akNFVQ?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMjJIZHpwTDdiczlqUUozSmM0clM3RURTMXBiSFdzakxwbzhnLUhLdHpHcTE3MW9tVlpkMjE4N0xmRjFfbGxNNlFoa2Rnci14cTlVdkdFd3lacDBKVWk0VzNxSGtQbUZiS05TYlJBS1Z3N3JNU0wyb1pqUDMxNnNnaDBVdDhWbVJfVWJSemJJYzZIZVNqbXBV?oc=5",
       "source": "Reuters-全球贸易",
-      "title": "Nvidia scandal could be tipping point toward tougher export control enforcement - The Washington Post",
-      "summary": "Nvidia scandal could be tipping point toward tougher export control enforcement&nbsp;&nbsp;The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdnk2bEFlaUVZN3JSTzlfalRjZTdIY0NrbUx2X0VTQU5HQ2stenVlWnI0LWo3dDdPNm5Nb1lOZi14aVNjOVQ5NFJ4ZGZRR3hSX3dHRHMyOWE4ZmpURjlQU1JqSzRPUHBUMUY1eHQ0eHZRc2xGSm8yYlRORkQ3dGo1QUdBaF9CZnJuMkhyMDA3dEd1Yk1UUnJ1OG1pSDZuQWM3SGo4c04tcmtlUUNMQmV0akNFVQ?oc=5",
-      "date": "2026-11-20T04:00:29+00:00"
+      "title": "China tightens export controls on components for Russian drones - The Kyiv Independent",
+      "summary": "China tightens export controls on components for Russian drones&nbsp;&nbsp;The Kyiv Independent",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMjJIZHpwTDdiczlqUUozSmM0clM3RURTMXBiSFdzakxwbzhnLUhLdHpHcTE3MW9tVlpkMjE4N0xmRjFfbGxNNlFoa2Rnci14cTlVdkdFd3lacDBKVWk0VzNxSGtQbUZiS05TYlJBS1Z3N3JNU0wyb1pqUDMxNnNnaDBVdDhWbVJfVWJSemJJYzZIZVNqbXBV?oc=5",
+      "date": "2026-11-19T19:41:03+00:00"
     },
     {
-      "id": "https://commission.europa.eu/news-and-media/news/better-protected-your-next-credit-application-2026-11-20_en",
-      "source": "欧盟委员会",
-      "title": "Better protected for your next credit application",
-      "summary": "With the entry into force of a new EU law on consumer credit on 20 November 2026, our level of protection when signing up for a credit agreement increases. Designed to strengthen our rights and help us make informed choices, the EU law now covers loans up to €100,000.",
-      "url": "https://commission.europa.eu/news-and-media/news/better-protected-your-next-credit-application-2026-11-20_en",
-      "date": "2026-11-19T23:00:00+00:00"
-    },
-    {
-      "id": "https://energy.ec.europa.eu/news/eu-backs-global-compact-cut-energy-bills-and-emissions-buildings-2026-11-20_en",
-      "source": "欧盟委员会",
-      "title": "EU backs global compact to cut energy bills and emissions from buildings",
-      "summary": "Today, the European Union has endorsed the Antalya Compact for Energy Efficient Buildings, an initiative to reduce buildings’ energy intensity - energy consumed per m² - by at least 25% by 2035.",
-      "url": "https://energy.ec.europa.eu/news/eu-backs-global-compact-cut-energy-bills-and-emissions-buildings-2026-11-20_en",
-      "date": "2026-11-19T23:00:00+00:00"
-    },
-    {
-      "id": "https://home-affairs.ec.europa.eu/news/strategic-orientations-2027-2029-strengthen-radicalisation-prevention-2026-11-20_en",
-      "source": "欧盟委员会",
-      "title": "Strategic Orientations 2027–2029 strengthen the radicalisation prevention",
-      "summary": "On 20 November, the Steering Board on Prevention of Radicalisation endorsed the Strategic Orientations for 2027–2029. Aligned with the ProtectEU Agenda, the Strategic Orientations set a common framework to address evolving terrorist and extremist threats.",
-      "url": "https://home-affairs.ec.europa.eu/news/strategic-orientations-2027-2029-strengthen-radicalisation-prevention-2026-11-20_en",
-      "date": "2026-11-19T23:00:00+00:00"
-    },
-    {
-      "id": "https://energy.ec.europa.eu/news/gas-coordination-group-confirms-eus-winter-preparedness-importance-gas-storage-through-winter-2026-11-20_en",
-      "source": "欧盟委员会",
-      "title": "Gas Coordination Group confirms EU’s winter preparedness, importance of gas storage through the winter",
-      "summary": "Despite challenging price conditions and continued geopolitical uncertainty, experts from the EU countries, the Commission and stakeholder associations confirmed once again today in the latest meeting of the Gas Coordination Group that the EU is prepared for winter.",
-      "url": "https://energy.ec.europa.eu/news/gas-coordination-group-confirms-eus-winter-preparedness-importance-gas-storage-through-winter-2026-11-20_en",
-      "date": "2026-11-19T23:00:00+00:00"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFRrWXhLbGJZcHVKYzUycHNKbTdKZUE2clNGYUp5WFFBOTdaWndZbVdDZW0xSTQzUi1EZlRsRElldE00bktXMUFMaG1Sclo4eGdCVnZab1JUbWJwZHQ4cGFSTzgyNkZSZmF0WHAzR0hTa1B3eUQ5cmJRTGRfd1ZBdkFiSzNpU1RDeF8wU0pmbXBqWXYxeFNuaWdmV01QLWk0MWdrclJDV2ZYNVFFN0puWU9B?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaHpheEg0d2xuREpDYmtGRnZTT3NRWjNhMWxGSzdfRzdCRTY2M3p5SVgwYkUtU25JdGVtUlZTcm82SHUyYk9NUUxMUlZXUGozT0pyYTZMUjlMTU1HTjI5QnNLQm9IMmRUeTU1XzFEQ25SQUFKbS1WMXprSFB5Tmp3NURETQ?oc=5",
       "source": "Reuters-全球贸易",
-      "title": "US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says - Reuters",
-      "summary": "US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says&nbsp;&nbsp;Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFRrWXhLbGJZcHVKYzUycHNKbTdKZUE2clNGYUp5WFFBOTdaWndZbVdDZW0xSTQzUi1EZlRsRElldE00bktXMUFMaG1Sclo4eGdCVnZab1JUbWJwZHQ4cGFSTzgyNkZSZmF0WHAzR0hTa1B3eUQ5cmJRTGRfd1ZBdkFiSzNpU1RDeF8wU0pmbXBqWXYxeFNuaWdmV01QLWk0MWdrclJDV2ZYNVFFN0puWU9B?oc=5",
-      "date": "2026-11-19T20:11:00+00:00"
+      "title": "China Ratchets Up Its Weaponization of Trade - The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "summary": "China Ratchets Up Its Weaponization of Trade&nbsp;&nbsp;The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaHpheEg0d2xuREpDYmtGRnZTT3NRWjNhMWxGSzdfRzdCRTY2M3p5SVgwYkUtU25JdGVtUlZTcm82SHUyYk9NUUxMUlZXUGozT0pyYTZMUjlMTU1HTjI5QnNLQm9IMmRUeTU1XzFEQ25SQUFKbS1WMXprSFB5Tmp3NURETQ?oc=5",
+      "date": "2026-11-19T19:07:43+00:00"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRVloOHh2OXd6a1NJVjZYb1lFRW5fM1FNZ0tyVlU1S3lfeW1hNkJ2Q1VvUGdVZmFveWIzVGFER3NoZ2s3NVVTN25fcFFhSlZNdm0xcUpKWFN4R2ZBV19jZGIyT09tZDZNYUo4RmU0M1ZnTjd0OGRWRFhuWTVpUzBYV3pMOXg2VnByZEFRd05NZ0F3dU5TWGN6bVg4YklxT1h5SkZ3S0dkM0prVnV2Tmc?oc=5",
@@ -297,30 +337,6 @@
       "summary": "In this interim final rule (IFR), the Department of Commerce is establishing new rules to prevent certain foreign actors from leveraging advanced computing power based on U.S. technology to threaten U.S. national security and foreign policy interests. First, this rule establishes new restrictions which will apply for exports, reexports, or transfers (in-country) to overseas data centers that remotely supply significant volumes of compute to companies headquartered in Country Group D:5 or Macau. ",
       "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors",
       "date": "2026-11-19T05:00:00+00:00"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb0cyRko0OEN1RlRLT0VFTjBfeU1zZWllR193RFc3WVl4T2h1NmFJQjl4UEZJcWdKUmFuOWVXUTl1Qi1uaERobk1iZGpIR20ycjlNcl9lVDY3MzIxbmhJblA1ejlQOGE5Yi1iZUpZMkhEemo4RGFrMVIwSzJjMW5OY0RURDFrRWRUaFBweFZlS3BwWUg2WUhhWDY1Sno4QVV1eTU5cjRyT1VCZkZ5ZExvRQ?oc=5",
-      "source": "Reuters-全球贸易",
-      "title": "Trump lands in China for trade talks and high-stakes summit with Xi and Putin - PBS",
-      "summary": "Trump lands in China for trade talks and high-stakes summit with Xi and Putin&nbsp;&nbsp;PBS",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb0cyRko0OEN1RlRLT0VFTjBfeU1zZWllR193RFc3WVl4T2h1NmFJQjl4UEZJcWdKUmFuOWVXUTl1Qi1uaERobk1iZGpIR20ycjlNcl9lVDY3MzIxbmhJblA1ejlQOGE5Yi1iZUpZMkhEemo4RGFrMVIwSzJjMW5OY0RURDFrRWRUaFBweFZlS3BwWUg2WUhhWDY1Sno4QVV1eTU5cjRyT1VCZkZ5ZExvRQ?oc=5",
-      "date": "2026-11-18T23:55:44+00:00"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVHZYQ1lrcjFIV1p5VUJmWVpJVTRyN3lYelR0ckFoOVZyU0p5TVMzQzFxR0pUcjZwM1Z1WExsRG5KT0J6bWgyaktqQUYzRk93MWlsRURyRE5rUFlDTnJqbHNFbVltazZUYzR5VU12dWZIOTN5RnY5ajJHZktEckRScnVtSnl1cTdxX1FBdlczN1R3cmlEWkpQV29ubWdlNjZrcVJqTXgxOEVrNDA?oc=5",
-      "source": "Reuters-全球贸易",
-      "title": "New Export Controls on Remote Access: The Implications for Industry and Competition with China - CSIS | Center for Strategic and International Studies",
-      "summary": "New Export Controls on Remote Access: The Implications for Industry and Competition with China&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVHZYQ1lrcjFIV1p5VUJmWVpJVTRyN3lYelR0ckFoOVZyU0p5TVMzQzFxR0pUcjZwM1Z1WExsRG5KT0J6bWgyaktqQUYzRk93MWlsRURyRE5rUFlDTnJqbHNFbVltazZUYzR5VU12dWZIOTN5RnY5ajJHZktEckRScnVtSnl1cTdxX1FBdlczN1R3cmlEWkpQV29ubWdlNjZrcVJqTXgxOEVrNDA?oc=5",
-      "date": "2026-11-18T19:07:33+00:00"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc0dHN3dEWU8xaElLV21veDdXMWI3eUpBYWNYV2ZXSWZTUkJLX3dELUNmeEZhSGtlczFEMWFjXzZMTWhNRUJrZnlHT0VqN0ZYcXZwQ1dXTzJLSnJCREtWZXhQWVlQY20waTh4WlVZNmVTemVLM1l4UXNrbUJDd3p4OUhweklHT2F2SDRXTXpiWTRab3dIalpnQjVJNmc?oc=5",
-      "source": "Reuters-全球贸易",
-      "title": "Nvidia stops shipping US-approved AI chips to China - Reuters",
-      "summary": "Nvidia stops shipping US-approved AI chips to China&nbsp;&nbsp;Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc0dHN3dEWU8xaElLV21veDdXMWI3eUpBYWNYV2ZXSWZTUkJLX3dELUNmeEZhSGtlczFEMWFjXzZMTWhNRUJrZnlHT0VqN0ZYcXZwQ1dXTzJLSnJCREtWZXhQWVlQY20waTh4WlVZNmVTemVLM1l4UXNrbUJDd3p4OUhweklHT2F2SDRXTXpiWTRab3dIalpnQjVJNmc?oc=5",
-      "date": "2026-11-18T12:08:59+00:00"
     },
     {
       "id": "https://www.federalregister.gov/documents/2026/11/09/2026-22793/extension-of-the-suspension-of-expansion-of-end-user-controls-for-affiliates-of-certain-listed",
